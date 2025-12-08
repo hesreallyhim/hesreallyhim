@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/pre-vhs/commit/a0b67ab90f03ee763307396dbed1acdfc028ed67">a0b67ab</a>: chore: config tweak
+- <a href="https://github.com/hesreallyhim/emoji-free-zone/commit/2af4004093b76e9815beb2ea7143c84e91332798">2af4004</a>: chore: gitignore cache file
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
