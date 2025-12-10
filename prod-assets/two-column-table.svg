@@ -1,0 +1,92 @@
+<svg width="800" height="460" viewBox="0 0 800 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Two-column profile table</title>
+  <desc id="desc">Three-row table summarizing strengths with wrapped text and decorative headers.</desc>
+
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .grid { stroke: #d0d7de; stroke-width: 1; }
+      .head { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #0f172a; }
+      .body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #1f2328; }
+      .header-label { font-family: Georgia, "Times New Roman", serif; font-size: 18px; letter-spacing: 0.28em; fill: #111111; text-anchor: middle; }
+      .header-rule { stroke: #C7A252; stroke-width: 1; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <g aria-label="Column headers">
+    <g transform="translate(70,0)">
+      <text class="header-label" x="130" y="30">MY VALUES</text>
+      <line class="header-rule" x1="60" y1="40" x2="200" y2="40" />
+    </g>
+    <g transform="translate(470,0)">
+      <text class="header-label" x="130" y="30">MY VALUE</text>
+      <line class="header-rule" x1="70" y1="40" x2="190" y2="40" />
+    </g>
+  </g>
+
+  <g transform="translate(0,60)">
+    <rect class="bg" x="0.5" y="0.5" width="799" height="399" stroke="#d0d7de" stroke-width="1" />
+    <line class="grid" x1="400" y1="0" x2="400" y2="400" />
+    <line class="grid" x1="0" y1="150" x2="800" y2="150" />
+    <line class="grid" x1="0" y1="270" x2="800" y2="270" />
+
+    <g transform="translate(32,32)">
+      <text class="head" x="0" y="0">Engineering Excellence</text>
+      <text class="body" x="0" y="22">
+        <tspan x="0" dy="0">Contributor to major OSS projects and author of</tspan>
+        <tspan x="0" dy="18">developer tools that improve code quality</tspan>
+        <tspan x="0" dy="18">and enhance developer workflows.</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(432,32)">
+      <text class="head" x="0" y="0">Systems Thinking &amp; Technical Breadth</text>
+      <text class="body" x="0" y="22">
+        <tspan x="0" dy="0">Deep knowledge of systems design and attention</tspan>
+        <tspan x="0" dy="18">to fine-grained details of code quality,</tspan>
+        <tspan x="0" dy="18">infrastructure, and project planning,</tspan>
+        <tspan x="0" dy="18">including how modern AI-assisted development</tspan>
+        <tspan x="0" dy="18">shapes them.</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(32,170)">
+      <text class="head" x="0" y="0">Creative Exploration</text>
+      <text class="body" x="0" y="22">
+        <tspan x="0" dy="0">Exploring novel solutions by pushing the boundaries</tspan>
+        <tspan x="0" dy="18">of what’s possible in developer-facing environments</tspan>
+        <tspan x="0" dy="18">— including discovering new forms of interaction</tspan>
+        <tspan x="0" dy="18">within GitHub resources and README experiences.</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(432,170)">
+      <text class="head" x="0" y="0">Pragmatic Approach to Engineering</text>
+      <text class="body" x="0" y="22">
+        <tspan x="0" dy="0">Decisions grounded in evidence and thoughtful planning:</tspan>
+        <tspan x="0" dy="18">excited by new technologies, but cautious about rapid</tspan>
+        <tspan x="0" dy="18">adoption of unproven tools.</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(32,290)">
+      <text class="head" x="0" y="0">Community &amp; Education</text>
+      <text class="body" x="0" y="22">
+        <tspan x="0" dy="0">A clear history of uplifting independent developers</tspan>
+        <tspan x="0" dy="18">and contributing to important community resources,</tspan>
+        <tspan x="0" dy="18">while advocating for the rights and well-being</tspan>
+        <tspan x="0" dy="18">of open-source authors.</tspan>
+      </text>
+    </g>
+
+    <g transform="translate(432,290)">
+      <text class="head" x="0" y="0">Adaptive Communication</text>
+      <text class="body" x="0" y="22">
+        <tspan x="0" dy="0">A skill developed through years of teaching and</tspan>
+        <tspan x="0" dy="18">technical mentoring: the ability to adjust</tspan>
+        <tspan x="0" dy="18">explanation, tone, and detail to match the</tspan>
+        <tspan x="0" dy="18">background and needs of the listener.</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

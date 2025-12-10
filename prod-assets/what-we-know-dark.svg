@@ -1,0 +1,92 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">What we know so far</title>
+  <desc id="desc">List of observations about the subject in a dark cyberpunk style.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0f1f" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7ae0ff" stop-opacity="0.0" />
+      <stop offset="20%" stop-color="#7ae0ff" stop-opacity="0.9" />
+      <stop offset="80%" stop-color="#c084fc" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.0" />
+    </linearGradient>
+    <style>
+      .panel { fill: url(#bg); stroke: #2a3650; stroke-width: 1.2; }
+      .title { font-family: "Space Mono", "SFMono-Regular", Consolas, monospace; font-size: 18px; font-weight: 700; fill: #e2e8f0; letter-spacing: 0.08em; }
+      .fact { font-family: "Inter", "Helvetica Neue", Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #d7e2f2; }
+      .bullet { fill: #7ae0ff; }
+      .divider { stroke: #7ae0ff; stroke-width: 1; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <rect x="12" y="12" width="776" height="396" rx="14" class="panel" />
+
+  <rect x="28" y="36" width="744" height="4" rx="2" fill="url(#glow)">
+    <animate attributeName="x" values="28;16;28" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" />
+  </rect>
+
+  <text class="title" x="40" y="80">WHAT WE KNOW SO FAR ("THE FACTS")</text>
+  <line class="divider" x1="40" y1="92" x2="320" y2="92" />
+
+  <g transform="translate(56,118)">
+    <circle class="bullet" cx="0" cy="0" r="3" />
+    <text class="fact" x="12" y="4">
+      <tspan x="12" dy="0">Human person - software engineer - 10 years of experience, including prolonged</tspan>
+      <tspan x="12" dy="18">episodes of actual typing.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(56,158)">
+    <circle class="bullet" cx="0" cy="0" r="3" />
+    <text class="fact" x="12" y="4">
+      <tspan x="12" dy="0">A.I. Consultant - offers expert guidance to clients who want to incorporate A.I.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(56,188)">
+    <circle class="bullet" cx="0" cy="0" r="3" />
+    <text class="fact" x="12" y="4">
+      <tspan x="12" dy="0">Skills with GitHub seem... irregular, inexplicable. Seems to have discovered</tspan>
+      <tspan x="12" dy="18">a way to use GitHub as a gaming platform.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(56,228)">
+    <circle class="bullet" cx="0" cy="0" r="3" />
+    <text class="fact" x="12" y="4">
+      <tspan x="12" dy="0">Uses absurd language such as "README artist". Possibly symptoms of psychosis,</tspan>
+      <tspan x="12" dy="18">or just curiosity.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(56,268)">
+    <circle class="bullet" cx="0" cy="0" r="3" />
+    <text class="fact" x="12" y="4">
+      <tspan x="12" dy="0">Heavily armed with an advanced degree - potentially highly skilled and creative.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(56,298)">
+    <circle class="bullet" cx="0" cy="0" r="3" />
+    <text class="fact" x="12" y="4">
+      <tspan x="12" dy="0">Proven track record of open-source contributions, and developer advocate.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(56,328)">
+    <circle class="bullet" cx="0" cy="0" r="3" />
+    <text class="fact" x="12" y="4">
+      <tspan x="12" dy="0">Seems to be entirely devoid of humor and exhibits complete lack of self-awareness.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(56,358)">
+    <circle class="bullet" cx="0" cy="0" r="3" />
+    <text class="fact" x="12" y="4">
+      <tspan x="12" dy="0">Dual personality - appears one way in the light (mode) and completely different</tspan>
+      <tspan x="12" dy="18">in the dark (mode).</tspan>
+    </text>
+  </g>
+</svg>

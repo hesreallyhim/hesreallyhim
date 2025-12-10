@@ -1,0 +1,11 @@
+<svg width="500" height="30" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="30" fill="#0a0a12" stroke="#ff00ff" stroke-width="1"/>
+
+  <circle cx="15" cy="15" r="6" fill="#00ff00">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="30" y="20" font-family="'Share Tech Mono', monospace" font-size="12" fill="#00ffff">
+    ONLINE :: READY FOR NEW PROJECTS
+  </text>
+</svg>

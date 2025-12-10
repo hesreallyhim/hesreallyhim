@@ -1,0 +1,58 @@
+<svg width="480" height="40" viewBox="0 0 480 40" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style>
+      .rule { stroke:#C7A252; stroke-width:0.8; stroke-linecap:round; }
+      .icon { stroke:#C7A252; stroke-width:1; fill:none; }
+    </style>
+  </defs>
+
+  <!-- Horizontal rules -->
+  <line class="rule" x1="40" y1="12" x2="440" y2="12" />
+  <line class="rule" x1="40" y1="28" x2="440" y2="28" />
+
+  <!-- LEFT ICON -->
+  <g transform="translate(160,20)">
+    <circle class="icon" r="5"/>
+    <line class="icon" x1="0" y1="-7.5" x2="0" y2="-4.5"/>
+    <line class="icon" x1="7.5" y1="0" x2="4.5" y2="0"/>
+    <line class="icon" x1="0" y1="7.5" x2="0" y2="4.5"/>
+    <line class="icon" x1="-7.5" y1="0" x2="-4.5" y2="0"/>
+
+    <!-- Drift: 160 → 130 → 160 -->
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      dur="20s"
+      repeatCount="indefinite"
+      values="160,20; 100,20; 160,20"
+      keyTimes="0;0.5;1"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
+  </g>
+
+  <!-- CENTER ICON (static) -->
+  <g transform="translate(240,20)">
+    <line class="icon" x1="-6" y1="0" x2="6" y2="0"/>
+    <line class="icon" x1="0" y1="-6" x2="0" y2="6"/>
+    <line class="icon" x1="-4.2" y1="-4.2" x2="4.2" y2="4.2"/>
+    <line class="icon" x1="-4.2" y1="4.2" x2="4.2" y2="-4.2"/>
+  </g>
+
+  <!-- RIGHT ICON -->
+  <g transform="translate(320,20)">
+    <path class="icon" d="M -6 -4 L 0 -2 L 6 -4 L 6 4 L 0 2 L -6 4 Z" />
+
+    <!-- Drift: 320 → 350 → 320 -->
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      dur="20s"
+      repeatCount="indefinite"
+      values="320,20; 380,20; 320,20"
+      keyTimes="0;0.5;1"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" />
+  </g>
+
+</svg>

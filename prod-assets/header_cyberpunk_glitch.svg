@@ -1,0 +1,91 @@
+<svg width="800" height="260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Neon glow filter -->
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00ffff" stroke-width="0.5" opacity="0.15"/>
+    </pattern>
+
+    <!-- Neon gradients -->
+    <linearGradient id="cyanMagenta" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ffff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ff00ff;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Dark background -->
+  <rect width="800" height="260" fill="#0a0a12"/>
+
+  <!-- Grid background -->
+  <rect width="800" height="260" fill="url(#grid)"/>
+
+  <!-- Scanning line effect -->
+  <rect width="800" height="3" fill="#00ffff" opacity="0.3">
+    <animate attributeName="y" from="-3" to="260" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- UNIQUE FLOURISH: RGB split glitch effect on text -->
+  <!-- Red channel (offset right) -->
+  <text x="402" y="110" font-family="'Orbitron', 'Rajdhani', sans-serif" font-size="68" font-weight="900" fill="#ff0040" opacity="0.7" text-anchor="middle">
+    <tspan>hesreallyhim</tspan>
+    <animate attributeName="x" values="402;405;402;404;402" dur="0.3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Blue channel (offset left) -->
+  <text x="398" y="110" font-family="'Orbitron', 'Rajdhani', sans-serif" font-size="68" font-weight="900" fill="#00ffff" opacity="0.7" text-anchor="middle">
+    <tspan>hesreallyhim</tspan>
+    <animate attributeName="x" values="398;395;398;396;398" dur="0.3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Main text (green/white) -->
+  <text x="400" y="110" font-family="'Orbitron', 'Rajdhani', sans-serif" font-size="68" font-weight="900" fill="#ffffff" filter="url(#neonGlow)" text-anchor="middle">
+    <tspan>hesreallyhim</tspan>
+  </text>
+
+  <!-- Glitch bars (random appearing bars) -->
+  <rect x="200" y="85" width="150" height="3" fill="#00ffff" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.8;0;0;0;0;0;0.6;0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="500" y="105" width="120" height="2" fill="#ff00ff" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0.7;0;0;0;0;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Cyberpunk tagline -->
+  <text x="400" y="155" font-family="'Share Tech Mono', monospace" font-size="16" font-weight="400" fill="#00ffff" text-anchor="middle" opacity="0.9">
+    <tspan>&lt; SOFTWARE &amp; AI ENGINEERING /&gt;</tspan>
+  </text>
+
+  <!-- Neon accent lines -->
+  <line x1="250" y1="180" x2="550" y2="180" stroke="url(#cyanMagenta)" stroke-width="2" filter="url(#neonGlow)">
+    <animate attributeName="stroke-dasharray" values="0,300;300,0" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Status indicator -->
+  <g transform="translate(320, 200)">
+    <rect width="160" height="32" fill="#0a0a12" stroke="#00ffff" stroke-width="2" rx="4"/>
+    <text x="80" y="21" font-family="'Share Tech Mono', monospace" font-size="14" font-weight="700" fill="#00ffff" text-anchor="middle">
+      [ AVAILABLE ]
+    </text>
+    <!-- Blinking bracket -->
+    <text x="15" y="21" font-family="'Share Tech Mono', monospace" font-size="14" font-weight="700" fill="#ff00ff">
+      <tspan>&gt;</tspan>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Corner brackets (cyberpunk aesthetic) -->
+  <path d="M 50 40 L 50 20 L 70 20" stroke="#ff00ff" stroke-width="2" fill="none" filter="url(#neonGlow)"/>
+  <path d="M 750 40 L 750 20 L 730 20" stroke="#00ffff" stroke-width="2" fill="none" filter="url(#neonGlow)"/>
+  <path d="M 50 220 L 50 240 L 70 240" stroke="#00ffff" stroke-width="2" fill="none" filter="url(#neonGlow)"/>
+  <path d="M 750 220 L 750 240 L 730 240" stroke="#ff00ff" stroke-width="2" fill="none" filter="url(#neonGlow)"/>
+</svg>

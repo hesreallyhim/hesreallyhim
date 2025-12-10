@@ -1,0 +1,11 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Recommendation</title>
+  <desc id="desc">Call to action banner stating reach out immediately.</desc>
+  <defs>
+    <style>
+      .label { font-family: "Space Mono", "SFMono-Regular", Consolas, monospace; font-size: 16px; font-weight: 700; letter-spacing: 0.1em; fill: #e2e8f0; text-transform: uppercase; }
+    </style>
+  </defs>
+
+  <text class="label" x="40" y="48">RECOMMENDATION - REACH OUT IMMEDIATELY</text>
+</svg>
