@@ -84,3 +84,9 @@
   <source media="(prefers-color-scheme: light)" srcset="prod-assets/table-divider.svg">
   <img src="prod-assets/table-divider.svg" />
 </picture></div>
+
+<div align="center" margin="none"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="prod-assets/particle-GITHUB-black.gif">
+  <source media="(prefers-color-scheme: light)" srcset="prod-assets/particle-GITHUB-white.gif">
+  <img src="prod-assets/table-divider.svg" />
+</picture></div>
