@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/emoji-free-zone/commit/2af4004093b76e9815beb2ea7143c84e91332798">2af4004</a>: chore: gitignore cache file
+- <a href="https://github.com/hesreallyhim/svg-to-gif/commit/1c15ff49bc3154f302459d841715c0442df54fda">1c15ff4</a>: chore: format
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
