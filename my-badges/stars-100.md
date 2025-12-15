@@ -45,6 +45,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim-forks/ccmanager-fork">hesreallyhim-forks/ccmanager-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/transfer-github-forks">hesreallyhim/transfer-github-forks: ★1</a>
 * <a href="https://github.com/hesreallyhim/skills-introduction-to-github">hesreallyhim/skills-introduction-to-github: ★1</a>
+* <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

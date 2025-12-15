@@ -42,6 +42,7 @@ Pull requests:
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/367">#367</a>: UNDER CONSTRUCTION
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/370">#370</a>: add README_BACKUP
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/377">#377</a>: Improve readability
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/382">#382</a>: More better readableness
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/156">#156</a>: Fix/fix broken link
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/284">#284</a>: Updates 10 29
 
