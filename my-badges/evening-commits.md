@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/843267f3a572613e69c1a3a503c994e4f164832b">843267f</a>
-- <a href="https://github.com/hesreallyhim/the-dot-github-repository/commit/b2b5daf106a77feb0b67b6b9de3d4cb74a0adcc9">b2b5daf</a>
-- <a href="https://github.com/hesreallyhim/the-dot-github-repository/commit/7c5045eaf42f476958b75fe0a69bbbd769f50e45">7c5045e</a>
-- <a href="https://github.com/hesreallyhim/the-dot-github-repository/commit/e0baf903af45231efd521601043d05adfcd871c4">e0baf90</a>
-- <a href="https://github.com/hesreallyhim/the-dot-github-repository/commit/6b1510df59bd47e958026aac9d126d9dce8c0e2b">6b1510d</a>
-- <a href="https://github.com/hesreallyhim/the-dot-github-repository/commit/7b7ac2edd9db698546045901cd21b03b7b035909">7b7ac2e</a>
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/6d2152a146bccdae95f3ecb1eeb120306dc1a86b">6d2152a</a>
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/e5cda5c05016a76fcc6681337e385b178b77e775">e5cda5c</a>
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/02df7251d4476908fbe644103215f8265fda1241">02df725</a>
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/21ed529c9218db241e44f21f2735110972f86cd2">21ed529</a>
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/9bd13a989d0e41f0ab360a82d26f81877a3e2379">9bd13a9</a>
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/12c1d66beec17ff0ec4b466372ae92a133748b86">12c1d66</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

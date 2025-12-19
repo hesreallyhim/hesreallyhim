@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★18226</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★18268</a>
 * <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1083</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★33</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★19</a>
@@ -49,6 +49,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/transfer-github-forks">hesreallyhim/transfer-github-forks: ★1</a>
 * <a href="https://github.com/hesreallyhim/skills-introduction-to-github">hesreallyhim/skills-introduction-to-github: ★1</a>
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★1</a>
+* <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
