@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★19</a>
-* <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★17</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★16</a>
 * <a href="https://github.com/hesreallyhim/claude-code-containers">hesreallyhim/claude-code-containers: ★7</a>
 * <a href="https://github.com/hesreallyhim/server-nothing">hesreallyhim/server-nothing: ★5</a>
 * <a href="https://github.com/hesreallyhim/mcp-rando-server">hesreallyhim/mcp-rando-server: ★3</a>
