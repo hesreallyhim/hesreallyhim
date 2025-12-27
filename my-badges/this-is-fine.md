@@ -4,6 +4,7 @@
 
 Pull requests:
 
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/421">#421</a>: feat: add flat list README views with category filters and sort options
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/106">#106</a>: ci: badge notification action
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/110">#110</a>: CI: Announcements and Newly-Added are generated
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/112">#112</a>: Feature/unified category system
