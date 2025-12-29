@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1094</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1095</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★33</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★19</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★15</a>
@@ -46,6 +46,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/trackignore">hesreallyhim/trackignore: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/ccmanager-fork">hesreallyhim-forks/ccmanager-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/transfer-github-forks">hesreallyhim/transfer-github-forks: ★1</a>
+* <a href="https://github.com/hesreallyhim/hesreallyhim">hesreallyhim/hesreallyhim: ★1</a>
 * <a href="https://github.com/hesreallyhim/skills-introduction-to-github">hesreallyhim/skills-introduction-to-github: ★1</a>
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★1</a>
 * <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★1</a>
