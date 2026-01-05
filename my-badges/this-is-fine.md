@@ -31,7 +31,7 @@ Pull requests:
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/231">#231</a>: Fixes: Updates to README - clean house on old scripts
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/232">#232</a>: update: agent skills
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/234">#234</a>: feat: add skills category
-- <a href="https://github.com/hesreallyhim/github-readme-stats-plus/pull/10">#10</a>: Fix tests
+- <a href="https://github.com/hesreallyhim/github-readme-stats-forked/pull/10">#10</a>: Fix tests
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/263">#263</a>: Add new category - alternative clients
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/278">#278</a>: Fitter happier
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/279">#279</a>: Update

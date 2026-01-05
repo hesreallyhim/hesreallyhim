@@ -11,9 +11,9 @@ Commits:
 - <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/e17fbd210c22d68c7dfae8c03621e6aa67e3caa1">e17fbd2</a>
 - <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/521d9bc1e58131436089bbe29c054cb85fb895ef">521d9bc</a>
 - <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/ef691fded3453d15ec1c7959058844bb8b60a134">ef691fd</a>
-- <a href="https://github.com/hesreallyhim/github-readme-stats-plus/commit/8d27de3be15d2f19b12648f3f4e61c9542266117">8d27de3</a>
-- <a href="https://github.com/hesreallyhim/github-readme-stats-plus/commit/85ea82c88bf376d21a9fd4b7375b4ef73e36dc95">85ea82c</a>
-- <a href="https://github.com/hesreallyhim/github-readme-stats-plus/commit/183718ea500288c1d0fe9d0dbfc0b33cd454e38f">183718e</a>
+- <a href="https://github.com/hesreallyhim/github-readme-stats-forked/commit/8d27de3be15d2f19b12648f3f4e61c9542266117">8d27de3</a>
+- <a href="https://github.com/hesreallyhim/github-readme-stats-forked/commit/85ea82c88bf376d21a9fd4b7375b4ef73e36dc95">85ea82c</a>
+- <a href="https://github.com/hesreallyhim/github-readme-stats-forked/commit/183718ea500288c1d0fe9d0dbfc0b33cd454e38f">183718e</a>
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/42e97c532a0567717c1d9492ebf96295924c1224">42e97c5</a>
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/42b3623a5bbe65854dfa7fdfbde6b256b28f3f98">42b3623</a>
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/1c42f3264fc3bb1b5a079f7d6336ad43503226bf">1c42f32</a>

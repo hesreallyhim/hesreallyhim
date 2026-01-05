@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/hesreallyhim/github-readme-stats-plus/pull/9">#9</a>: Merge upstream master
+- <a href="https://github.com/hesreallyhim/github-readme-stats-forked/pull/9">#9</a>: Merge upstream master
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
