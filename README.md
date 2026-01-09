@@ -1,9 +1,8 @@
 <div align="center" margin="none"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="prod-assets/particle-GITHUB-black.gif">
-  <source media="(prefers-color-scheme: light)" srcset="prod-assets/particle-GITHUB-white.gif">
-  <img src="prod-assets/particle-GITHUB-black.gif" />
+  <img src="./assets/the-full-diff/2026-01-09.svg" />
 </picture></div>
 
+<!-- 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="prod-assets/header_cyberpunk_glitch.svg">
     <source media="(prefers-color-scheme: light)" srcset="prod-assets/header_fashion_editorial.svg">
@@ -52,9 +51,14 @@
   <source media="(prefers-color-scheme: dark)" srcset="prod-assets/pixel_transparent.svg">
   <source media="(prefers-color-scheme: light)" srcset="prod-assets/table-divider.svg">
   <img src="prod-assets/table-divider.svg" />
-</picture></div>
+</picture></div> -->
 
 <br>
+
+&nbsp;
+
+<br>
+
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
