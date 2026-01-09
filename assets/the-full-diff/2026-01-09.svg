@@ -15,7 +15,7 @@
       </filter>
       <filter id="inkLight" x="-1%" y="-1%" width="102%" height="102%">
         <feMorphology operator="dilate" radius="0.1"/>
-        <feGaussianBlur stdDeviation="0.15"/>
+        <feGaussianBlur stdDeviation="0.8"/>
         <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
       </filter>
       <radialGradient id="cornerTL" cx="0%" cy="0%" r="35%">
