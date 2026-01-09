@@ -10,7 +10,7 @@
       </pattern>
       <filter id="inkHeavy" x="-2%" y="-2%" width="104%" height="104%">
         <feMorphology operator="dilate" radius="0.2"/>
-        <feGaussianBlur stdDeviation="0.25"/>
+        <feGaussianBlur stdDeviation="0.02"/>
         <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
       </filter>
       <filter id="inkLight" x="-1%" y="-1%" width="102%" height="102%">
