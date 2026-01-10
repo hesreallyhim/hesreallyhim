@@ -4,20 +4,20 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★19688</a>
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1119</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★19768</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1120</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★33</a>
-* <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★19</a>
+* <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★20</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★19</a>
 * <a href="https://github.com/hesreallyhim/claude-code-containers">hesreallyhim/claude-code-containers: ★7</a>
 * <a href="https://github.com/hesreallyhim/server-nothing">hesreallyhim/server-nothing: ★5</a>
+* <a href="https://github.com/hesreallyhim/mcp-spec-assessments">hesreallyhim/mcp-spec-assessments: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-rando-server">hesreallyhim/mcp-rando-server: ★3</a>
 * <a href="https://github.com/hesreallyhim-forks/cc-tools-fork">hesreallyhim-forks/cc-tools-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/claude-code-workflows">hesreallyhim/claude-code-workflows: ★2</a>
 * <a href="https://github.com/hesreallyhim/streamlit-chatbot">hesreallyhim/streamlit-chatbot: ★2</a>
 * <a href="https://github.com/hesreallyhim/terrible-claude-code">hesreallyhim/terrible-claude-code: ★2</a>
 * <a href="https://github.com/hesreallyhim/spam-this-repo">hesreallyhim/spam-this-repo: ★2</a>
-* <a href="https://github.com/hesreallyhim/mcp-spec-assessments">hesreallyhim/mcp-spec-assessments: ★2</a>
 * <a href="https://github.com/hesreallyhim-forks/claudecodeui-fork">hesreallyhim-forks/claudecodeui-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim-forks/awesome-claude-agents-fork">hesreallyhim-forks/awesome-claude-agents-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim-forks/agents-fork">hesreallyhim-forks/agents-fork: ★2</a>
@@ -29,10 +29,11 @@ Repos:
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★2</a>
 * <a href="https://github.com/hesreallyhim/priv-goals">hesreallyhim/priv-goals: ★1</a>
+* <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
+* <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★1</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/modelcontextprotocol">hesreallyhim-forks/modelcontextprotocol: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-composer-fork">hesreallyhim-forks/claude-composer-fork: ★1</a>
-* <a href="https://github.com/hesreallyhim-forks/claude-hooks-sdk-fork">hesreallyhim-forks/claude-hooks-sdk-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claudia-fork">hesreallyhim-forks/claudia-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-runner-fork">hesreallyhim-forks/claude-task-runner-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-master-fork">hesreallyhim-forks/claude-task-master-fork: ★1</a>
@@ -55,6 +56,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/svg-to-gif">hesreallyhim/svg-to-gif: ★1</a>
 * <a href="https://github.com/hesreallyhim/claude-codex-settings">hesreallyhim/claude-codex-settings: ★1</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-tracker">hesreallyhim/github-api-usage-tracker: ★1</a>
+* <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
