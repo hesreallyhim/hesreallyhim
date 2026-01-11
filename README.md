@@ -1,5 +1,5 @@
 <div align="center" margin="none"><picture>
-  <img src="./assets/the-full-diff/2026-01-10.svg" />
+  <img src="./assets/the-full-diff/2026-01-11.svg" />
 </picture></div>
 
 <!-- 
