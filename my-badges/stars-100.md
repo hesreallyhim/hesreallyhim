@@ -31,6 +31,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/modelcontextprotocol">hesreallyhim-forks/modelcontextprotocol: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-composer-fork">hesreallyhim-forks/claude-composer-fork: ★1</a>
+* <a href="https://github.com/hesreallyhim-forks/claude-hooks-sdk-fork">hesreallyhim-forks/claude-hooks-sdk-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claudia-fork">hesreallyhim-forks/claudia-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-runner-fork">hesreallyhim-forks/claude-task-runner-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-master-fork">hesreallyhim-forks/claude-task-master-fork: ★1</a>

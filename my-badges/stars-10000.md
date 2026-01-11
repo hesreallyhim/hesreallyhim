@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★19768</a>
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1120</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★19867</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1121</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★33</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★20</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★19</a>
@@ -34,6 +34,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/modelcontextprotocol">hesreallyhim-forks/modelcontextprotocol: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-composer-fork">hesreallyhim-forks/claude-composer-fork: ★1</a>
+* <a href="https://github.com/hesreallyhim-forks/claude-hooks-sdk-fork">hesreallyhim-forks/claude-hooks-sdk-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claudia-fork">hesreallyhim-forks/claudia-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-runner-fork">hesreallyhim-forks/claude-task-runner-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-master-fork">hesreallyhim-forks/claude-task-master-fork: ★1</a>
