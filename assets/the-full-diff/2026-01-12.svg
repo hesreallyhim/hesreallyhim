@@ -1,0 +1,215 @@
+<svg viewBox="0 0 420 980" xmlns="http://www.w3.org/2000/svg"><defs>
+      <pattern id="newsprint" patternUnits="userSpaceOnUse" width="3" height="3">
+        <rect width="3" height="3" fill="#E0DCD7"/>
+        <circle cx="1.5" cy="1.5" r="0.35" fill="#CCC8C3" opacity="0.6"/>
+      </pattern>
+      <pattern id="fiber" patternUnits="userSpaceOnUse" width="120" height="120">
+        <rect width="120" height="120" fill="transparent"/>
+        <line x1="0" y1="31" x2="120" y2="31" stroke="#C5C1BC" stroke-width="0.25" opacity="0.4"/>
+        <line x1="0" y1="79" x2="120" y2="79" stroke="#C5C1BC" stroke-width="0.2" opacity="0.3"/>
+      </pattern>
+      <filter id="inkHeavy" x="-2%" y="-2%" width="104%" height="104%">
+        <feMorphology operator="dilate" radius="0.2"/>
+        <feGaussianBlur stdDeviation="0.25"/>
+        <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      <filter id="inkLight" x="-1%" y="-1%" width="102%" height="102%">
+        <feMorphology operator="dilate" radius="0.1"/>
+        <feGaussianBlur stdDeviation="0.15"/>
+        <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      <radialGradient id="cornerTL" cx="0%" cy="0%" r="35%">
+        <stop offset="0%" style="stop-color:rgba(160,155,145,0.1)"/>
+        <stop offset="100%" style="stop-color:transparent"/>
+      </radialGradient>
+      <radialGradient id="cornerBR" cx="100%" cy="100%" r="35%">
+        <stop offset="0%" style="stop-color:rgba(160,155,145,0.08)"/>
+        <stop offset="100%" style="stop-color:transparent"/>
+      </radialGradient>
+    </defs><rect width="420" height="980" fill="#E0DCD7"/><rect width="420" height="980" fill="url(#newsprint)"/><rect width="420" height="980" fill="url(#fiber)"/><line x1="16" y1="14" x2="404" y2="14" stroke="#1A1A1A" stroke-width="2.0"/><line x1="16" y1="18" x2="404" y2="18" stroke="#1A1A1A" stroke-width="0.5"/>
+
+    <text x="210" y="48" font-family="'Old Standard TT', Georgia, serif" font-size="22" fill="#0F0F0F" text-anchor="middle" font-weight="700" letter-spacing="3">
+    THE FULL DIFF
+    </text>
+
+    <text x="210" y="64" font-family="Georgia, serif" font-size="10" fill="#3A3A3A" text-anchor="middle" letter-spacing="1.6" font-style="italic">
+    IT MIGHT NOT BE GREAT, BUT I PROMISE IT'LL GET BETTER 
+    </text>
+    
+    <line x1="16" y1="72" x2="404" y2="72" stroke="#1A1A1A" stroke-width="0.4"/><g font-family="Georgia, serif" font-size="10" fill="#4A4A4A"><text x="16" y="86">
+    VOL. I
+    </text><text x="210" y="86" text-anchor="middle">TUES., JAN 12, 2026</text><text x="404" y="86" text-anchor="end">FREE</text></g><line x1="16" y1="92" x2="404" y2="92" stroke="#1A1A1A" stroke-width="2.0"/><text x="16" y="110" font-family="Georgia, serif" font-size="12" fill="#1A1A1A" font-weight="700" letter-spacing="2">
+    
+    HEADLINE
+    
+    </text><line x1="16" y1="116" x2="404" y2="116" stroke="#1A1A1A" stroke-width="0.3"/><text font-family="'Old Standard TT', Georgia, serif" fill="#0F0F0F" font-weight="700"><tspan x="16" y="140" font-size="20" font-weight="700">
+    
+    RALPH-MANIA CONTINUES
+    
+    </tspan><tspan x="16" y="164" font-size="20" font-weight="700">
+    
+    TO DOMINATE THE HEADLINES
+    
+    </tspan></text><text x="16" y="192" font-family="Georgia, serif" font-size="12" fill="#5A5A5A" font-style="italic">
+    
+    major updates · really important
+    
+    </text><line x1="16" y1="202" x2="404" y2="202" stroke="#6A6A6A" stroke-width="0.3"/><text font-family="Georgia, serif" fill="#1A1A1A"><tspan x="16" y="220" font-size="12" font-weight="400">
+    
+    The "Summer of Ralph" continues, as more and more developers
+    
+    </tspan><tspan x="16" y="236" font-size="12" font-weight="400">
+    
+    decide to abandon "Clean Code" and give their attention to
+    
+    </tspan><tspan x="16" y="252" font-size="12" font-weight="400">
+    
+    "Ralph Mode". According to one senior engineer that we spoke to,
+    
+    </tspan><tspan x="16" y="268" font-size="12" font-weight="400">
+    
+    their team has stopped organizing work in terms of "sprints"
+    
+    </tspan><tspan x="16" y="284" font-size="12" font-weight="400">
+    
+    and instead are planning their quarterly roadmap in terms of
+
+    </tspan><tspan x="16" y="300" font-size="12" font-weight="400">
+    
+    a system of "naps". We'll explore this fascinating topic for at least
+    
+    </tspan><tspan x="16" y="316" font-size="12" font-weight="400">
+    
+    for another day, until I think of something better to talk about.
+
+    </tspan></text><line x1="16" y1="324" x2="404" y2="324" stroke="#1A1A1A" stroke-width="0.6"/><text x="16" y="346" font-family="Georgia, serif" font-size="12" fill="#1A1A1A" font-weight="700" letter-spacing="2">
+    
+    IT'S A RALPH, RALPH, RALPH WORLD
+    
+    </text><line x1="16" y1="356" x2="404" y2="356" stroke="#1A1A1A" stroke-width="0.3"/><text x="16" y="376" font-family="Georgia, serif" font-size="13" fill="#0F0F0F" font-weight="700">
+    
+    But What Exactly Is The Ralph Wiggum Technique?
+    
+    </text><text x="16" y="390" font-family="Georgia, serif" font-size="10" fill="#5A5A5A" font-style="italic">
+    
+    interesting · let's see
+    
+    </text><text font-family="Georgia, serif" font-size="12" fill="#2A2A2A"><tspan x="16" y="408" font-size="12" font-weight="400">
+    
+    Experts tell us it's a mode of agentic coding that involves re-feeding 
+    
+    </tspan><tspan x="16" y="426" font-size="12" font-weight="400">
+
+    the same prompt to an LLM in a loop, while it iterates towards a goal.
+    
+    <!-- what -->
+    </tspan> 
+    
+
+    
+    <tspan x="75" y="426" font-size="12" font-weight="400">
+
+    <!-- we know about this cartoonish figure? -->
+    
+    </tspan></text><line x1="16" y1="442" x2="404" y2="442" stroke="#9A9A9A" stroke-width="0.3" stroke-dasharray="2,2"/><text x="16" y="466" font-family="Georgia, serif" font-size="14" fill="#0F0F0F" font-weight="700">
+    
+    But What Exactly Is The Ralph Wiggum Technique?
+    
+    </text><text x="16" y="480" font-family="Georgia, serif" font-size="10" fill="#5A5A5A" font-style="italic">
+    
+    this should be good 
+    
+    </text><text font-family="Georgia, serif" font-size="12" fill="#2A2A2A">
+    
+    <tspan x="16" y="498" font-size="12" font-weight="400">
+    
+    Well, running the same prompt in a loop strips away optimization tricks, 
+    
+    </tspan>
+
+    <tspan x="16" y="516" font-size="12" font-weight="400">
+    
+    revealing what the model does when nothing new is introduced.
+    
+    </tspan>
+    
+    
+    
+    </text>
+    
+    <line x1="16" y1="526" x2="404" y2="526" stroke="#9A9A9A" stroke-width="0.3" stroke-dasharray="2,2"/><text x="16" y="548" font-family="Georgia, serif" font-size="14" fill="#0F0F0F" font-weight="700">
+
+    But What Exactly Is The Ralph Wiggum Technique?
+
+    </text><text x="16" y="562" font-family="Georgia, serif" font-size="10" fill="#5A5A5A" font-style="italic">
+    
+    what a second · hold on
+    
+    </text><text font-family="Georgia, serif" font-size="10" fill="#2A2A2A"><tspan x="16" y="580" font-size="12" font-weight="400">
+
+    It's sort of a mirror test, I suppose - eventually the model stops
+
+    </tspan>
+
+    <tspan x="16" y="596" font-size="12" font-weight="400">
+    
+    responding to the question and... oh, I see what you're doing.
+    
+    </tspan></text><line x1="16" y1="604" x2="404" y2="604" stroke="#1A1A1A" stroke-width="0.6"/><text x="16" y="626" font-family="Georgia, serif" font-size="12" fill="#1A1A1A" font-weight="700" letter-spacing="2">
+    
+    Projects
+    
+    </text><line x1="16" y1="638" x2="404" y2="638" stroke="#1A1A1A" stroke-width="0.3"/><text font-family="'Old Standard TT', Georgia, serif" fill="#0F0F0F" font-weight="700"><tspan x="16" y="662" font-size="18" font-weight="700">
+    
+    
+    GitHub Profile
+    
+    </tspan><tspan x="16" y="686" font-size="18" font-weight="700">
+    
+    Activity Newsletter
+    
+    </tspan></text><text x="16" y="706" font-family="Georgia, serif" font-size="10" fill="#5A5A5A" font-style="italic">
+    
+    a fun new project
+    
+    </text><line x1="16" y1="716" x2="404" y2="716" stroke="#6A6A6A" stroke-width="0.3"/><text font-family="Georgia, serif" font-size="10" fill="#2A2A2A"><tspan x="16" y="734" font-size="12" font-weight="400">
+    
+    An engaging new take on GitHub profile stats
+    
+    </tspan><tspan x="16" y="749" font-size="12" font-weight="400">
+    
+    combines realtime activity with a vintage aesthetic
+    
+    </tspan><tspan x="16" y="764" font-size="12" font-weight="400">
+    
+    that feels right out of a black-and-white movie.
+    
+    </tspan></text><rect x="16" y="797" width="388" height="112" fill="none" stroke="#1A1A1A" stroke-width="0.5"/><rect x="16" y="797" width="388" height="18" fill="#1A1A1A"/><text x="210" y="810" font-family="Georgia, serif" font-size="12" fill="#E0DCD7" font-weight="700" text-anchor="middle" letter-spacing="2">
+    
+    IN BRIEF
+    
+    </text><text x="26" y="837" font-family="Georgia, serif" font-size="12" fill="#2A2A2A"><tspan font-weight="600">
+    
+    Commits.</tspan><tspan> 5 commits pushed
+    
+    </tspan></text><text x="26" y="855" font-family="Georgia, serif" font-size="12" fill="#2A2A2A"><tspan font-weight="600">
+    
+    Pull Requests.</tspan><tspan> 3 PRs merged
+    
+    </tspan></text><text x="26" y="873" font-family="Georgia, serif" font-size="12" fill="#2A2A2A"><tspan font-weight="600">
+    
+    Issues.</tspan><tspan> 2 issue opened
+    
+    </tspan></text><text x="26" y="891" font-family="Georgia, serif" font-size="12" fill="#2A2A2A"><tspan font-weight="600">
+    
+    Repos.</tspan><tspan> 2 new repositories created (soon to be public)
+    
+    </tspan></text><line x1="16" y1="937" x2="404" y2="937" stroke="#1A1A1A" stroke-width="0.5"/><line x1="16" y1="940" x2="404" y2="940" stroke="#1A1A1A" stroke-width="1.5"/><text x="16" y="957" font-family="Georgia, serif" font-size="12" fill="#5A5A5A">
+    
+    Strictly satire and a bit of playful fun.
+    
+    </text><text x="404" y="957" font-family="Georgia, serif" font-size="12" fill="#5A5A5A" text-anchor="end">
+    
+    <!-- (Not affiliated with Anthropic PBC or Claude Code.) -->
+    
+    </text><rect width="420" height="980" fill="url(#cornerTL)"/><rect width="420" height="980" fill="url(#cornerBR)"/></svg>
