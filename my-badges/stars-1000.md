@@ -4,11 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1137</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1139</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★33</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★21</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★20</a>
-* <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★19</a>
-* <a href="https://github.com/hesreallyhim/claude-code-containers">hesreallyhim/claude-code-containers: ★7</a>
+* <a href="https://github.com/hesreallyhim/claude-code-containers">hesreallyhim/claude-code-containers: ★8</a>
 * <a href="https://github.com/hesreallyhim/server-nothing">hesreallyhim/server-nothing: ★5</a>
 * <a href="https://github.com/hesreallyhim/mcp-spec-assessments">hesreallyhim/mcp-spec-assessments: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-rando-server">hesreallyhim/mcp-rando-server: ★3</a>
@@ -47,6 +47,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim-forks/awesome-claude-prompts-fork">hesreallyhim-forks/awesome-claude-prompts-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/tweakcc-fork">hesreallyhim-forks/tweakcc-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-code-guide-fork">hesreallyhim-forks/claude-code-guide-fork: ★1</a>
+* <a href="https://github.com/hesreallyhim/github-readme-stats-forked">hesreallyhim/github-readme-stats-forked: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/ccoutputstyles-fork">hesreallyhim-forks/ccoutputstyles-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/trackignore">hesreallyhim/trackignore: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/ccmanager-fork">hesreallyhim-forks/ccmanager-fork: ★1</a>
