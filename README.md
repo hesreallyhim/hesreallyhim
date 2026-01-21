@@ -1,5 +1,7 @@
+[![GPG Key](https://gpg-badge.hesreallyhim.com/hesreallyhim.svg?style=card)](https://github.com/hesreallyhim.gpg)
+
 <div align="center" margin="none"><picture>
-  <img src="./assets/the-full-diff/2026-01-20.svg" />
+  <img src="./assets/the-full-diff/2026-01-21.svg" />
 </picture></div>
 
 <!-- 
