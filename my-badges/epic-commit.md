@@ -15,6 +15,7 @@ Commits:
 - <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/e17fbd210c22d68c7dfae8c03621e6aa67e3caa1">e17fbd2</a>
 - <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/521d9bc1e58131436089bbe29c054cb85fb895ef">521d9bc</a>
 - <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/ef691fded3453d15ec1c7959058844bb8b60a134">ef691fd</a>
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/9bd28d25d04cde11884e68749be67d6ed2e23871">9bd28d2</a>
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/42e97c532a0567717c1d9492ebf96295924c1224">42e97c5</a>
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/42b3623a5bbe65854dfa7fdfbde6b256b28f3f98">42b3623</a>
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/commit/1c42f3264fc3bb1b5a079f7d6336ad43503226bf">1c42f32</a>
