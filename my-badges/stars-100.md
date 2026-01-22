@@ -4,12 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★20</a>
-* <a href="https://github.com/hesreallyhim/claude-code-containers">hesreallyhim/claude-code-containers: ★8</a>
-* <a href="https://github.com/hesreallyhim/server-nothing">hesreallyhim/server-nothing: ★5</a>
+* <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★21</a>
+* <a href="https://github.com/hesreallyhim/claude-code-containers">hesreallyhim/claude-code-containers: ★9</a>
+* <a href="https://github.com/hesreallyhim/server-nothing">hesreallyhim/server-nothing: ★6</a>
+* <a href="https://github.com/hesreallyhim/mcp-rando-server">hesreallyhim/mcp-rando-server: ★4</a>
+* <a href="https://github.com/hesreallyhim/antipasta">hesreallyhim/antipasta: ★4</a>
 * <a href="https://github.com/hesreallyhim/mcp-spec-assessments">hesreallyhim/mcp-spec-assessments: ★3</a>
-* <a href="https://github.com/hesreallyhim/mcp-rando-server">hesreallyhim/mcp-rando-server: ★3</a>
-* <a href="https://github.com/hesreallyhim/antipasta">hesreallyhim/antipasta: ★3</a>
 * <a href="https://github.com/hesreallyhim-forks/cc-tools-fork">hesreallyhim-forks/cc-tools-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/claude-code-workflows">hesreallyhim/claude-code-workflows: ★2</a>
 * <a href="https://github.com/hesreallyhim/streamlit-chatbot">hesreallyhim/streamlit-chatbot: ★2</a>

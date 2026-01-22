@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/github-api-usage-tracker/commit/9f713f0ba9cace85d51f8eb409be1938f84975bc">9f713f0</a>: chore: log final snapshot
+- <a href="https://github.com/hesreallyhim/github-api-usage-tracker/commit/ed0e63168c3a3e5e556306978d90b42ec82cc9b7">ed0e631</a>: chore: fix release version to just version info
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
