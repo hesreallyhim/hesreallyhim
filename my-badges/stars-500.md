@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1147</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1148</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★34</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★24</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★21</a>
@@ -28,7 +28,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★2</a>
 * <a href="https://github.com/hesreallyhim/svg-to-gif">hesreallyhim/svg-to-gif: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★2</a>
-* <a href="https://github.com/hesreallyhim/priv-goals">hesreallyhim/priv-goals: ★1</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★1</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>

@@ -25,7 +25,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★2</a>
 * <a href="https://github.com/hesreallyhim/svg-to-gif">hesreallyhim/svg-to-gif: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★2</a>
-* <a href="https://github.com/hesreallyhim/priv-goals">hesreallyhim/priv-goals: ★1</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★1</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>
