@@ -1,7 +1,10 @@
-[![GPG Key](https://gpg-badge.hesreallyhim.com/hesreallyhim.svg?style=card)](https://github.com/hesreallyhim.gpg)
+<a href="https://demo.gpg-badge.hesreallyhim.com"><img src="https://gpg-badge.hesreallyhim.com/hesreallyhim.svg?style=card" /></a>
+<br>
+
+<a href="https://github.com/hesreallyhim/robot-in-the-loop"><img src="./assets/RITL-pipe-dark.svg" height="48"/> </a>
 
 <div align="center" margin="none"><picture>
-  <img src="./assets/the-full-diff/2026-01-21.svg" />
+  <img src="./assets/the-full-diff/2026-01-28.svg" />
 </picture></div>
 
 <!-- 
