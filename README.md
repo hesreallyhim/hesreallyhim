@@ -1,4 +1,7 @@
-<div width="100%"><span align="left"><a href="https://demo.gpg-badge.hesreallyhim.com" align="left"><img src="https://gpg-badge.hesreallyhim.com/hesreallyhim.svg?style=card" align="left" /></a> <a href="https://github.com/hesreallyhim/robot-in-the-loop" align="right"><img src="./assets/RITL-pipe-dark.svg" height="42" align="right"/> </a></span align="right"></div>
+<a href="https://demo.gpg-badge.hesreallyhim.com"><img src="https://gpg-badge.hesreallyhim.com/hesreallyhim.svg?style=card" /></a>
+<br>
+
+<a href="https://github.com/hesreallyhim/robot-in-the-loop"><img src="./assets/RITL-pipe-dark.svg" height="48"/> </a>
 
 <div align="center" margin="none"><picture>
   <img src="./assets/the-full-diff/2026-01-28.svg" />
