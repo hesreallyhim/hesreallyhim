@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/hesreallyhim/commit/359dd74516cd7e1c46b5ad159f29894f47559a5b">359dd74</a>
-- <a href="https://github.com/hesreallyhim/github-gpg-badge/commit/fb3b62a58b7c94a430548a6bf8e1aedcb5b93b4b">fb3b62a</a>
-- <a href="https://github.com/hesreallyhim/github-gpg-badge/commit/3d994ca45d140ad1e518e1d5031c09319dcfb3c8">3d994ca</a>
-- <a href="https://github.com/hesreallyhim/github-gpg-badge/commit/3ddb0ec6153306feb758faa6dd80bd29ecf2336d">3ddb0ec</a>
-- <a href="https://github.com/hesreallyhim/hesreallyhim/commit/bb81a33f4411142ac1e9989d9abd2d6d1163cb04">bb81a33</a>
-- <a href="https://github.com/hesreallyhim/hesreallyhim/commit/bdd53acad0f81afdf802f950853ebdb49059b91c">bdd53ac</a>
+- <a href="https://github.com/hesreallyhim/hesreallyhim/commit/56b783f9a13de013453f6a8cfa522949937e74be">56b783f</a>
+- <a href="https://github.com/hesreallyhim/git-miscellany/commit/c1db48c739f1309b542f58ba80419a2ae87726dc">c1db48c</a>
+- <a href="https://github.com/hesreallyhim/git-miscellany/commit/910c988b80d2cf67d2e981ed090f8b7d7986d3ac">910c988</a>
+- <a href="https://github.com/hesreallyhim/git-miscellany/commit/00129fead4920497c88b32f9ee04b5a63eaabef9">00129fe</a>
+- <a href="https://github.com/hesreallyhim/git-miscellany/commit/7d01b7c8d18bae8153ddea821bd4048103503b0e">7d01b7c</a>
+- <a href="https://github.com/hesreallyhim/git-miscellany/commit/6ebf36642513346c0c7d677d4fd58c8481767462">6ebf366</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

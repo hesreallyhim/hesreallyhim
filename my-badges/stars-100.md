@@ -56,6 +56,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/claude-codex-settings">hesreallyhim/claude-codex-settings: ★1</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-tracker">hesreallyhim/github-api-usage-tracker: ★1</a>
 * <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★1</a>
+* <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
