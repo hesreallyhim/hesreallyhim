@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/e636e21e9601ba7de44a4815c7b9ece1023ecc8c">e636e21</a>: fixes
-- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/bdf3f8cd4c2042fc2ab69a4b57fb3c48471e0376">bdf3f8c</a>: fix: footnote
+- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/885371beebf010c25af4f345d4af0c41eb9bb370">885371b</a>: fix: eslint exclude vitest config files
+- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/c48751b1e5b890725a74eb29e9b8e1dac180f23e">c48751b</a>: fix: stabilize dist build artifacts
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
