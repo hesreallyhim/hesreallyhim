@@ -4,7 +4,7 @@
 <a href="https://github.com/hesreallyhim/robot-in-the-loop"><img src="./assets/RITL-pipe-dark.svg" height="48"/> </a>
 
 <div align="center" margin="none"><picture>
-  <img src="./assets/the-full-diff/2026-01-28.svg" />
+  <img src="./assets/the-full-diff/2026-01-30.svg" />
 </picture></div>
 
 <!-- 
