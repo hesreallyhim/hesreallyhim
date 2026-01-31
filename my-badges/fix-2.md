@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/885371beebf010c25af4f345d4af0c41eb9bb370">885371b</a>: fix: eslint exclude vitest config files
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/c48751b1e5b890725a74eb29e9b8e1dac180f23e">c48751b</a>: fix: stabilize dist build artifacts
+- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/32318376e77933e7a64c9e019af9fcd3def916c3">3231837</a>: FIX
+- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/19f7ba0f87b0da90f25e8715f43c5f291f11e639">19f7ba0</a>: fixing
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
