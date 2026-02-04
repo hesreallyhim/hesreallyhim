@@ -1,0 +1,9 @@
+<svg width="160" height="24" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="24" rx="4" fill="#fafafa"/>
+  <rect x="0.5" y="0.5" width="159" height="23" rx="3.5" fill="none" stroke="#d4d4d4"/>
+  <g font-family="system-ui, -apple-system, sans-serif">
+    <text x="12" y="16" fill="magenta" font-weight="800" font-size="12" letter-spacing="0.4">RITL</text>
+    <line x1="50" y1="6" x2="50" y2="18" stroke="#d4d4d4" stroke-width="1"/>
+    <text x="60" y="15" fill="#b45309" font-size="10" letter-spacing="0.6" stroke="#c2410c" stroke-width="0.1" paint-order="stroke fill" stroke-linejoin="round">robot in the loop</text>
+  </g>
+</svg>
