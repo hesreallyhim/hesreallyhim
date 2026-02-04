@@ -4,25 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/a04f01cc552e23d62aad8aeec1b03fe9227211e9">a04f01c</a>: fix: address code review findings (batch 2)
-
-- Fix path construction in spawnPoller: use path.join() instead of
-  manual string concatenation with separator logic
-- Improve state validation: validate individual BucketState entries
-  inside isValidState, remove misleading TODO comment
-- Make parseRateLimitResponse resilient to partial failures: skip
-  invalid resources with continue instead of returning null
-
-Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/c05b819071c6839ed5696adde49212cbaad78f14">c05b819</a>: fix: address code review findings (batch 1)
-
-- Fix debug log bug in post.ts: first field was showing last_used
-  instead of first_used
-- Strengthen isARealObject to reject arrays (!Array.isArray check)
-- Deduplicate sleep() utility: extract to utils.ts, remove copies
-  from poller.ts and state.ts
-
-Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
+- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/e636e21e9601ba7de44a4815c7b9ece1023ecc8c">e636e21</a>: fixes
+- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/bdf3f8cd4c2042fc2ab69a4b57fb3c48471e0376">bdf3f8c</a>: fix: footnote
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

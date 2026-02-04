@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/76e95f084da712a45e22fe8bc012d82d034cd5b5">76e95f0</a>: chore: add generate:self-test npm script
-
-Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
+- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/e461939c252cda12141f66380d9216b3f68ce279">e461939</a>: chore: pre-release
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/008c4cbb78e6f54486eed9784b45e4910e945b99">008c4cb</a>
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/57985033f6d03cc83ee06c94f2c0aabd731e5896">5798503</a>
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/4d4afbaf6782008be9e464fc4469438603e26be6">4d4afba</a>
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/b71ca937080250c8baf06a397c2f0caa84696cb2">b71ca93</a>
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/e238003a2d8ce2d31e1aa3b8dd1c47b589655d96">e238003</a>
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/a04f01cc552e23d62aad8aeec1b03fe9227211e9">a04f01c</a>
+- <a href="https://github.com/hesreallyhim/github-gpg-badge/commit/0a04c7d94ec67010aca5ce18a828c94389699243">0a04c7d</a>
+- <a href="https://github.com/hesreallyhim/github-gpg-badge/commit/18f7582817ae2fbc42f58bb9d29535b97056008e">18f7582</a>
+- <a href="https://github.com/hesreallyhim/github-gpg-badge/commit/f2db1c15eca7c8e263b1ee2ac25b940e6a7ab234">f2db1c1</a>
+- <a href="https://github.com/hesreallyhim/robot-in-the-loop/commit/ad4f4bcd3633f0938d63577f0ab72fd842420428">ad4f4bc</a>
+- <a href="https://github.com/hesreallyhim/git-miscellany/commit/6cc5d8b2c06b93494499fcc4e2f35416dadcbe42">6cc5d8b</a>
+- <a href="https://github.com/hesreallyhim/ClaudeBar-fork/commit/0e5c8ff17ee61ca1c158cf2aebf8191c2ee1af21">0e5c8ff</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
