@@ -1,13 +1,9 @@
-<a href="https://demo.gpg-badge.hesreallyhim.com"><img src="https://gpg-badge.hesreallyhim.com/hesreallyhim.svg?style=card" /></a>
-<br>
-
-<a href="https://github.com/hesreallyhim/robot-in-the-loop"><img src="./assets/RITL-pipe-dark.svg" height="48"/> </a>
-
 <div align="center" margin="none"><picture>
-  <img src="./assets/the-full-diff/2026-01-30.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="prod-assets/particle-GITHUB-black.gif">
+  <source media="(prefers-color-scheme: light)" srcset="prod-assets/particle-GITHUB-white.gif">
+  <img src="prod-assets/particle-GITHUB-black.gif" />
 </picture></div>
 
-<!-- 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="prod-assets/header_cyberpunk_glitch.svg">
     <source media="(prefers-color-scheme: light)" srcset="prod-assets/header_fashion_editorial.svg">
@@ -58,14 +54,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="prod-assets/pixel_transparent.svg">
   <source media="(prefers-color-scheme: light)" srcset="prod-assets/table-divider.svg">
   <img src="prod-assets/table-divider.svg" />
-</picture></div> -->
+</picture></div>
 
 <br>
-
-&nbsp;
-
-<br>
-
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
@@ -101,8 +92,4 @@
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
-<a href="my-badges/stars-20000.md"><img src="https://my-badges.github.io/my-badges/stars-20000.png" alt="I collected 20000 stars." title="I collected 20000 stars." width="64"></a>
-<a href="my-badges/science-fiction-day.md"><img src="https://my-badges.github.io/my-badges/science-fiction-day.png" alt="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" title="I committed on Isaac Asimov&apos;s birthday / National Science Fiction Day!" width="64"></a>
-<a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
-<a href="my-badges/mass-delete-commit-10k.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <!-- my-badges end -->
