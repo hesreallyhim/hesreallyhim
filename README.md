@@ -14,6 +14,8 @@
     <img src="prod-assets/header_fashion_editorial.svg" alt="Awesome Claude Code" width="100%" style="max-width: 900px;">
   </picture>
 
+  <p align="center"><span><a href="https://demo.gpg-badge.hesreallyhim.com"><img src="https://gpg-badge.hesreallyhim.com/hesreallyhim.svg?style=card" /></a> &nbsp; <a href="https://github.com/hesreallyhim/robot-in-the-loop"><img src="./prod-assets/pipe-amber-neutral-dark.svg" height="48"/> </a><span></p>
+
   <br>
 
 <picture>
