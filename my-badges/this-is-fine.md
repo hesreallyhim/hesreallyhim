@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/421">#421</a>: feat: add flat list README views with category filters and sort options
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/106">#106</a>: ci: badge notification action
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/110">#110</a>: CI: Announcements and Newly-Added are generated
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/112">#112</a>: Feature/unified category system
@@ -48,6 +47,7 @@ Pull requests:
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/393">#393</a>: Bring back "Latest Additions"
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/404">#404</a>: Repo health check
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/411">#411</a>: remove some heavy assets
+- <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/421">#421</a>: feat: add flat list README views with category filters and sort options
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/435">#435</a>: update description claude-code-tools
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/156">#156</a>: Fix/fix broken link
 - <a href="https://github.com/hesreallyhim/awesome-claude-code/pull/284">#284</a>: Updates 10 29
