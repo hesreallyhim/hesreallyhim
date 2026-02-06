@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1163</a>
-* <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★34</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1165</a>
+* <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★35</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★26</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★21</a>
 * <a href="https://github.com/hesreallyhim/claude-code-containers">hesreallyhim/claude-code-containers: ★9</a>
@@ -26,6 +26,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim-forks/idk">hesreallyhim-forks/idk: ★2</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-code-toast-fork">hesreallyhim-forks/claude-code-toast-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★2</a>
+* <a href="https://github.com/hesreallyhim/my-pgp-inbox">hesreallyhim/my-pgp-inbox: ★2</a>
 * <a href="https://github.com/hesreallyhim/svg-to-gif">hesreallyhim/svg-to-gif: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
@@ -54,12 +55,13 @@ Repos:
 * <a href="https://github.com/hesreallyhim/hesreallyhim">hesreallyhim/hesreallyhim: ★1</a>
 * <a href="https://github.com/hesreallyhim/skills-introduction-to-github">hesreallyhim/skills-introduction-to-github: ★1</a>
 * <a href="https://github.com/hesreallyhim/pgp-inbox-template">hesreallyhim/pgp-inbox-template: ★1</a>
-* <a href="https://github.com/hesreallyhim/my-pgp-inbox">hesreallyhim/my-pgp-inbox: ★1</a>
+* <a href="https://github.com/hesreallyhim/github-gpg-badge">hesreallyhim/github-gpg-badge: ★1</a>
 * <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★1</a>
 * <a href="https://github.com/hesreallyhim/claude-codex-settings">hesreallyhim/claude-codex-settings: ★1</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-tracker">hesreallyhim/github-api-usage-tracker: ★1</a>
 * <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★1</a>
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★1</a>
+* <a href="https://github.com/hesreallyhim/claude-skills">hesreallyhim/claude-skills: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
