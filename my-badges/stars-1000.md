@@ -29,6 +29,8 @@ Repos:
 * <a href="https://github.com/hesreallyhim/my-pgp-inbox">hesreallyhim/my-pgp-inbox: ★2</a>
 * <a href="https://github.com/hesreallyhim/svg-to-gif">hesreallyhim/svg-to-gif: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★2</a>
+* <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★2</a>
+* <a href="https://github.com/hesreallyhim/claude-skills">hesreallyhim/claude-skills: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★1</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>
@@ -59,9 +61,10 @@ Repos:
 * <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★1</a>
 * <a href="https://github.com/hesreallyhim/claude-codex-settings">hesreallyhim/claude-codex-settings: ★1</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-tracker">hesreallyhim/github-api-usage-tracker: ★1</a>
-* <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★1</a>
+* <a href="https://github.com/hesreallyhim/ralph-playbook">hesreallyhim/ralph-playbook: ★1</a>
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★1</a>
-* <a href="https://github.com/hesreallyhim/claude-skills">hesreallyhim/claude-skills: ★1</a>
+* <a href="https://github.com/hesreallyhim/github-api-usage-monitor">hesreallyhim/github-api-usage-monitor: ★1</a>
+* <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
