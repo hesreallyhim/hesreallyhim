@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★23824</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★23931</a>
 * <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1176</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★33</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★26</a>
@@ -16,6 +16,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/mcp-spec-assessments">hesreallyhim/mcp-spec-assessments: ★3</a>
 * <a href="https://github.com/hesreallyhim-forks/cc-tools-fork">hesreallyhim-forks/cc-tools-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/svg-to-gif">hesreallyhim/svg-to-gif: ★3</a>
+* <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-code-workflows">hesreallyhim/claude-code-workflows: ★2</a>
 * <a href="https://github.com/hesreallyhim/streamlit-chatbot">hesreallyhim/streamlit-chatbot: ★2</a>
 * <a href="https://github.com/hesreallyhim/terrible-claude-code">hesreallyhim/terrible-claude-code: ★2</a>
@@ -35,7 +36,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/github-api-usage-monitor">hesreallyhim/github-api-usage-monitor: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-skills">hesreallyhim/claude-skills: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
-* <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★1</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/modelcontextprotocol">hesreallyhim-forks/modelcontextprotocol: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-composer-fork">hesreallyhim-forks/claude-composer-fork: ★1</a>
