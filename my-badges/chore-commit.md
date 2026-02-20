@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/github-api-usage-monitor/commit/93163dfbb91b7e8f048e7b57df602c0a600f2a18">93163df</a>: chore: update issue templates
+- <a href="https://github.com/hesreallyhim/claude-code-json-schema/commit/6c608602b987617953fa8d5a50fcc47a2405e576">6c60860</a>: chore(schema): point  to published raw schema URLs
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
