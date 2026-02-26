@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/modelcontextprotocol/modelcontextprotocol/pull/588">#588</a>: Feat (small): Add CompleteRequest.values maximum length to jsonschema
+- <a href="https://github.com/chroma-core/chroma/pull/4096">#4096</a>: [DOC]: Update improper usage of `$contains` operator in example code and add test to validate it
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
