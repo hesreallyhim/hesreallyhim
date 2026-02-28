@@ -27,6 +27,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/hesreallyhim">hesreallyhim/hesreallyhim: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★2</a>
 * <a href="https://github.com/hesreallyhim/my-pgp-inbox">hesreallyhim/my-pgp-inbox: ★2</a>
+* <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★2</a>
 * <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★2</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-monitor">hesreallyhim/github-api-usage-monitor: ★2</a>
@@ -55,7 +56,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/skills-introduction-to-github">hesreallyhim/skills-introduction-to-github: ★1</a>
 * <a href="https://github.com/hesreallyhim/pgp-inbox-template">hesreallyhim/pgp-inbox-template: ★1</a>
 * <a href="https://github.com/hesreallyhim/github-gpg-badge">hesreallyhim/github-gpg-badge: ★1</a>
-* <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★1</a>
 * <a href="https://github.com/hesreallyhim/claude-codex-settings">hesreallyhim/claude-codex-settings: ★1</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-tracker">hesreallyhim/github-api-usage-tracker: ★1</a>
 * <a href="https://github.com/hesreallyhim/ralph-playbook">hesreallyhim/ralph-playbook: ★1</a>
