@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/claude-code-json-schema/commit/6c608602b987617953fa8d5a50fcc47a2405e576">6c60860</a>: chore(schema): point  to published raw schema URLs
+- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/0447bb7e4931f61a918cf6ca706aaaa979226f8c">0447bb7</a>: chore: move SKILL.md to separate directory
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
