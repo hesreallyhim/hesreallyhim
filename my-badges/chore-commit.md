@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/0447bb7e4931f61a918cf6ca706aaaa979226f8c">0447bb7</a>: chore: move SKILL.md to separate directory
+- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/290682ebc717db57d5640b1373ed05aff8d59136">290682e</a>: chore: add throwaway account auth workflow docs and scripts
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
