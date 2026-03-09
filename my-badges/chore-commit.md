@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/290682ebc717db57d5640b1373ed05aff8d59136">290682e</a>: chore: add throwaway account auth workflow docs and scripts
+- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/f9df6f733572ee65aafcda9db9e3d662692f9eca">f9df6f7</a>: chore(dev): add shorthand alias for pass-dev wrapper
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

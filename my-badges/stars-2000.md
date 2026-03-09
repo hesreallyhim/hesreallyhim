@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★26751</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★26909</a>
 * <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1192</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★35</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★33</a>
