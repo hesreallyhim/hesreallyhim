@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/e636e21e9601ba7de44a4815c7b9ece1023ecc8c">e636e21</a>: fixes
-- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/bdf3f8cd4c2042fc2ab69a4b57fb3c48471e0376">bdf3f8c</a>: fix: footnote
+- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/6dc91d14a6eca3d2c0777c233f4bbdb4c5ee2784">6dc91d1</a>: fix(item): remove output param from login create schemas
+- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/7c73739b8c096c604e7a172859283e5b5dc4907d">7c73739</a>: fix(pass-cli): normalize output arg policy in runner
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
