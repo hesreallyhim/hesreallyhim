@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/f9df6f733572ee65aafcda9db9e3d662692f9eca">f9df6f7</a>: chore(dev): add shorthand alias for pass-dev wrapper
+- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/b99aa59d68c8364eea415694ed294b58c8a882de">b99aa59</a>: chore(deps): bump typescript-eslint
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
