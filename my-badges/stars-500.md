@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1196</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1198</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★36</a>
-* <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★33</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★34</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★22</a>
 * <a href="https://github.com/hesreallyhim/claude-code-containers">hesreallyhim/claude-code-containers: ★9</a>
 * <a href="https://github.com/hesreallyhim/server-nothing">hesreallyhim/server-nothing: ★7</a>
@@ -42,6 +42,8 @@ Repos:
 * <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★2</a>
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★2</a>
 * <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★2</a>
+* <a href="https://github.com/hesreallyhim/claude-code-json-schema">hesreallyhim/claude-code-json-schema: ★2</a>
+* <a href="https://github.com/hesreallyhim/MinerU-Skill-fork">hesreallyhim/MinerU-Skill-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/proton-pass-community-mcp">hesreallyhim/proton-pass-community-mcp: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>
@@ -76,11 +78,9 @@ Repos:
 * <a href="https://github.com/hesreallyhim/ryoppippi">hesreallyhim/ryoppippi: ★1</a>
 * <a href="https://github.com/hesreallyhim/serpro69">hesreallyhim/serpro69: ★1</a>
 * <a href="https://github.com/hesreallyhim/unhappychoice">hesreallyhim/unhappychoice: ★1</a>
-* <a href="https://github.com/hesreallyhim/claude-code-json-schema">hesreallyhim/claude-code-json-schema: ★1</a>
 * <a href="https://github.com/hesreallyhim/DDD-sup">hesreallyhim/DDD-sup: ★1</a>
 * <a href="https://github.com/hesreallyhim/composio-fork">hesreallyhim/composio-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★1</a>
-* <a href="https://github.com/hesreallyhim/MinerU-Skill-fork">hesreallyhim/MinerU-Skill-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/agentpatterns">hesreallyhim/agentpatterns: ★1</a>
 * <a href="https://github.com/hesreallyhim/pass-cli-fork">hesreallyhim/pass-cli-fork: ★1</a>
 
