@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1198</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1200</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★36</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★34</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★22</a>
@@ -51,6 +51,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim-forks/claude-composer-fork">hesreallyhim-forks/claude-composer-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-hooks-sdk-fork">hesreallyhim-forks/claude-hooks-sdk-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claudia-fork">hesreallyhim-forks/claudia-fork: ★1</a>
+* <a href="https://github.com/hesreallyhim-forks/ccswarm-fork">hesreallyhim-forks/ccswarm-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-runner-fork">hesreallyhim-forks/claude-task-runner-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-master-fork">hesreallyhim-forks/claude-task-master-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-hooks-fork">hesreallyhim-forks/claude-hooks-fork: ★1</a>

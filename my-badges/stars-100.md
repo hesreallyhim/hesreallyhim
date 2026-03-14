@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim-forks/cc-tools-fork">hesreallyhim-forks/cc-tools-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/hesreallyhim">hesreallyhim/hesreallyhim: ★3</a>
 * <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★3</a>
 * <a href="https://github.com/hesreallyhim/claude-skills">hesreallyhim/claude-skills: ★3</a>
@@ -40,6 +39,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim-forks/claude-composer-fork">hesreallyhim-forks/claude-composer-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-hooks-sdk-fork">hesreallyhim-forks/claude-hooks-sdk-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claudia-fork">hesreallyhim-forks/claudia-fork: ★1</a>
+* <a href="https://github.com/hesreallyhim-forks/ccswarm-fork">hesreallyhim-forks/ccswarm-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-runner-fork">hesreallyhim-forks/claude-task-runner-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-task-master-fork">hesreallyhim-forks/claude-task-master-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-hooks-fork">hesreallyhim-forks/claude-hooks-fork: ★1</a>
