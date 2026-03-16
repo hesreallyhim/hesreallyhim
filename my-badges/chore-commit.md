@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/b99aa59d68c8364eea415694ed294b58c8a882de">b99aa59</a>: chore(deps): bump typescript-eslint
+- <a href="https://github.com/hesreallyhim/test-cross-branch-image-links/commit/43a9badc1c6c3a6011ed04c972fd27842a1a34cb">43a9bad</a>: chore: add gitignore and README
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
