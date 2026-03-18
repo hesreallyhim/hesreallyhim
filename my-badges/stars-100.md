@@ -8,7 +8,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/hesreallyhim">hesreallyhim/hesreallyhim: ★3</a>
 * <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★3</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★3</a>
-* <a href="https://github.com/hesreallyhim/claude-skills">hesreallyhim/claude-skills: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-code-workflows">hesreallyhim/claude-code-workflows: ★2</a>
 * <a href="https://github.com/hesreallyhim/streamlit-chatbot">hesreallyhim/streamlit-chatbot: ★2</a>
@@ -32,6 +31,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★2</a>
 * <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-code-json-schema">hesreallyhim/claude-code-json-schema: ★2</a>
+* <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/MinerU-Skill-fork">hesreallyhim/MinerU-Skill-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★1</a>
@@ -69,7 +69,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/unhappychoice">hesreallyhim/unhappychoice: ★1</a>
 * <a href="https://github.com/hesreallyhim/DDD-sup">hesreallyhim/DDD-sup: ★1</a>
 * <a href="https://github.com/hesreallyhim/composio-fork">hesreallyhim/composio-fork: ★1</a>
-* <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/agentpatterns">hesreallyhim/agentpatterns: ★1</a>
 * <a href="https://github.com/hesreallyhim/pass-cli-fork">hesreallyhim/pass-cli-fork: ★1</a>
 
