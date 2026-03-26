@@ -71,6 +71,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/composio-fork">hesreallyhim/composio-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/agentpatterns">hesreallyhim/agentpatterns: ★1</a>
 * <a href="https://github.com/hesreallyhim/pass-cli-fork">hesreallyhim/pass-cli-fork: ★1</a>
+* <a href="https://github.com/hesreallyhim/naming-fork">hesreallyhim/naming-fork: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
