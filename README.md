@@ -4,11 +4,15 @@
   <img src="prod-assets/particle-GITHUB-black.gif" />
 </picture></div> -->
 
-<div align="center" margin="none"><picture>
+<!-- <div align="center" margin="none"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/GITHUB_IS_MAGIC.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/GITHUB_IS_MAGIC_LIGHT.svg">
   <img src="assets/GITHUB_IS_MAGIC.svg" alt="GitHub is magic"/>
-</picture></div>
+</picture></div> -->
+
+<picture>
+  <img src="assets/HELLO_WORLD_5.svg" alt="Hello World" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="prod-assets/header_cyberpunk_glitch.svg">
