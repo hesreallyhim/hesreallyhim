@@ -10,9 +10,9 @@
   <img src="assets/GITHUB_IS_MAGIC.svg" alt="GitHub is magic"/>
 </picture></div> -->
 
-<picture>
+<a href="https://github.com/hesreallyhim/really-claude-code">
   <img src="assets/REALLY_CLAUDE_CODE_PARTICLES.svg" alt="Hello World" />
-</picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="prod-assets/header_cyberpunk_glitch.svg">
