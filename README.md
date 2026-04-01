@@ -11,7 +11,7 @@
 </picture></div> -->
 
 <picture>
-  <img src="assets/HELLO_WORLD_5.svg" alt="Hello World" />
+  <img src="assets/REALLY_CLAUDE_CODE_PARTICLES.svg" alt="Hello World" />
 </picture>
 
 <picture>
