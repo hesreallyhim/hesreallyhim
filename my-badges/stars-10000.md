@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★35066</a>
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1221</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★35517</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1222</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★36</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★36</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★22</a>
@@ -43,6 +43,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/github-gpg-badge">hesreallyhim/github-gpg-badge: ★2</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-tracker">hesreallyhim/github-api-usage-tracker: ★2</a>
 * <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★2</a>
+* <a href="https://github.com/hesreallyhim/claude-code-fork">hesreallyhim/claude-code-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★2</a>
 * <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★2</a>
 * <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★2</a>
@@ -72,10 +73,10 @@ Repos:
 * <a href="https://github.com/hesreallyhim/pgp-inbox-template">hesreallyhim/pgp-inbox-template: ★1</a>
 * <a href="https://github.com/hesreallyhim/claude-codex-settings">hesreallyhim/claude-codex-settings: ★1</a>
 * <a href="https://github.com/hesreallyhim/ralph-playbook">hesreallyhim/ralph-playbook: ★1</a>
-* <a href="https://github.com/hesreallyhim/claude-code-fork">hesreallyhim/claude-code-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/git-miscellany">hesreallyhim/git-miscellany: ★1</a>
 * <a href="https://github.com/hesreallyhim/inkverse-fork">hesreallyhim/inkverse-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/danielrosehill">hesreallyhim/danielrosehill: ★1</a>
+* <a href="https://github.com/hesreallyhim/really-claude-code">hesreallyhim/really-claude-code: ★1</a>
 * <a href="https://github.com/hesreallyhim/WarpWing">hesreallyhim/WarpWing: ★1</a>
 * <a href="https://github.com/hesreallyhim/Lissy93">hesreallyhim/Lissy93: ★1</a>
 * <a href="https://github.com/hesreallyhim/ryoppippi">hesreallyhim/ryoppippi: ★1</a>
@@ -86,6 +87,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/agentpatterns">hesreallyhim/agentpatterns: ★1</a>
 * <a href="https://github.com/hesreallyhim/pass-cli-fork">hesreallyhim/pass-cli-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/naming-fork">hesreallyhim/naming-fork: ★1</a>
+* <a href="https://github.com/hesreallyhim/codebase-to-course-fork">hesreallyhim/codebase-to-course-fork: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
