@@ -10,8 +10,8 @@
   <img src="assets/GITHUB_IS_MAGIC.svg" alt="GitHub is magic"/>
 </picture></div> -->
 
-<a href="https://github.com/hesreallyhim/really-claude-code">
-  <img src="assets/REALLY_CLAUDE_CODE_PARTICLES.svg" alt="Hello World" />
+<a href="https://github.com/sponsors/hesreallyhim">
+  <img src="assets/SPONSORS_01.svg" alt="Sponsors" />
 </a>
 
 <picture>
