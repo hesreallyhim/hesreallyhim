@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/hesreallyhim">hesreallyhim/hesreallyhim: ★3</a>
 * <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★3</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★3</a>
 * <a href="https://github.com/hesreallyhim/claude-code-json-schema">hesreallyhim/claude-code-json-schema: ★3</a>
@@ -28,6 +27,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/github-gpg-badge">hesreallyhim/github-gpg-badge: ★2</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-tracker">hesreallyhim/github-api-usage-tracker: ★2</a>
 * <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★2</a>
+* <a href="https://github.com/hesreallyhim/ralph-playbook">hesreallyhim/ralph-playbook: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-code-fork">hesreallyhim/claude-code-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★2</a>
 * <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★2</a>
@@ -57,7 +57,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/skills-introduction-to-github">hesreallyhim/skills-introduction-to-github: ★1</a>
 * <a href="https://github.com/hesreallyhim/pgp-inbox-template">hesreallyhim/pgp-inbox-template: ★1</a>
 * <a href="https://github.com/hesreallyhim/claude-codex-settings">hesreallyhim/claude-codex-settings: ★1</a>
-* <a href="https://github.com/hesreallyhim/ralph-playbook">hesreallyhim/ralph-playbook: ★1</a>
 * <a href="https://github.com/hesreallyhim/git-miscellany">hesreallyhim/git-miscellany: ★1</a>
 * <a href="https://github.com/hesreallyhim/inkverse-fork">hesreallyhim/inkverse-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/danielrosehill">hesreallyhim/danielrosehill: ★1</a>
