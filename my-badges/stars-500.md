@@ -14,11 +14,11 @@ Repos:
 * <a href="https://github.com/hesreallyhim/github-api-usage-monitor">hesreallyhim/github-api-usage-monitor: ★6</a>
 * <a href="https://github.com/hesreallyhim/hesreallyhim">hesreallyhim/hesreallyhim: ★5</a>
 * <a href="https://github.com/hesreallyhim/claude-skills">hesreallyhim/claude-skills: ★5</a>
+* <a href="https://github.com/hesreallyhim/proton-pass-community-mcp">hesreallyhim/proton-pass-community-mcp: ★5</a>
 * <a href="https://github.com/hesreallyhim/mcp-rando-server">hesreallyhim/mcp-rando-server: ★4</a>
 * <a href="https://github.com/hesreallyhim/svg-to-gif">hesreallyhim/svg-to-gif: ★4</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★4</a>
 * <a href="https://github.com/hesreallyhim/claude-code-json-schema">hesreallyhim/claude-code-json-schema: ★4</a>
-* <a href="https://github.com/hesreallyhim/proton-pass-community-mcp">hesreallyhim/proton-pass-community-mcp: ★4</a>
 * <a href="https://github.com/hesreallyhim/claude-code-workflows">hesreallyhim/claude-code-workflows: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-spec-assessments">hesreallyhim/mcp-spec-assessments: ★3</a>
 * <a href="https://github.com/hesreallyhim-forks/claudecodeui-fork">hesreallyhim-forks/claudecodeui-fork: ★3</a>
