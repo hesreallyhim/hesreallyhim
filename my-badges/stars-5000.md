@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★36951</a>
-* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1227</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★37244</a>
+* <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1228</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★38</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★37</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★22</a>
@@ -19,6 +19,7 @@ Repos:
 * <a href="https://github.com/hesreallyhim/mcp-rando-server">hesreallyhim/mcp-rando-server: ★4</a>
 * <a href="https://github.com/hesreallyhim/svg-to-gif">hesreallyhim/svg-to-gif: ★4</a>
 * <a href="https://github.com/hesreallyhim/claude-codepro">hesreallyhim/claude-codepro: ★4</a>
+* <a href="https://github.com/hesreallyhim/claude-code-fork">hesreallyhim/claude-code-fork: ★4</a>
 * <a href="https://github.com/hesreallyhim/claude-code-json-schema">hesreallyhim/claude-code-json-schema: ★4</a>
 * <a href="https://github.com/hesreallyhim/claude-code-workflows">hesreallyhim/claude-code-workflows: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-spec-assessments">hesreallyhim/mcp-spec-assessments: ★3</a>
@@ -26,7 +27,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim-forks/cc-tools-fork">hesreallyhim-forks/cc-tools-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/pre-vhs">hesreallyhim/pre-vhs: ★3</a>
 * <a href="https://github.com/hesreallyhim/n8n-skills-pack">hesreallyhim/n8n-skills-pack: ★3</a>
-* <a href="https://github.com/hesreallyhim/claude-code-fork">hesreallyhim/claude-code-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★3</a>
 * <a href="https://github.com/hesreallyhim/codebase-to-course-fork">hesreallyhim/codebase-to-course-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★2</a>
