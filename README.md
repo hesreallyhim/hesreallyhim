@@ -10,9 +10,21 @@
   <img src="assets/GITHUB_IS_MAGIC.svg" alt="GitHub is magic"/>
 </picture></div> -->
 
+<div align="center">
 <a href="https://github.com/sponsors/hesreallyhim">
   <img src="assets/SPONSORS_01.svg" alt="Sponsors" />
 </a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://github.com/hesreallyhim/mistermind">
+  <img src="assets/MISTERMIND-SOCIAL.png" alt="MisterMind" height="300px"/>
+</a>
+<div align="center">
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="prod-assets/header_cyberpunk_glitch.svg">
