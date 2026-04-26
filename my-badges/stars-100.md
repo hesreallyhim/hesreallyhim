@@ -30,7 +30,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/Auto-Claude-fork">hesreallyhim/Auto-Claude-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/inkverse-fork">hesreallyhim/inkverse-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★2</a>
-* <a href="https://github.com/hesreallyhim/really-claude-code">hesreallyhim/really-claude-code: ★2</a>
 * <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentpatterns">hesreallyhim/agentpatterns: ★2</a>
 * <a href="https://github.com/hesreallyhim/naming-fork">hesreallyhim/naming-fork: ★2</a>
