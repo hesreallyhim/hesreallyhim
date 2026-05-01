@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/mistermind/commit/365f700f0ae31689f0cd0a7cb440d042461a53e7">365f700</a>: chore: initial release snapshot
+- <a href="https://github.com/hesreallyhim/github-minesweeper/commit/92eb83689e6111c0101aae919d0dd6f8ef092dd2">92eb836</a>: chore: initial public release
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
