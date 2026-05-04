@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="starlight-credits contributor credits">
+  <defs>
+    <linearGradient id="gcBackdrop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#15100c"/>
+      <stop offset="34%" stop-color="#090a0f"/>
+      <stop offset="100%" stop-color="#040406"/>
+    </linearGradient>
+    <radialGradient id="gcTopGlow" cx="50%" cy="0%" r="78%">
+      <stop offset="0%" stop-color="#f2d56b" stop-opacity="0.24"/>
+      <stop offset="42%" stop-color="#8ee6c8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gcEdgeLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f2d56b" stop-opacity="0.42"/>
+      <stop offset="18%" stop-color="#f2d56b" stop-opacity="0.08"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="82%" stop-color="#8ee6c8" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#8ee6c8" stop-opacity="0.36"/>
+    </linearGradient>
+    <linearGradient id="gcFade" gradientUnits="userSpaceOnUse" x1="0" y1="64" x2="0" y2="356">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="16%" stop-color="white" stop-opacity="1"/>
+      <stop offset="84%" stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="gcFadeMask" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="420">
+      <rect x="0" y="0" width="900" height="420" fill="black"/>
+      <rect x="0" y="64" width="900" height="292" fill="url(#gcFade)"/>
+    </mask>
+  </defs>
+
+  <rect width="100%" height="100%" rx="20" fill="url(#gcBackdrop)"/>
+  <rect width="100%" height="100%" rx="20" fill="url(#gcTopGlow)"/>
+  <rect x="16" y="16" width="868" height="388" rx="15" fill="#050506" opacity="0.36" stroke="#ffffff" stroke-opacity="0.06"/>
+  <rect x="1" y="1" width="898" height="418" rx="19" fill="none" stroke="url(#gcEdgeLight)" stroke-width="1.25"/>
+  <line x1="34" y1="52" x2="866" y2="52" stroke="#f2d56b" stroke-opacity="0.08"/>
+  <line x1="34" y1="368" x2="866" y2="368" stroke="#8ee6c8" stroke-opacity="0.08"/>
+  <circle cx="42" cy="40" r="2" fill="#f2d56b" opacity="0.5"/>
+  <circle cx="858" cy="380" r="2" fill="#8ee6c8" opacity="0.48"/>
+
+  <g mask="url(#gcFadeMask)">
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 344"
+        to="0 -1377"
+        dur="79s"
+        repeatCount="indefinite"/>
+<g id="gc-hero" transform="translate(0 0)">
+<text x="50%" y="22" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#f2d56b" opacity="0.82">OPEN SOURCE CREDITS</text>
+<text class="gc-title" x="450" y="72" text-anchor="middle" font-family="Avenir Next, Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="800" fill="#fff8df">STARLIGHT-CREDITS</text>
+<text class="gc-owner" x="50%" y="106" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="500" fill="#cfcfcf" opacity="0.88">by octo-studio</text>
+<line x1="260" y1="138" x2="640" y2="138" stroke="#f2d56b" stroke-width="1" opacity="0.36"/>
+<rect x="229" y="135" width="6" height="6" fill="#f2d56b" opacity="0.58" transform="rotate(45 232 138)"/>
+<rect x="665" y="135" width="6" height="6" fill="#8ee6c8" opacity="0.46" transform="rotate(45 668 138)"/>
+</g>
+<g id="gc-metadata" transform="translate(0 214)">
+<text x="50%" y="18" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="500" fill="#f8f8f8" opacity="0.92">A cinematic README credits reel celebrating contributors, dependencies, and</text>
+<text x="50%" y="39" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="500" fill="#f8f8f8" opacity="0.92">sponsors.</text>
+<text x="50%" y="72" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600" fill="#f2d56b" opacity="0.82">★ 12876   ·   ⑂ 842   ·   MIT   ·   TypeScript</text>
+<line x1="330" y1="98" x2="570" y2="98" stroke="#ffffff" stroke-width="1" opacity="0.11"/>
+</g>
+<g id="gc-sponsors" transform="translate(0 374)">
+<desc>Open Collective - https://opencollective.com/starlight; GitHub Sponsors; Community Backers Guild</desc>
+<line x1="240" y1="0" x2="660" y2="0" stroke="#8ee6c8" stroke-width="1" opacity="0.26"/>
+<rect x="447" y="-3" width="6" height="6" fill="#8ee6c8" opacity="0.62" transform="rotate(45 450 0)"/>
+<text x="50%" y="30" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#8ee6c8">SPONSORED BY</text>
+<text x="50%" y="66" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#e8fff7">Open Collective</text>
+<text x="50%" y="86" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500" fill="#9fdcc9" opacity="0.82">opencollective.com/starlight</text>
+<text x="50%" y="114" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#e8fff7">GitHub Sponsors</text>
+<text x="50%" y="144" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="700" fill="#e8fff7">Community Backers Guild</text>
+</g>
+<g id="gc-contributors" transform="translate(0 598)">
+<line x1="220" y1="0" x2="680" y2="0" stroke="#f2d56b" stroke-width="1" opacity="0.28"/>
+<rect x="447" y="-3" width="6" height="6" fill="#f2d56b" opacity="0.64" transform="rotate(45 450 0)"/>
+<text x="50%" y="30" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="800" fill="#f2d56b">CONTRIBUTORS</text>
+<text x="50%" y="68" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19" font-weight="700" fill="#fff8df" opacity="1">@ada</text>
+<text x="50%" y="97" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19" font-weight="700" fill="#fff8df" opacity="1">@grace</text>
+<text x="50%" y="126" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19" font-weight="700" fill="#fff8df" opacity="1">@linus</text>
+<text x="50%" y="155" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" font-weight="500" fill="#f8f8f8" opacity="0.9">Local Patch Author</text>
+</g>
+<g id="gc-dependencies" transform="translate(0 838)">
+<line x1="255" y1="0" x2="645" y2="0" stroke="#a8b3ff" stroke-width="1" opacity="0.24"/>
+<rect x="447" y="-3" width="6" height="6" fill="#a8b3ff" opacity="0.58" transform="rotate(45 450 0)"/>
+<text x="50%" y="30" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="800" fill="#a8b3ff">POWERED BY</text>
+<text x="50%" y="66" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500" fill="#e8e8e8" opacity="0.88">@actions/core</text>
+<text x="50%" y="89" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500" fill="#e8e8e8" opacity="0.74">@actions/github</text>
+<text x="50%" y="112" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500" fill="#e8e8e8" opacity="0.88">@vercel/ncc</text>
+<text x="50%" y="135" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500" fill="#e8e8e8" opacity="0.74">typescript</text>
+<text x="50%" y="158" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500" fill="#e8e8e8" opacity="0.88">prettier</text>
+<text x="50%" y="181" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500" fill="#e8e8e8" opacity="0.74">eslint</text>
+<text x="50%" y="204" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="500" fill="#e8e8e8" opacity="0.88">tsx</text>
+</g>
+<g id="gc-thanks" transform="translate(0 1119)">
+<line x1="260" y1="28" x2="640" y2="28" stroke="#f2d56b" stroke-width="1" opacity="0.34"/>
+<rect x="229" y="25" width="6" height="6" fill="#f2d56b" opacity="0.54" transform="rotate(45 232 28)"/>
+<rect x="665" y="25" width="6" height="6" fill="#8ee6c8" opacity="0.46" transform="rotate(45 668 28)"/>
+<text x="450" y="98" text-anchor="middle" font-family="Avenir Next, Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="800" fill="#fff8df">THANK YOU</text>
+</g>
+    </g>
+  </g>
+</svg>
