@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/fbf3de0c3e7fcc61cf62274e74085ce59bbaaab1">fbf3de0</a>
+- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/30e8d6cb8feb9f349f5d671a53f21ea614ca0cb0">30e8d6c</a>
 - <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/7abeaf795c945e6a3666a94e03ba239933b79fb9">7abeaf7</a>
 - <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/9fa12bc380ad2d21d24f41ca7f5a0c222b0b1100">9fa12bc</a>
 - <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/33762f71f26219ace41a24429a2ae509622fd17d">33762f7</a>
