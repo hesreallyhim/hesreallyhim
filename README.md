@@ -18,10 +18,18 @@
 
 <br>
 
+<h1 align="center">NEW DRIP!!!</h1>
+
 <div align="center">
+<a href="https://six-stars.hesreallyhim.com">
+  <img src="https://github.com/hesreallyhim/six-stars/blob/main/.github/assets/banner.png?raw=true" alt="Six Stars Banner" />
+</a>
+</div>
+
+<!-- <div align="center">
 <a href="https://github.com/hesreallyhim/mistermind">
   <img src="assets/MISTERMIND-SOCIAL.png" alt="MisterMind" height="300px"/>
-</a>
+</a> -->
 <div align="center">
 
 <br>
