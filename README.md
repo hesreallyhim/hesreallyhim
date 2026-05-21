@@ -12,7 +12,7 @@
 
 <div align="center">
 <a href="https://github.com/sponsors/hesreallyhim">
-  <img src="assets/SPONSORS_01.svg" alt="Sponsors" />
+  <img src="assets/SPONSORS-no-pulse-3.svg" alt="Sponsors" />
 </a>
 </div>
 
