@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★3</a>
 * <a href="https://github.com/hesreallyhim/MinerU-Skill-fork">hesreallyhim/MinerU-Skill-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★2</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★2</a>
@@ -30,10 +29,11 @@ Repos:
 * <a href="https://github.com/hesreallyhim/Auto-Claude-fork">hesreallyhim/Auto-Claude-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/inkverse-fork">hesreallyhim/inkverse-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★2</a>
-* <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentpatterns">hesreallyhim/agentpatterns: ★2</a>
 * <a href="https://github.com/hesreallyhim/naming-fork">hesreallyhim/naming-fork: ★2</a>
+* <a href="https://github.com/hesreallyhim/harness-fork">hesreallyhim/harness-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/six-stars">hesreallyhim/six-stars: ★2</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code-toolkit">hesreallyhim/awesome-claude-code-toolkit: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
 * <a href="https://github.com/hesreallyhim/sql-tutorial">hesreallyhim/sql-tutorial: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/modelcontextprotocol">hesreallyhim-forks/modelcontextprotocol: ★1</a>
@@ -71,7 +71,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/DDD-sup">hesreallyhim/DDD-sup: ★1</a>
 * <a href="https://github.com/hesreallyhim/composio-fork">hesreallyhim/composio-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/pass-cli-fork">hesreallyhim/pass-cli-fork: ★1</a>
-* <a href="https://github.com/hesreallyhim/harness-fork">hesreallyhim/harness-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/mistermind">hesreallyhim/mistermind: ★1</a>
 * <a href="https://github.com/hesreallyhim/ux-audit-fork">hesreallyhim/ux-audit-fork: ★1</a>
 
