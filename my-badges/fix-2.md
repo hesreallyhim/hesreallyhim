@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/6dc91d14a6eca3d2c0777c233f4bbdb4c5ee2784">6dc91d1</a>: fix(item): remove output param from login create schemas
-- <a href="https://github.com/hesreallyhim/proton-pass-community-mcp/commit/7c73739b8c096c604e7a172859283e5b5dc4907d">7c73739</a>: fix(pass-cli): normalize output arg policy in runner
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/b4e301868ae5c1e6f358577413bd43cd62edafbc">b4e3018</a>: fix: make list string concatenation explicit for CodeQL
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/eb31d9b7647ea40f7ab129d9ee9c86d9eb9beaf8">eb31d9b</a>: fix: avoid CodeQL clear-text alert for add-mask command
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
