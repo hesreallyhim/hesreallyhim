@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/b196c1dcd924d18d855380f9be34f2a7bacaae28">b196c1d</a>: fix: styling - size
-- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/bdda11af005df7be9944cb88e0dfedca117cb44c">bdda11a</a>: fix: styling - size
-- <a href="https://github.com/hesreallyhim/my-pgp-inbox/commit/2c15e99172262e2262bf6d4e9b1e0f1b689459d8">2c15e99</a>: fix: styling - size
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/d7bbfde4de9e0fc2738dbb2bd55c498394f71676">d7bbfde</a>: fix: align unlock intro copy width
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/a6f7d44ed74f2d39ad794fc78051b36be47347a4">a6f7d44</a>: fix: cap mobile unlock wordmark size
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/09012042bb902fd1ac668080d96ca341bf8ceacc">0901204</a>: fix: avoid password manager icon collision
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
