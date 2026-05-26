@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/d7bbfde4de9e0fc2738dbb2bd55c498394f71676">d7bbfde</a>: fix: align unlock intro copy width
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/a6f7d44ed74f2d39ad794fc78051b36be47347a4">a6f7d44</a>: fix: cap mobile unlock wordmark size
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/09012042bb902fd1ac668080d96ca341bf8ceacc">0901204</a>: fix: avoid password manager icon collision
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/2eabb72522c823b3f669c1e9b72195eb7fae387a">2eabb72</a>: fix: require explicit repo visibility context
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/15b45b9c3576fa6ff8489a427083a386021657e7">15b45b9</a>: fix: scope repo visibility tests to local context
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/0bf1132a01695e0ee812005907ebefc8ea985751">0bf1132</a>: fix: fail closed when repo visibility cannot be determined
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
