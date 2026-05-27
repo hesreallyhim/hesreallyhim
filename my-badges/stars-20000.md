@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★44798</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim/awesome-claude-code: ★44887</a>
 * <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1245</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★42</a>
 * <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★38</a>
@@ -45,7 +45,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim-forks/idk">hesreallyhim-forks/idk: ★2</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-code-toast-fork">hesreallyhim-forks/claude-code-toast-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/transfer-github-forks">hesreallyhim/transfer-github-forks: ★2</a>
-* <a href="https://github.com/hesreallyhim/skills-introduction-to-github">hesreallyhim/skills-introduction-to-github: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★2</a>
 * <a href="https://github.com/hesreallyhim/my-pgp-inbox">hesreallyhim/my-pgp-inbox: ★2</a>
 * <a href="https://github.com/hesreallyhim/github-gpg-badge">hesreallyhim/github-gpg-badge: ★2</a>

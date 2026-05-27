@@ -4,6 +4,7 @@
 
 Repos:
 
+* <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/MinerU-Skill-fork">hesreallyhim/MinerU-Skill-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★2</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★2</a>
@@ -19,7 +20,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim-forks/idk">hesreallyhim-forks/idk: ★2</a>
 * <a href="https://github.com/hesreallyhim-forks/claude-code-toast-fork">hesreallyhim-forks/claude-code-toast-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/transfer-github-forks">hesreallyhim/transfer-github-forks: ★2</a>
-* <a href="https://github.com/hesreallyhim/skills-introduction-to-github">hesreallyhim/skills-introduction-to-github: ★2</a>
 * <a href="https://github.com/hesreallyhim/claude-code-templates">hesreallyhim/claude-code-templates: ★2</a>
 * <a href="https://github.com/hesreallyhim/my-pgp-inbox">hesreallyhim/my-pgp-inbox: ★2</a>
 * <a href="https://github.com/hesreallyhim/github-gpg-badge">hesreallyhim/github-gpg-badge: ★2</a>
