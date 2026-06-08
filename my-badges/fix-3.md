@@ -4,53 +4,35 @@
 
 Commits:
 
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/8c5ae425155e9f06789d60eb0c3cc2b6adccb3b5">8c5ae42</a>: fix(ci): disable SBOM release asset uploads
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/4f774c6e78a8139d42ce6b172118d4f89b2512f8">4f774c6</a>: fix(ci): fix non-compliant workflows (#51)
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/ce0a167a03b5131ebc82b6c326f6fd9c9b62c00d">ce0a167</a>: fix: module entry point (#94)
 
-* fix(ci): avoid invalid syft dependency snapshot purl
+* fix: run composite runtime as package module
 
-* fix(ci): avoid unpinned osv reusable workflow
+* fix: keep runtime version in release sync
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/6701e59bb8613bca2286f3b3c6b4507768ec14e0">6701e59</a>: fix: avoid expressions in action descriptions (#92)
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/5fabba7b6fa289fd25541e906ce0f246d40c59e8">5fabba7</a>: fix: reduce complexity (#90)
 
-* fix(ci): reject remote reusable workflows
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/bb1eddd30d6a9fb17b509f4f02da98a83acff6af">bb1eddd</a>: fix(ci): security and provenance hardening (#49)
+* test: expand load data coverage
 
-* docs: clarify dashboard artifact hardening
+* chore: gitignore build
 
-* fix: add dashboard content security policy
+* refactor: split load data modules
 
-* ci: add supply-chain security workflows
+* refactor: organize load data modules
 
-* docs: close todo and add roadmap
+* refactor: document load data modules
 
-* docs: update some docs
+* chore: formatting
 
-* docs: document provenance guarantees
+* test: expand collect coverage
 
-* docs: expand provenance coverage
+* refactor: split collect modules
 
-* docs: refine provenance audience and references
+* test: expand run coverage
 
-* build: lock runtime dependencies
+* refactor: split run modules
 
-* build: automate vendored asset updates
-
-* ci: align action runtime with python 3.11
-
-* docs: propose template output assurance adr
-
-* ci: add runtime lock validation badge
-
-* test: add fixture checks to pre-commit
-
-* test: assert collection quality preview output
-
-* docs: FAQ and ROADMAP
-
-* ci: minimize osv scanner workflow permissions
-
-* security: align dashboard pbkdf iterations
-
-* docs: tweak wording in FAQ
+* refactor: split readme asset renderers
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
