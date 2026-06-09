@@ -6,6 +6,7 @@ Repos:
 
 * <a href="https://github.com/hesreallyhim/MinerU-Skill-fork">hesreallyhim/MinerU-Skill-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/harness-fork">hesreallyhim/harness-fork: ★3</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code-toolkit">hesreallyhim/awesome-claude-code-toolkit: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★2</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★2</a>
 * <a href="https://github.com/hesreallyhim/streamlit-chatbot">hesreallyhim/streamlit-chatbot: ★2</a>
@@ -32,7 +33,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/agentpatterns">hesreallyhim/agentpatterns: ★2</a>
 * <a href="https://github.com/hesreallyhim/naming-fork">hesreallyhim/naming-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/six-stars">hesreallyhim/six-stars: ★2</a>
-* <a href="https://github.com/hesreallyhim/awesome-claude-code-toolkit">hesreallyhim/awesome-claude-code-toolkit: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentic-chunking">hesreallyhim/agentic-chunking: ★1</a>
 * <a href="https://github.com/hesreallyhim/sql-tutorial">hesreallyhim/sql-tutorial: ★1</a>
 * <a href="https://github.com/hesreallyhim-forks/modelcontextprotocol">hesreallyhim-forks/modelcontextprotocol: ★1</a>
