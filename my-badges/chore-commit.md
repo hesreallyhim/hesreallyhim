@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/572fd7eaed187f307d6c686492fddef2bbcc34d9">572fd7e</a>: chore: fix markdown alert syntax
+- <a href="https://github.com/reponomics/PolicyChecks/commit/e16f9fd2105bab828820cf2c0f0cd11bdddb5c56">e16f9fd</a>: chore(deps): update deps (#19)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

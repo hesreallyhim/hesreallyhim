@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★3</a>
 * <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/harness-fork">hesreallyhim/harness-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★2</a>
@@ -72,7 +71,10 @@ Repos:
 * <a href="https://github.com/hesreallyhim/pass-cli-fork">hesreallyhim/pass-cli-fork: ★1</a>
 * <a href="https://github.com/hesreallyhim/mistermind">hesreallyhim/mistermind: ★1</a>
 * <a href="https://github.com/hesreallyhim/ux-audit-fork">hesreallyhim/ux-audit-fork: ★1</a>
+* <a href="https://github.com/reponomics/reponomics-dashboard-dev">reponomics/reponomics-dashboard-dev: ★1</a>
+* <a href="https://github.com/reponomics/reponomics-dashboard-action">reponomics/reponomics-dashboard-action: ★1</a>
 * <a href="https://github.com/hesreallyhim/docs-github-fork">hesreallyhim/docs-github-fork: ★1</a>
+* <a href="https://github.com/reponomics/PolicyChecks">reponomics/PolicyChecks: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
