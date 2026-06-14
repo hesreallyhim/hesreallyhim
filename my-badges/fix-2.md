@@ -4,8 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/b4e301868ae5c1e6f358577413bd43cd62edafbc">b4e3018</a>: fix: make list string concatenation explicit for CodeQL
-- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/eb31d9b7647ea40f7ab129d9ee9c86d9eb9beaf8">eb31d9b</a>: fix: avoid CodeQL clear-text alert for add-mask command
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/6f5a16151400466d4ae9fb79f96a7d42f931d944">6f5a161</a>: fix: dashboard graph bugs and demo workflow token
+
+* fix: use demo github token for seed download
+
+* fix: repair dashboard calendar and growth charts
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/da0a87e9d25fcc11c3d3089498bd393b944e8b72">da0a87e</a>: fix: harden demo artifact publication (#114)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
