@@ -13,8 +13,8 @@ Repos:
 * <a href="https://github.com/hesreallyhim/really-claude-code">hesreallyhim/really-claude-code: ★12</a>
 * <a href="https://github.com/hesreallyhim/proton-pass-community-mcp">hesreallyhim/proton-pass-community-mcp: ★11</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-monitor">hesreallyhim/github-api-usage-monitor: ★9</a>
+* <a href="https://github.com/hesreallyhim/awesome-claude-code-toolkit">hesreallyhim/awesome-claude-code-toolkit: ★9</a>
 * <a href="https://github.com/hesreallyhim/claude-skills">hesreallyhim/claude-skills: ★8</a>
-* <a href="https://github.com/hesreallyhim/awesome-claude-code-toolkit">hesreallyhim/awesome-claude-code-toolkit: ★8</a>
 * <a href="https://github.com/hesreallyhim/server-nothing">hesreallyhim/server-nothing: ★7</a>
 * <a href="https://github.com/hesreallyhim/antipasta">hesreallyhim/antipasta: ★6</a>
 * <a href="https://github.com/hesreallyhim/hesreallyhim">hesreallyhim/hesreallyhim: ★6</a>
