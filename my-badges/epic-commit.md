@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/aff3952202efba0f8830f8576356276fbdf81bf3">aff3952</a>
 - <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/4707adf30e89bb01039d9b6d1ec23fdbd8a0a943">4707adf</a>
 - <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/c811d73063e323ea57c15b19fa21423326368540">c811d73</a>
 - <a href="https://github.com/reponomics/reponomics-dashboard-action/commit/85a3ba88a18c99e2fef56723c7ab34ebe4dd62e0">85a3ba8</a>
