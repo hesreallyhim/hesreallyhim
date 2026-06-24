@@ -4,8 +4,8 @@
 
 Repos:
 
+* <a href="https://github.com/hesreallyhim/Auto-Claude-fork">hesreallyhim/Auto-Claude-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/agent-skills">hesreallyhim/agent-skills: ★3</a>
-* <a href="https://github.com/hesreallyhim/poirot-fork">hesreallyhim/poirot-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/harness-fork">hesreallyhim/harness-fork: ★3</a>
 * <a href="https://github.com/hesreallyhim/mcp-server-isitdown">hesreallyhim/mcp-server-isitdown: ★2</a>
 * <a href="https://github.com/hesreallyhim/python-tutorials">hesreallyhim/python-tutorials: ★2</a>
@@ -26,7 +26,6 @@ Repos:
 * <a href="https://github.com/hesreallyhim/claude-codex-settings">hesreallyhim/claude-codex-settings: ★2</a>
 * <a href="https://github.com/hesreallyhim/github-api-usage-tracker">hesreallyhim/github-api-usage-tracker: ★2</a>
 * <a href="https://github.com/hesreallyhim/ralph-playbook">hesreallyhim/ralph-playbook: ★2</a>
-* <a href="https://github.com/hesreallyhim/Auto-Claude-fork">hesreallyhim/Auto-Claude-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/inkverse-fork">hesreallyhim/inkverse-fork: ★2</a>
 * <a href="https://github.com/hesreallyhim/robot-in-the-loop">hesreallyhim/robot-in-the-loop: ★2</a>
 * <a href="https://github.com/hesreallyhim/agentpatterns">hesreallyhim/agentpatterns: ★2</a>
