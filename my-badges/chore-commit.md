@@ -4,11 +4,13 @@
 
 Commits:
 
-- <a href="https://github.com/reponomics/PolicyChecks/commit/72b65e8c5aa50a32b61c96097fd7861114ada6ec">72b65e8</a>: chore(deps): update deps (#27)
+- <a href="https://github.com/reponomics/PolicyChecks/commit/8c97a4a74320d8fcb843cd7411fdae7df5c2146c">8c97a4a</a>: chore(deps): update actions checkout (#40)
+
+* docs: add SUPPORT.md
 
 * chore(deps): update deps
 
-* chore(deps): update deps
+* chore(deps): update actions checkout
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
