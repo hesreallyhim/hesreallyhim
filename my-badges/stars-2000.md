@@ -5,9 +5,9 @@
 Repos:
 
 * <a href="https://github.com/hesreallyhim/a-list-of-claude-code-agents">hesreallyhim/a-list-of-claude-code-agents: ★1324</a>
-* <a href="https://github.com/ishandutta2007/Top-AI-repos">ishandutta2007/Top-AI-repos: ★368</a>
+* <a href="https://github.com/ishandutta2007/Top-AI-repos">ishandutta2007/Top-AI-repos: ★369</a>
 * <a href="https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like">hesreallyhim/awesome-claude-code-output-styles-that-i-really-like: ★47</a>
-* <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★42</a>
+* <a href="https://github.com/hesreallyhim/diy-tools-mcp">hesreallyhim/diy-tools-mcp: ★43</a>
 * <a href="https://github.com/hesreallyhim/claude-code-fork">hesreallyhim/claude-code-fork: ★27</a>
 * <a href="https://github.com/hesreallyhim/mcp-observer-server">hesreallyhim/mcp-observer-server: ★22</a>
 * <a href="https://github.com/hesreallyhim/really-claude-code">hesreallyhim/really-claude-code: ★17</a>
