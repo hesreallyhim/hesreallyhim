@@ -4,13 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/reponomics/PolicyChecks/commit/8c97a4a74320d8fcb843cd7411fdae7df5c2146c">8c97a4a</a>: chore(deps): update actions checkout (#40)
-
-* docs: add SUPPORT.md
-
-* chore(deps): update deps
-
-* chore(deps): update actions checkout
+- <a href="https://github.com/hesreallyhim/pydry/commit/cf4f7b249d6ef3e2826477c96fa1469b2da6f70a">cf4f7b2</a>: chore: release v0.0.3
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
