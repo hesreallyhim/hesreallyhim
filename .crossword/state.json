@@ -2,11 +2,13 @@
   "schemaVersion": 1,
   "puzzleId": "001",
   "publishedAt": "2026-09-08T19:55:01.007Z",
-  "revision": 1,
+  "revision": 2,
   "revealedCells": {
     "r1c1": "C",
     "r1c2": "S",
-    "r1c3": "S"
+    "r1c3": "S",
+    "r2c1": "U",
+    "r3c1": "T"
   },
   "moves": [
     {
@@ -16,6 +18,17 @@
       "previousRevision": 0,
       "revision": 1,
       "submittedAt": "2026-09-08T21:07:40Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 5,
+      "clueId": "D1",
+      "guess": "CUT",
+      "previousRevision": 1,
+      "revision": 2,
+      "submittedAt": "2026-09-08T22:45:30Z",
       "attribution": {
         "userId": 172150522
       }
