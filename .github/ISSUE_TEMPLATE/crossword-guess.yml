@@ -1,0 +1,36 @@
+name: "Crossword guess"
+description: "Please use one of the links from the game board: https://github.com/hesreallyhim"
+labels:
+  - "crossword:guess"
+  - "puzzle:001"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The board below reflects the board state at the time that you landed on this page. Guesses are checked against the live state, so keep in mind that other users may be trying to solve this same clue.
+        
+        ### Puzzle #1
+        
+        Tuesday, September 8, 2026
+        
+        <picture>
+          <img src="https://github.com/hesreallyhim/hesreallyhim/blob/main/assets/board.svg?raw=1&v=0" alt="Crossword board" width="420">
+        </picture>
+        
+        Submit one complete guess below using uppercase or lowercase letters. Enter the whole guess, including any letters that may already exist on the board.
+  - type: input
+    id: clue
+    attributes:
+      label: "Clue"
+      description: "Enter a clue id such as A14 (14 Across) or D14 (14 Down)."
+      placeholder: "A14"
+    validations:
+      required: true
+  - type: input
+    id: guess
+    attributes:
+      label: "Guess"
+      description: "Enter the complete answer. Letters A-Z only; case does not matter."
+      placeholder: "ANSWER"
+    validations:
+      required: true

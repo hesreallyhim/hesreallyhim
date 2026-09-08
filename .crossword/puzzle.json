@@ -1,3 +1,852 @@
 {
-  "puzzleId": "000"
+  "schemaVersion": 2,
+  "puzzleId": "001",
+  "title": "Puzzle #1",
+  "blank": "_",
+  "dimensions": {
+    "rows": 9,
+    "columns": 9
+  },
+  "cells": [
+    {
+      "id": "r1c1",
+      "row": 1,
+      "column": 1,
+      "kind": "letter",
+      "number": 1
+    },
+    {
+      "id": "r1c2",
+      "row": 1,
+      "column": 2,
+      "kind": "letter",
+      "number": 2
+    },
+    {
+      "id": "r1c3",
+      "row": 1,
+      "column": 3,
+      "kind": "letter",
+      "number": 3
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "kind": "block"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "kind": "block"
+    },
+    {
+      "row": 1,
+      "column": 6,
+      "kind": "block"
+    },
+    {
+      "id": "r1c7",
+      "row": 1,
+      "column": 7,
+      "kind": "letter",
+      "number": 4
+    },
+    {
+      "id": "r1c8",
+      "row": 1,
+      "column": 8,
+      "kind": "letter",
+      "number": 5
+    },
+    {
+      "id": "r1c9",
+      "row": 1,
+      "column": 9,
+      "kind": "letter",
+      "number": 6
+    },
+    {
+      "id": "r2c1",
+      "row": 2,
+      "column": 1,
+      "kind": "letter",
+      "number": 7
+    },
+    {
+      "id": "r2c2",
+      "row": 2,
+      "column": 2,
+      "kind": "letter"
+    },
+    {
+      "id": "r2c3",
+      "row": 2,
+      "column": 3,
+      "kind": "letter"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "kind": "block"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "kind": "block"
+    },
+    {
+      "row": 2,
+      "column": 6,
+      "kind": "block"
+    },
+    {
+      "id": "r2c7",
+      "row": 2,
+      "column": 7,
+      "kind": "letter",
+      "number": 8
+    },
+    {
+      "id": "r2c8",
+      "row": 2,
+      "column": 8,
+      "kind": "letter"
+    },
+    {
+      "id": "r2c9",
+      "row": 2,
+      "column": 9,
+      "kind": "letter"
+    },
+    {
+      "id": "r3c1",
+      "row": 3,
+      "column": 1,
+      "kind": "letter",
+      "number": 9
+    },
+    {
+      "id": "r3c2",
+      "row": 3,
+      "column": 2,
+      "kind": "letter"
+    },
+    {
+      "id": "r3c3",
+      "row": 3,
+      "column": 3,
+      "kind": "letter"
+    },
+    {
+      "id": "r3c4",
+      "row": 3,
+      "column": 4,
+      "kind": "letter",
+      "number": 10
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "kind": "block"
+    },
+    {
+      "id": "r3c6",
+      "row": 3,
+      "column": 6,
+      "kind": "letter",
+      "number": 11
+    },
+    {
+      "id": "r3c7",
+      "row": 3,
+      "column": 7,
+      "kind": "letter"
+    },
+    {
+      "id": "r3c8",
+      "row": 3,
+      "column": 8,
+      "kind": "letter"
+    },
+    {
+      "id": "r3c9",
+      "row": 3,
+      "column": 9,
+      "kind": "letter"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "kind": "block"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "kind": "block"
+    },
+    {
+      "id": "r4c3",
+      "row": 4,
+      "column": 3,
+      "kind": "letter",
+      "number": 12
+    },
+    {
+      "id": "r4c4",
+      "row": 4,
+      "column": 4,
+      "kind": "letter"
+    },
+    {
+      "id": "r4c5",
+      "row": 4,
+      "column": 5,
+      "kind": "letter",
+      "number": 13
+    },
+    {
+      "id": "r4c6",
+      "row": 4,
+      "column": 6,
+      "kind": "letter"
+    },
+    {
+      "id": "r4c7",
+      "row": 4,
+      "column": 7,
+      "kind": "letter"
+    },
+    {
+      "row": 4,
+      "column": 8,
+      "kind": "block"
+    },
+    {
+      "row": 4,
+      "column": 9,
+      "kind": "block"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "kind": "block"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "kind": "block"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "kind": "block"
+    },
+    {
+      "id": "r5c4",
+      "row": 5,
+      "column": 4,
+      "kind": "letter",
+      "number": 14
+    },
+    {
+      "id": "r5c5",
+      "row": 5,
+      "column": 5,
+      "kind": "letter"
+    },
+    {
+      "id": "r5c6",
+      "row": 5,
+      "column": 6,
+      "kind": "letter"
+    },
+    {
+      "row": 5,
+      "column": 7,
+      "kind": "block"
+    },
+    {
+      "row": 5,
+      "column": 8,
+      "kind": "block"
+    },
+    {
+      "row": 5,
+      "column": 9,
+      "kind": "block"
+    },
+    {
+      "row": 6,
+      "column": 1,
+      "kind": "block"
+    },
+    {
+      "row": 6,
+      "column": 2,
+      "kind": "block"
+    },
+    {
+      "id": "r6c3",
+      "row": 6,
+      "column": 3,
+      "kind": "letter",
+      "number": 15
+    },
+    {
+      "id": "r6c4",
+      "row": 6,
+      "column": 4,
+      "kind": "letter"
+    },
+    {
+      "id": "r6c5",
+      "row": 6,
+      "column": 5,
+      "kind": "letter"
+    },
+    {
+      "id": "r6c6",
+      "row": 6,
+      "column": 6,
+      "kind": "letter"
+    },
+    {
+      "id": "r6c7",
+      "row": 6,
+      "column": 7,
+      "kind": "letter",
+      "number": 16
+    },
+    {
+      "row": 6,
+      "column": 8,
+      "kind": "block"
+    },
+    {
+      "row": 6,
+      "column": 9,
+      "kind": "block"
+    },
+    {
+      "id": "r7c1",
+      "row": 7,
+      "column": 1,
+      "kind": "letter",
+      "number": 17
+    },
+    {
+      "id": "r7c2",
+      "row": 7,
+      "column": 2,
+      "kind": "letter",
+      "number": 18
+    },
+    {
+      "id": "r7c3",
+      "row": 7,
+      "column": 3,
+      "kind": "letter"
+    },
+    {
+      "id": "r7c4",
+      "row": 7,
+      "column": 4,
+      "kind": "letter"
+    },
+    {
+      "row": 7,
+      "column": 5,
+      "kind": "block"
+    },
+    {
+      "id": "r7c6",
+      "row": 7,
+      "column": 6,
+      "kind": "letter",
+      "number": 19
+    },
+    {
+      "id": "r7c7",
+      "row": 7,
+      "column": 7,
+      "kind": "letter"
+    },
+    {
+      "id": "r7c8",
+      "row": 7,
+      "column": 8,
+      "kind": "letter",
+      "number": 20
+    },
+    {
+      "id": "r7c9",
+      "row": 7,
+      "column": 9,
+      "kind": "letter",
+      "number": 21
+    },
+    {
+      "id": "r8c1",
+      "row": 8,
+      "column": 1,
+      "kind": "letter",
+      "number": 22
+    },
+    {
+      "id": "r8c2",
+      "row": 8,
+      "column": 2,
+      "kind": "letter"
+    },
+    {
+      "id": "r8c3",
+      "row": 8,
+      "column": 3,
+      "kind": "letter"
+    },
+    {
+      "row": 8,
+      "column": 4,
+      "kind": "block"
+    },
+    {
+      "row": 8,
+      "column": 5,
+      "kind": "block"
+    },
+    {
+      "row": 8,
+      "column": 6,
+      "kind": "block"
+    },
+    {
+      "id": "r8c7",
+      "row": 8,
+      "column": 7,
+      "kind": "letter",
+      "number": 23
+    },
+    {
+      "id": "r8c8",
+      "row": 8,
+      "column": 8,
+      "kind": "letter"
+    },
+    {
+      "id": "r8c9",
+      "row": 8,
+      "column": 9,
+      "kind": "letter"
+    },
+    {
+      "id": "r9c1",
+      "row": 9,
+      "column": 1,
+      "kind": "letter",
+      "number": 24
+    },
+    {
+      "id": "r9c2",
+      "row": 9,
+      "column": 2,
+      "kind": "letter"
+    },
+    {
+      "id": "r9c3",
+      "row": 9,
+      "column": 3,
+      "kind": "letter"
+    },
+    {
+      "row": 9,
+      "column": 4,
+      "kind": "block"
+    },
+    {
+      "row": 9,
+      "column": 5,
+      "kind": "block"
+    },
+    {
+      "row": 9,
+      "column": 6,
+      "kind": "block"
+    },
+    {
+      "id": "r9c7",
+      "row": 9,
+      "column": 7,
+      "kind": "letter",
+      "number": 25
+    },
+    {
+      "id": "r9c8",
+      "row": 9,
+      "column": 8,
+      "kind": "letter"
+    },
+    {
+      "id": "r9c9",
+      "row": 9,
+      "column": 9,
+      "kind": "letter"
+    }
+  ],
+  "clues": [
+    {
+      "id": "A1",
+      "number": 1,
+      "direction": "across",
+      "cellIds": [
+        "r1c1",
+        "r1c2",
+        "r1c3"
+      ],
+      "text": "Reason the button is three pixels off, initially"
+    },
+    {
+      "id": "D1",
+      "number": 1,
+      "direction": "down",
+      "cellIds": [
+        "r1c1",
+        "r2c1",
+        "r3c1"
+      ],
+      "text": "Trim, as scope"
+    },
+    {
+      "id": "D2",
+      "number": 2,
+      "direction": "down",
+      "cellIds": [
+        "r1c2",
+        "r2c2",
+        "r3c2"
+      ],
+      "text": "Secure way into a remote box"
+    },
+    {
+      "id": "D3",
+      "number": 3,
+      "direction": "down",
+      "cellIds": [
+        "r1c3",
+        "r2c3",
+        "r3c3",
+        "r4c3"
+      ],
+      "text": "Close tightly, or a clapping mammal"
+    },
+    {
+      "id": "A4",
+      "number": 4,
+      "direction": "across",
+      "cellIds": [
+        "r1c7",
+        "r1c8",
+        "r1c9"
+      ],
+      "text": "Charge"
+    },
+    {
+      "id": "D4",
+      "number": 4,
+      "direction": "down",
+      "cellIds": [
+        "r1c7",
+        "r2c7",
+        "r3c7",
+        "r4c7"
+      ],
+      "text": "Coffee, functionally"
+    },
+    {
+      "id": "D5",
+      "number": 5,
+      "direction": "down",
+      "cellIds": [
+        "r1c8",
+        "r2c8",
+        "r3c8"
+      ],
+      "text": "Notable stretch of time"
+    },
+    {
+      "id": "D6",
+      "number": 6,
+      "direction": "down",
+      "cellIds": [
+        "r1c9",
+        "r2c9",
+        "r3c9"
+      ],
+      "text": "Ruby block closer"
+    },
+    {
+      "id": "A7",
+      "number": 7,
+      "direction": "across",
+      "cellIds": [
+        "r2c1",
+        "r2c2",
+        "r2c3"
+      ],
+      "text": "Employ"
+    },
+    {
+      "id": "A8",
+      "number": 8,
+      "direction": "across",
+      "cellIds": [
+        "r2c7",
+        "r2c8",
+        "r2c9"
+      ],
+      "text": "Coffee dispenser at conferences"
+    },
+    {
+      "id": "A9",
+      "number": 9,
+      "direction": "across",
+      "cellIds": [
+        "r3c1",
+        "r3c2",
+        "r3c3",
+        "r3c4"
+      ],
+      "text": "Unfreeze"
+    },
+    {
+      "id": "D10",
+      "number": 10,
+      "direction": "down",
+      "cellIds": [
+        "r3c4",
+        "r4c4",
+        "r5c4",
+        "r6c4",
+        "r7c4"
+      ],
+      "text": "Band___ (what everyone jumps on)"
+    },
+    {
+      "id": "A11",
+      "number": 11,
+      "direction": "across",
+      "cellIds": [
+        "r3c6",
+        "r3c7",
+        "r3c8",
+        "r3c9"
+      ],
+      "text": "Where git points right now"
+    },
+    {
+      "id": "D11",
+      "number": 11,
+      "direction": "down",
+      "cellIds": [
+        "r3c6",
+        "r4c6",
+        "r5c6",
+        "r6c6",
+        "r7c6"
+      ],
+      "text": "With 15-Across, the classic first program's entire output"
+    },
+    {
+      "id": "A12",
+      "number": 12,
+      "direction": "across",
+      "cellIds": [
+        "r4c3",
+        "r4c4",
+        "r4c5",
+        "r4c6",
+        "r4c7"
+      ],
+      "text": "What the bot sticks on your issue here"
+    },
+    {
+      "id": "D13",
+      "number": 13,
+      "direction": "down",
+      "cellIds": [
+        "r4c5",
+        "r5c5",
+        "r6c5"
+      ],
+      "text": "Foo's constant companion"
+    },
+    {
+      "id": "A14",
+      "number": 14,
+      "direction": "across",
+      "cellIds": [
+        "r5c4",
+        "r5c5",
+        "r5c6"
+      ],
+      "text": "Lass"
+    },
+    {
+      "id": "A15",
+      "number": 15,
+      "direction": "across",
+      "cellIds": [
+        "r6c3",
+        "r6c4",
+        "r6c5",
+        "r6c6",
+        "r6c7"
+      ],
+      "text": "See 11-Down"
+    },
+    {
+      "id": "D15",
+      "number": 15,
+      "direction": "down",
+      "cellIds": [
+        "r6c3",
+        "r7c3",
+        "r8c3",
+        "r9c3"
+      ],
+      "text": "Erase completely"
+    },
+    {
+      "id": "D16",
+      "number": 16,
+      "direction": "down",
+      "cellIds": [
+        "r6c7",
+        "r7c7",
+        "r8c7",
+        "r9c7"
+      ],
+      "text": "Plural of anecdote, jokingly"
+    },
+    {
+      "id": "A17",
+      "number": 17,
+      "direction": "across",
+      "cellIds": [
+        "r7c1",
+        "r7c2",
+        "r7c3",
+        "r7c4"
+      ],
+      "text": "What loaders do"
+    },
+    {
+      "id": "D17",
+      "number": 17,
+      "direction": "down",
+      "cellIds": [
+        "r7c1",
+        "r8c1",
+        "r9c1"
+      ],
+      "text": "Single-page app, or resort"
+    },
+    {
+      "id": "D18",
+      "number": 18,
+      "direction": "down",
+      "cellIds": [
+        "r7c2",
+        "r8c2",
+        "r9c2"
+      ],
+      "text": "Honey___ (attacker bait)"
+    },
+    {
+      "id": "A19",
+      "number": 19,
+      "direction": "across",
+      "cellIds": [
+        "r7c6",
+        "r7c7",
+        "r7c8",
+        "r7c9"
+      ],
+      "text": "Solemn promise"
+    },
+    {
+      "id": "D20",
+      "number": 20,
+      "direction": "down",
+      "cellIds": [
+        "r7c8",
+        "r8c8",
+        "r9c8"
+      ],
+      "text": "Perfect score"
+    },
+    {
+      "id": "D21",
+      "number": 21,
+      "direction": "down",
+      "cellIds": [
+        "r7c9",
+        "r8c9",
+        "r9c9"
+      ],
+      "text": "White or black, for a hacker"
+    },
+    {
+      "id": "A22",
+      "number": 22,
+      "direction": "across",
+      "cellIds": [
+        "r8c1",
+        "r8c2",
+        "r8c3"
+      ],
+      "text": "Remove from the stack"
+    },
+    {
+      "id": "A23",
+      "number": 23,
+      "direction": "across",
+      "cellIds": [
+        "r8c7",
+        "r8c8",
+        "r8c9"
+      ],
+      "text": "Spill it!"
+    },
+    {
+      "id": "A24",
+      "number": 24,
+      "direction": "across",
+      "cellIds": [
+        "r9c1",
+        "r9c2",
+        "r9c3"
+      ],
+      "text": "Took down a burrito"
+    },
+    {
+      "id": "A25",
+      "number": 25,
+      "direction": "across",
+      "cellIds": [
+        "r9c7",
+        "r9c8",
+        "r9c9"
+      ],
+      "text": "Java build tool, or picnic crasher"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cross Word Puzzle Book JSON corpus",
+    "sourcePuzzleId": null,
+    "author": "puzgen",
+    "sourceUrl": null,
+    "publicDomainBasis": "Original generated grid and original clues.",
+    "importerVersion": "readme-crossword-cwpb-v2",
+    "corrections": []
+  }
 }
