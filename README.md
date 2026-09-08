@@ -1,3 +1,7 @@
+<picture>
+  <img src="assets/README-quartet-01.svg" alt="README-quartet-svg">
+</picture>
+
 <!-- crossword:start puzzle-id="001" -->
 ### Puzzle #1
 
