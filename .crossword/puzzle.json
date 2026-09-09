@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "puzzleId": "001",
-  "title": "Puzzle #1",
+  "puzzleId": "002",
+  "title": "Puzzle #2",
   "blank": "_",
   "dimensions": {
     "rows": 9,
@@ -502,7 +502,7 @@
         "r1c2",
         "r1c3"
       ],
-      "text": "Reason the button is three pixels off, initially"
+      "text": "Feathered wrap, or a constrictor"
     },
     {
       "id": "D1",
@@ -513,7 +513,7 @@
         "r2c1",
         "r3c1"
       ],
-      "text": "Trim, as scope"
+      "text": "Luhrmann who directed 'Moulin Rouge!'"
     },
     {
       "id": "D2",
@@ -524,7 +524,7 @@
         "r2c2",
         "r3c2"
       ],
-      "text": "Secure way into a remote box"
+      "text": "Miner's haul"
     },
     {
       "id": "D3",
@@ -536,7 +536,7 @@
         "r3c3",
         "r4c3"
       ],
-      "text": "Close tightly, or a clapping mammal"
+      "text": "Farm unit"
     },
     {
       "id": "A4",
@@ -547,7 +547,7 @@
         "r1c8",
         "r1c9"
       ],
-      "text": "Charge"
+      "text": "Command that tells you where you are"
     },
     {
       "id": "D4",
@@ -559,7 +559,7 @@
         "r3c7",
         "r4c7"
       ],
-      "text": "Coffee, functionally"
+      "text": "Programming for two"
     },
     {
       "id": "D5",
@@ -570,7 +570,7 @@
         "r2c8",
         "r3c8"
       ],
-      "text": "Notable stretch of time"
+      "text": "Quick humor"
     },
     {
       "id": "D6",
@@ -581,7 +581,7 @@
         "r2c9",
         "r3c9"
       ],
-      "text": "Ruby block closer"
+      "text": "Repeat-yourself-not principle"
     },
     {
       "id": "A7",
@@ -592,7 +592,7 @@
         "r2c2",
         "r2c3"
       ],
-      "text": "Employ"
+      "text": "Rainbow shape"
     },
     {
       "id": "A8",
@@ -603,7 +603,7 @@
         "r2c8",
         "r2c9"
       ],
-      "text": "Coffee dispenser at conferences"
+      "text": "What the cloud is not actually made of"
     },
     {
       "id": "A9",
@@ -615,7 +615,7 @@
         "r3c3",
         "r3c4"
       ],
-      "text": "Unfreeze"
+      "text": "Index where arrays start"
     },
     {
       "id": "D10",
@@ -628,7 +628,7 @@
         "r6c4",
         "r7c4"
       ],
-      "text": "Band___ (what everyone jumps on)"
+      "text": "Satellite's path"
     },
     {
       "id": "A11",
@@ -640,7 +640,7 @@
         "r3c8",
         "r3c9"
       ],
-      "text": "Where git points right now"
+      "text": "Urban area"
     },
     {
       "id": "D11",
@@ -653,7 +653,7 @@
         "r6c6",
         "r7c6"
       ],
-      "text": "With 15-Across, the classic first program's entire output"
+      "text": "Reef builder"
     },
     {
       "id": "A12",
@@ -666,7 +666,7 @@
         "r4c6",
         "r4c7"
       ],
-      "text": "What the bot sticks on your issue here"
+      "text": "Red console text"
     },
     {
       "id": "D13",
@@ -677,7 +677,7 @@
         "r5c5",
         "r6c5"
       ],
-      "text": "Foo's constant companion"
+      "text": "Executed"
     },
     {
       "id": "A14",
@@ -688,7 +688,7 @@
         "r5c5",
         "r5c6"
       ],
-      "text": "Lass"
+      "text": "Measure of music, or the traditional sequel to 20-Down"
     },
     {
       "id": "A15",
@@ -701,7 +701,7 @@
         "r6c6",
         "r6c7"
       ],
-      "text": "See 11-Down"
+      "text": "Java keyword that blocks overriding"
     },
     {
       "id": "D15",
@@ -713,7 +713,7 @@
         "r8c3",
         "r9c3"
       ],
-      "text": "Erase completely"
+      "text": "Reduce, to a functional programmer"
     },
     {
       "id": "D16",
@@ -725,7 +725,7 @@
         "r8c7",
         "r9c7"
       ],
-      "text": "Plural of anecdote, jokingly"
+      "text": "Conway's game"
     },
     {
       "id": "A17",
@@ -737,7 +737,7 @@
         "r7c3",
         "r7c4"
       ],
-      "text": "What loaders do"
+      "text": "Chart, or scheme"
     },
     {
       "id": "D17",
@@ -748,7 +748,7 @@
         "r8c1",
         "r9c1"
       ],
-      "text": "Single-page app, or resort"
+      "text": "Pod dweller"
     },
     {
       "id": "D18",
@@ -759,7 +759,7 @@
         "r8c2",
         "r9c2"
       ],
-      "text": "Honey___ (attacker bait)"
+      "text": "Blinking board light, initially"
     },
     {
       "id": "A19",
@@ -771,7 +771,7 @@
         "r7c8",
         "r7c9"
       ],
-      "text": "Solemn promise"
+      "text": "Elevator, in London"
     },
     {
       "id": "D20",
@@ -782,7 +782,7 @@
         "r8c8",
         "r9c8"
       ],
-      "text": "Perfect score"
+      "text": "Placeholder one letter shy of a meal"
     },
     {
       "id": "D21",
@@ -793,7 +793,7 @@
         "r8c9",
         "r9c9"
       ],
-      "text": "White or black, for a hacker"
+      "text": "Perfect score"
     },
     {
       "id": "A22",
@@ -804,7 +804,7 @@
         "r8c2",
         "r8c3"
       ],
-      "text": "Remove from the stack"
+      "text": "Slippery swimmer"
     },
     {
       "id": "A23",
@@ -815,7 +815,7 @@
         "r8c8",
         "r8c9"
       ],
-      "text": "Spill it!"
+      "text": "Adversary"
     },
     {
       "id": "A24",
@@ -826,7 +826,7 @@
         "r9c2",
         "r9c3"
       ],
-      "text": "Took down a burrito"
+      "text": "Stage, in git"
     },
     {
       "id": "A25",
@@ -837,7 +837,7 @@
         "r9c8",
         "r9c9"
       ],
-      "text": "Java build tool, or picnic crasher"
+      "text": "Very long time"
     }
   ],
   "provenance": {
