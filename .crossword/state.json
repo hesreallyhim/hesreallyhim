@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "002",
   "publishedAt": "2026-09-09T18:07:48.711Z",
-  "revision": 3,
+  "revision": 4,
   "revealedCells": {
     "r1c1": "B",
     "r1c2": "O",
@@ -12,7 +12,9 @@
     "r1c9": "D",
     "r2c1": "A",
     "r2c2": "R",
-    "r2c3": "C"
+    "r2c3": "C",
+    "r3c3": "R",
+    "r4c3": "E"
   },
   "moves": [
     {
@@ -44,6 +46,17 @@
       "previousRevision": 2,
       "revision": 3,
       "submittedAt": "2026-09-09T22:59:35Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 33,
+      "clueId": "D3",
+      "guess": "ACRE",
+      "previousRevision": 3,
+      "revision": 4,
+      "submittedAt": "2026-09-09T23:00:51Z",
       "attribution": {
         "userId": 172150522
       }
