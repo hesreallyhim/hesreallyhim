@@ -2,7 +2,23 @@
   "schemaVersion": 1,
   "puzzleId": "002",
   "publishedAt": "2026-09-09T18:07:48.711Z",
-  "revision": 0,
-  "revealedCells": {},
-  "moves": []
+  "revision": 1,
+  "revealedCells": {
+    "r1c1": "B",
+    "r1c2": "O",
+    "r1c3": "A"
+  },
+  "moves": [
+    {
+      "issueNumber": 30,
+      "clueId": "A1",
+      "guess": "BOA",
+      "previousRevision": 0,
+      "revision": 1,
+      "submittedAt": "2026-09-09T18:51:51Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    }
+  ]
 }
