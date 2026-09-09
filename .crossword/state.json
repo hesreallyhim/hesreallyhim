@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "001",
   "publishedAt": "2026-09-08T19:55:01.007Z",
-  "revision": 3,
+  "revision": 4,
   "revealedCells": {
     "r1c1": "C",
     "r1c2": "S",
@@ -10,7 +10,8 @@
     "r2c1": "U",
     "r3c1": "T",
     "r2c2": "S",
-    "r2c3": "E"
+    "r2c3": "E",
+    "r3c2": "H"
   },
   "moves": [
     {
@@ -42,6 +43,17 @@
       "previousRevision": 2,
       "revision": 3,
       "submittedAt": "2026-09-08T23:42:33Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 7,
+      "clueId": "D2",
+      "guess": "SSH",
+      "previousRevision": 3,
+      "revision": 4,
+      "submittedAt": "2026-09-09T00:43:37Z",
       "attribution": {
         "userId": 172150522
       }
