@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "001",
   "publishedAt": "2026-09-08T19:55:01.007Z",
-  "revision": 5,
+  "revision": 6,
   "revealedCells": {
     "r1c1": "C",
     "r1c2": "S",
@@ -15,7 +15,9 @@
     "r3c6": "H",
     "r3c7": "E",
     "r3c8": "A",
-    "r3c9": "D"
+    "r3c9": "D",
+    "r3c3": "A",
+    "r3c4": "W"
   },
   "moves": [
     {
@@ -69,6 +71,17 @@
       "previousRevision": 4,
       "revision": 5,
       "submittedAt": "2026-09-09T01:43:29Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 9,
+      "clueId": "A9",
+      "guess": "THAW",
+      "previousRevision": 5,
+      "revision": 6,
+      "submittedAt": "2026-09-09T05:20:49Z",
       "attribution": {
         "userId": 172150522
       }
