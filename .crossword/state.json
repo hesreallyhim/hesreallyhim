@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "001",
   "publishedAt": "2026-09-08T19:55:01.007Z",
-  "revision": 9,
+  "revision": 10,
   "revealedCells": {
     "r1c1": "C",
     "r1c2": "S",
@@ -24,7 +24,9 @@
     "r4c6": "E",
     "r4c7": "L",
     "r5c5": "A",
-    "r6c5": "R"
+    "r6c5": "R",
+    "r1c7": "F",
+    "r2c7": "U"
   },
   "moves": [
     {
@@ -122,6 +124,17 @@
       "previousRevision": 8,
       "revision": 9,
       "submittedAt": "2026-09-09T06:30:16Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 14,
+      "clueId": "D4",
+      "guess": "FUEL",
+      "previousRevision": 9,
+      "revision": 10,
+      "submittedAt": "2026-09-09T08:54:38Z",
       "attribution": {
         "userId": 172150522
       }
