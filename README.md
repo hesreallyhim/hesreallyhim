@@ -8,13 +8,13 @@
 Tuesday, September 8, 2026
 
 <picture>
-  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board-001-23.svg" alt="Crossword board for Puzzle #1" width="480">
+  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board-001-24.svg" alt="Crossword board for Puzzle #1" width="480">
 </picture>
 
 <details>
 <summary>Text version of the board</summary>
 
-<table aria-label="Crossword board for Puzzle #1" data-crossword-grid="001" data-revision="23">
+<table aria-label="Crossword board for Puzzle #1" data-crossword-grid="001" data-revision="24">
   <tbody>
     <tr>
       <td data-cell="r1c1" data-kind="letter" aria-label="cell 1" align="center"><sup>1</sup><br>C</td>
@@ -83,8 +83,8 @@ Tuesday, September 8, 2026
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
     </tr>
     <tr>
-      <td data-cell="r7c1" data-kind="letter" aria-label="cell 17" align="center"><sup>17</sup><br></td>
-      <td data-cell="r7c2" data-kind="letter" aria-label="cell 18" align="center"><sup>18</sup><br></td>
+      <td data-cell="r7c1" data-kind="letter" aria-label="cell 17" align="center"><sup>17</sup><br>S</td>
+      <td data-cell="r7c2" data-kind="letter" aria-label="cell 18" align="center"><sup>18</sup><br>P</td>
       <td data-cell="r7c3" data-kind="letter" aria-label="letter cell" align="center">I</td>
       <td data-cell="r7c4" data-kind="letter" aria-label="letter cell" align="center">N</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
@@ -122,5 +122,5 @@ Tuesday, September 8, 2026
 
 | **Across** | **Down** |
 | --- | --- |
-| ~~1. Reason the button is three pixels off, initially~~<br>~~4. Charge~~<br>~~7. Employ~~<br>~~8. Coffee dispenser at conferences~~<br>~~9. Unfreeze~~<br>~~11. Where git points right now~~<br>~~12. What the bot sticks on your issue here~~<br>~~14. Lass~~<br>~~15. See 11-Down~~<br>[17. What loaders do](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A17&title=17+Across+%E2%80%94+What+loaders+do)<br>~~19. Solemn promise~~<br>~~22. Remove from the stack~~<br>~~23. Spill it!~~<br>[24. Took down a burrito](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A24&title=24+Across+%E2%80%94+Took+down+a+burrito)<br>~~25. Java build tool, or picnic crasher~~ | ~~1. Trim, as scope~~<br>~~2. Secure way into a remote box~~<br>~~3. Close tightly, or a clapping mammal~~<br>~~4. Coffee, functionally~~<br>~~5. Notable stretch of time~~<br>~~6. Ruby block closer~~<br>~~10. Band\_\_\_ (what everyone jumps on)~~<br>~~11. With 15-Across, the classic first program's entire output~~<br>~~13. Foo's constant companion~~<br>~~15. Erase completely~~<br>~~16. Plural of anecdote, jokingly~~<br>[17. Single-page app, or resort](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D17&title=17+Down+%E2%80%94+Single-page+app%2C+or+resort)<br>[18. Honey\_\_\_ (attacker bait)](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D18&title=18+Down+%E2%80%94+Honey___+%28attacker+bait%29)<br>~~20. Perfect score~~<br>~~21. White or black, for a hacker~~ |
+| ~~1. Reason the button is three pixels off, initially~~<br>~~4. Charge~~<br>~~7. Employ~~<br>~~8. Coffee dispenser at conferences~~<br>~~9. Unfreeze~~<br>~~11. Where git points right now~~<br>~~12. What the bot sticks on your issue here~~<br>~~14. Lass~~<br>~~15. See 11-Down~~<br>~~17. What loaders do~~<br>~~19. Solemn promise~~<br>~~22. Remove from the stack~~<br>~~23. Spill it!~~<br>[24. Took down a burrito](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A24&title=24+Across+%E2%80%94+Took+down+a+burrito)<br>~~25. Java build tool, or picnic crasher~~ | ~~1. Trim, as scope~~<br>~~2. Secure way into a remote box~~<br>~~3. Close tightly, or a clapping mammal~~<br>~~4. Coffee, functionally~~<br>~~5. Notable stretch of time~~<br>~~6. Ruby block closer~~<br>~~10. Band\_\_\_ (what everyone jumps on)~~<br>~~11. With 15-Across, the classic first program's entire output~~<br>~~13. Foo's constant companion~~<br>~~15. Erase completely~~<br>~~16. Plural of anecdote, jokingly~~<br>[17. Single-page app, or resort](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D17&title=17+Down+%E2%80%94+Single-page+app%2C+or+resort)<br>[18. Honey\_\_\_ (attacker bait)](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D18&title=18+Down+%E2%80%94+Honey___+%28attacker+bait%29)<br>~~20. Perfect score~~<br>~~21. White or black, for a hacker~~ |
 <!-- crossword:end -->
