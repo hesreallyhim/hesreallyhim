@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 9,
+  "revision": 10,
   "revealedCells": {
     "r1c1": "A",
     "r1c2": "R",
@@ -31,7 +31,9 @@
     "r3c8": "S",
     "r3c9": "E",
     "r1c8": "G",
-    "r1c9": "O"
+    "r1c9": "O",
+    "r5c5": "A",
+    "r5c6": "T"
   },
   "moves": [
     {
@@ -129,6 +131,17 @@
       "previousRevision": 8,
       "revision": 9,
       "submittedAt": "2026-09-10T19:55:40Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 61,
+      "clueId": "A13",
+      "guess": "OAT",
+      "previousRevision": 9,
+      "revision": 10,
+      "submittedAt": "2026-09-10T20:12:43Z",
       "attribution": {
         "userId": 172150522
       }
