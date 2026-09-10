@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "002",
   "publishedAt": "2026-09-09T18:07:48.711Z",
-  "revision": 14,
+  "revision": 15,
   "revealedCells": {
     "r1c1": "B",
     "r1c2": "O",
@@ -38,7 +38,10 @@
     "r3c2": "E",
     "r3c4": "O",
     "r5c4": "B",
-    "r6c4": "I"
+    "r6c4": "I",
+    "r5c6": "R",
+    "r6c6": "A",
+    "r7c6": "L"
   },
   "moves": [
     {
@@ -191,6 +194,17 @@
       "previousRevision": 13,
       "revision": 14,
       "submittedAt": "2026-09-10T06:37:54Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 44,
+      "clueId": "D11",
+      "guess": "CORAL",
+      "previousRevision": 14,
+      "revision": 15,
+      "submittedAt": "2026-09-10T06:41:25Z",
       "attribution": {
         "userId": 172150522
       }
