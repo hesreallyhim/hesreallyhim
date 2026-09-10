@@ -2,7 +2,23 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 0,
-  "revealedCells": {},
-  "moves": []
+  "revision": 1,
+  "revealedCells": {
+    "r1c1": "A",
+    "r1c2": "R",
+    "r1c3": "T"
+  },
+  "moves": [
+    {
+      "issueNumber": 52,
+      "clueId": "A1",
+      "guess": "ART",
+      "previousRevision": 0,
+      "revision": 1,
+      "submittedAt": "2026-09-10T17:50:31Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    }
+  ]
 }
