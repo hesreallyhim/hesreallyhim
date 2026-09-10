@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "002",
   "publishedAt": "2026-09-09T18:07:48.711Z",
-  "revision": 19,
+  "revision": 20,
   "revealedCells": {
     "r1c1": "B",
     "r1c2": "O",
@@ -50,7 +50,9 @@
     "r6c7": "L",
     "r7c7": "I",
     "r7c8": "F",
-    "r7c9": "T"
+    "r7c9": "T",
+    "r8c7": "F",
+    "r9c7": "E"
   },
   "moves": [
     {
@@ -258,6 +260,17 @@
       "previousRevision": 18,
       "revision": 19,
       "submittedAt": "2026-09-10T12:11:10Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 49,
+      "clueId": "D16",
+      "guess": "LIFE",
+      "previousRevision": 19,
+      "revision": 20,
+      "submittedAt": "2026-09-10T13:07:18Z",
       "attribution": {
         "userId": 172150522
       }

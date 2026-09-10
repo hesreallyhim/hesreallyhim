@@ -8,13 +8,13 @@
 Wednesday, September 9, 2026
 
 <picture>
-  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board-002-19.svg" alt="Crossword board for Puzzle #2" width="480">
+  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board-002-20.svg" alt="Crossword board for Puzzle #2" width="480">
 </picture>
 
 <details>
 <summary>Text version of the board</summary>
 
-<table aria-label="Crossword board for Puzzle #2" data-crossword-grid="002" data-revision="19">
+<table aria-label="Crossword board for Puzzle #2" data-crossword-grid="002" data-revision="20">
   <tbody>
     <tr>
       <td data-cell="r1c1" data-kind="letter" aria-label="cell 1" align="center"><sup>1</sup><br>B</td>
@@ -100,7 +100,7 @@ Wednesday, September 9, 2026
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
-      <td data-cell="r8c7" data-kind="letter" aria-label="cell 23" align="center"><sup>23</sup><br></td>
+      <td data-cell="r8c7" data-kind="letter" aria-label="cell 23" align="center"><sup>23</sup><br>F</td>
       <td data-cell="r8c8" data-kind="letter" aria-label="letter cell" align="center"></td>
       <td data-cell="r8c9" data-kind="letter" aria-label="letter cell" align="center"></td>
     </tr>
@@ -111,7 +111,7 @@ Wednesday, September 9, 2026
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
-      <td data-cell="r9c7" data-kind="letter" aria-label="cell 25" align="center"><sup>25</sup><br></td>
+      <td data-cell="r9c7" data-kind="letter" aria-label="cell 25" align="center"><sup>25</sup><br>E</td>
       <td data-cell="r9c8" data-kind="letter" aria-label="letter cell" align="center"></td>
       <td data-cell="r9c9" data-kind="letter" aria-label="letter cell" align="center"></td>
     </tr>
@@ -122,5 +122,5 @@ Wednesday, September 9, 2026
 
 | **Across** | **Down** |
 | --- | --- |
-| ~~1. Feathered wrap, or a constrictor~~<br>~~4. Command that tells you where you are~~<br>~~7. Rainbow shape~~<br>~~8. What the cloud is not actually made of~~<br>~~9. Index where arrays start~~<br>~~11. Urban area~~<br>~~12. Red console text~~<br>~~14. Measure of music, or the traditional sequel to 20-Down~~<br>~~15. Java keyword that blocks overriding~~<br>~~17. Chart, or scheme~~<br>~~19. Elevator, in London~~<br>~~22. Slippery swimmer~~<br>[23. Adversary](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A23&title=23+Across+%E2%80%94+Adversary)<br>~~24. Stage, in git~~<br>[25. Very long time](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A25&title=25+Across+%E2%80%94+Very+long+time) | ~~1. Luhrmann who directed 'Moulin Rouge!'~~<br>~~2. Miner's haul~~<br>~~3. Farm unit~~<br>~~4. Programming for two~~<br>~~5. Quick humor~~<br>~~6. Repeat-yourself-not principle~~<br>~~10. Satellite's path~~<br>~~11. Reef builder~~<br>~~13. Executed~~<br>~~15. Reduce, to a functional programmer~~<br>[16. Conway's game](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D16&title=16+Down+%E2%80%94+Conway%27s+game)<br>~~17. Pod dweller~~<br>~~18. Blinking board light, initially~~<br>[20. Placeholder one letter shy of a meal](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D20&title=20+Down+%E2%80%94+Placeholder+one+letter+shy+of+a+meal)<br>[21. Perfect score](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D21&title=21+Down+%E2%80%94+Perfect+score) |
+| ~~1. Feathered wrap, or a constrictor~~<br>~~4. Command that tells you where you are~~<br>~~7. Rainbow shape~~<br>~~8. What the cloud is not actually made of~~<br>~~9. Index where arrays start~~<br>~~11. Urban area~~<br>~~12. Red console text~~<br>~~14. Measure of music, or the traditional sequel to 20-Down~~<br>~~15. Java keyword that blocks overriding~~<br>~~17. Chart, or scheme~~<br>~~19. Elevator, in London~~<br>~~22. Slippery swimmer~~<br>[23. Adversary](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A23&title=23+Across+%E2%80%94+Adversary)<br>~~24. Stage, in git~~<br>[25. Very long time](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A25&title=25+Across+%E2%80%94+Very+long+time) | ~~1. Luhrmann who directed 'Moulin Rouge!'~~<br>~~2. Miner's haul~~<br>~~3. Farm unit~~<br>~~4. Programming for two~~<br>~~5. Quick humor~~<br>~~6. Repeat-yourself-not principle~~<br>~~10. Satellite's path~~<br>~~11. Reef builder~~<br>~~13. Executed~~<br>~~15. Reduce, to a functional programmer~~<br>~~16. Conway's game~~<br>~~17. Pod dweller~~<br>~~18. Blinking board light, initially~~<br>[20. Placeholder one letter shy of a meal](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D20&title=20+Down+%E2%80%94+Placeholder+one+letter+shy+of+a+meal)<br>[21. Perfect score](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D21&title=21+Down+%E2%80%94+Perfect+score) |
 <!-- crossword:end -->
