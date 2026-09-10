@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 8,
+  "revision": 9,
   "revealedCells": {
     "r1c1": "A",
     "r1c2": "R",
@@ -29,7 +29,9 @@
     "r3c5": "F",
     "r3c6": "A",
     "r3c8": "S",
-    "r3c9": "E"
+    "r3c9": "E",
+    "r1c8": "G",
+    "r1c9": "O"
   },
   "moves": [
     {
@@ -116,6 +118,17 @@
       "previousRevision": 7,
       "revision": 8,
       "submittedAt": "2026-09-10T19:53:12Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 60,
+      "clueId": "A4",
+      "guess": "EGO",
+      "previousRevision": 8,
+      "revision": 9,
+      "submittedAt": "2026-09-10T19:55:40Z",
       "attribution": {
         "userId": 172150522
       }
