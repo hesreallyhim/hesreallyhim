@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 3,
+  "revision": 4,
   "revealedCells": {
     "r1c1": "A",
     "r1c2": "R",
@@ -11,7 +11,12 @@
     "r3c1": "D",
     "r2c2": "U",
     "r3c2": "N",
-    "r4c2": "S"
+    "r4c2": "S",
+    "r4c4": "R",
+    "r5c4": "O",
+    "r6c4": "U",
+    "r7c4": "N",
+    "r8c4": "D"
   },
   "moves": [
     {
@@ -43,6 +48,17 @@
       "previousRevision": 2,
       "revision": 3,
       "submittedAt": "2026-09-10T17:57:40Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 55,
+      "clueId": "D12",
+      "guess": "ROUND",
+      "previousRevision": 3,
+      "revision": 4,
+      "submittedAt": "2026-09-10T18:00:04Z",
       "attribution": {
         "userId": 172150522
       }
