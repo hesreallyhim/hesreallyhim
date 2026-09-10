@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "puzzleId": "002",
-  "title": "Puzzle #2",
+  "puzzleId": "003",
+  "title": "Puzzle #3",
   "blank": "_",
   "dimensions": {
     "rows": 9,
@@ -95,16 +95,17 @@
       "kind": "block"
     },
     {
+      "id": "r2c6",
       "row": 2,
       "column": 6,
-      "kind": "block"
+      "kind": "letter",
+      "number": 8
     },
     {
       "id": "r2c7",
       "row": 2,
       "column": 7,
-      "kind": "letter",
-      "number": 8
+      "kind": "letter"
     },
     {
       "id": "r2c8",
@@ -138,23 +139,22 @@
       "kind": "letter"
     },
     {
-      "id": "r3c4",
       "row": 3,
       "column": 4,
-      "kind": "letter",
-      "number": 10
+      "kind": "block"
     },
     {
+      "id": "r3c5",
       "row": 3,
       "column": 5,
-      "kind": "block"
+      "kind": "letter",
+      "number": 10
     },
     {
       "id": "r3c6",
       "row": 3,
       "column": 6,
-      "kind": "letter",
-      "number": 11
+      "kind": "letter"
     },
     {
       "id": "r3c7",
@@ -180,29 +180,30 @@
       "kind": "block"
     },
     {
+      "id": "r4c2",
       "row": 4,
       "column": 2,
-      "kind": "block"
+      "kind": "letter",
+      "number": 11
     },
     {
       "id": "r4c3",
       "row": 4,
       "column": 3,
-      "kind": "letter",
-      "number": 12
+      "kind": "letter"
     },
     {
       "id": "r4c4",
       "row": 4,
       "column": 4,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 12
     },
     {
       "id": "r4c5",
       "row": 4,
       "column": 5,
-      "kind": "letter",
-      "number": 13
+      "kind": "letter"
     },
     {
       "id": "r4c6",
@@ -246,7 +247,7 @@
       "row": 5,
       "column": 4,
       "kind": "letter",
-      "number": 14
+      "number": 13
     },
     {
       "id": "r5c5",
@@ -290,7 +291,7 @@
       "row": 6,
       "column": 3,
       "kind": "letter",
-      "number": 15
+      "number": 14
     },
     {
       "id": "r6c4",
@@ -315,12 +316,14 @@
       "row": 6,
       "column": 7,
       "kind": "letter",
-      "number": 16
+      "number": 15
     },
     {
+      "id": "r6c8",
       "row": 6,
       "column": 8,
-      "kind": "block"
+      "kind": "letter",
+      "number": 16
     },
     {
       "row": 6,
@@ -354,43 +357,42 @@
       "kind": "letter"
     },
     {
+      "id": "r7c5",
       "row": 7,
       "column": 5,
-      "kind": "block"
+      "kind": "letter"
     },
     {
-      "id": "r7c6",
       "row": 7,
       "column": 6,
-      "kind": "letter",
-      "number": 19
+      "kind": "block"
     },
     {
       "id": "r7c7",
       "row": 7,
       "column": 7,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 19
     },
     {
       "id": "r7c8",
       "row": 7,
       "column": 8,
-      "kind": "letter",
-      "number": 20
+      "kind": "letter"
     },
     {
       "id": "r7c9",
       "row": 7,
       "column": 9,
       "kind": "letter",
-      "number": 21
+      "number": 20
     },
     {
       "id": "r8c1",
       "row": 8,
       "column": 1,
       "kind": "letter",
-      "number": 22
+      "number": 21
     },
     {
       "id": "r8c2",
@@ -405,9 +407,10 @@
       "kind": "letter"
     },
     {
+      "id": "r8c4",
       "row": 8,
       "column": 4,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "row": 8,
@@ -424,7 +427,7 @@
       "row": 8,
       "column": 7,
       "kind": "letter",
-      "number": 23
+      "number": 22
     },
     {
       "id": "r8c8",
@@ -443,7 +446,7 @@
       "row": 9,
       "column": 1,
       "kind": "letter",
-      "number": 24
+      "number": 23
     },
     {
       "id": "r9c2",
@@ -477,7 +480,7 @@
       "row": 9,
       "column": 7,
       "kind": "letter",
-      "number": 25
+      "number": 24
     },
     {
       "id": "r9c8",
@@ -502,7 +505,7 @@
         "r1c2",
         "r1c3"
       ],
-      "text": "Feathered wrap, or a constrictor"
+      "text": "ASCII ___"
     },
     {
       "id": "D1",
@@ -513,7 +516,7 @@
         "r2c1",
         "r3c1"
       ],
-      "text": "Luhrmann who directed 'Moulin Rouge!'"
+      "text": "Stage, in git"
     },
     {
       "id": "D2",
@@ -522,9 +525,10 @@
       "cellIds": [
         "r1c2",
         "r2c2",
-        "r3c2"
+        "r3c2",
+        "r4c2"
       ],
-      "text": "Miner's haul"
+      "text": "Executes"
     },
     {
       "id": "D3",
@@ -536,7 +540,7 @@
         "r3c3",
         "r4c3"
       ],
-      "text": "Farm unit"
+      "text": "It passed on my machine"
     },
     {
       "id": "A4",
@@ -547,7 +551,7 @@
         "r1c8",
         "r1c9"
       ],
-      "text": "Command that tells you where you are"
+      "text": "It gets bruised in code review"
     },
     {
       "id": "D4",
@@ -559,7 +563,7 @@
         "r3c7",
         "r4c7"
       ],
-      "text": "Programming for two"
+      "text": "Slippery swimmers"
     },
     {
       "id": "D5",
@@ -570,7 +574,7 @@
         "r2c8",
         "r3c8"
       ],
-      "text": "Quick humor"
+      "text": "Pedal to floor it"
     },
     {
       "id": "D6",
@@ -581,7 +585,7 @@
         "r2c9",
         "r3c9"
       ],
-      "text": "Repeat-yourself-not principle"
+      "text": "Miner's haul"
     },
     {
       "id": "A7",
@@ -592,18 +596,32 @@
         "r2c2",
         "r2c3"
       ],
-      "text": "Rainbow shape"
+      "text": "Owed"
     },
     {
       "id": "A8",
       "number": 8,
       "direction": "across",
       "cellIds": [
+        "r2c6",
         "r2c7",
         "r2c8",
         "r2c9"
       ],
-      "text": "What the cloud is not actually made of"
+      "text": "Fruit-shaped fruit"
+    },
+    {
+      "id": "D8",
+      "number": 8,
+      "direction": "down",
+      "cellIds": [
+        "r2c6",
+        "r3c6",
+        "r4c6",
+        "r5c6",
+        "r6c6"
+      ],
+      "text": "Copy's partner in crime"
     },
     {
       "id": "A9",
@@ -612,100 +630,91 @@
       "cellIds": [
         "r3c1",
         "r3c2",
-        "r3c3",
-        "r3c4"
+        "r3c3"
       ],
-      "text": "Index where arrays start"
+      "text": "It's always this, per the ops proverb"
+    },
+    {
+      "id": "A10",
+      "number": 10,
+      "direction": "across",
+      "cellIds": [
+        "r3c5",
+        "r3c6",
+        "r3c7",
+        "r3c8",
+        "r3c9"
+      ],
+      "text": "Boolean's gloomy half"
     },
     {
       "id": "D10",
       "number": 10,
       "direction": "down",
       "cellIds": [
-        "r3c4",
-        "r4c4",
-        "r5c4",
-        "r6c4",
-        "r7c4"
+        "r3c5",
+        "r4c5",
+        "r5c5",
+        "r6c5",
+        "r7c5"
       ],
-      "text": "Satellite's path"
+      "text": "Big meal"
     },
     {
       "id": "A11",
       "number": 11,
       "direction": "across",
       "cellIds": [
-        "r3c6",
-        "r3c7",
-        "r3c8",
-        "r3c9"
-      ],
-      "text": "Urban area"
-    },
-    {
-      "id": "D11",
-      "number": 11,
-      "direction": "down",
-      "cellIds": [
-        "r3c6",
-        "r4c6",
-        "r5c6",
-        "r6c6",
-        "r7c6"
-      ],
-      "text": "Reef builder"
-    },
-    {
-      "id": "A12",
-      "number": 12,
-      "direction": "across",
-      "cellIds": [
+        "r4c2",
         "r4c3",
         "r4c4",
         "r4c5",
         "r4c6",
         "r4c7"
       ],
-      "text": "Red console text"
+      "text": "Test type for breaking points"
     },
     {
-      "id": "D13",
-      "number": 13,
+      "id": "D12",
+      "number": 12,
       "direction": "down",
       "cellIds": [
-        "r4c5",
-        "r5c5",
-        "r6c5"
+        "r4c4",
+        "r5c4",
+        "r6c4",
+        "r7c4",
+        "r8c4"
       ],
-      "text": "Executed"
+      "text": "___ trip (there and back)"
     },
     {
-      "id": "A14",
-      "number": 14,
+      "id": "A13",
+      "number": 13,
       "direction": "across",
       "cellIds": [
         "r5c4",
         "r5c5",
         "r5c6"
       ],
-      "text": "Measure of music, or the traditional sequel to 20-Down"
+      "text": "Granola grain"
     },
     {
-      "id": "A15",
-      "number": 15,
+      "id": "A14",
+      "number": 14,
       "direction": "across",
       "cellIds": [
         "r6c3",
         "r6c4",
         "r6c5",
         "r6c6",
-        "r6c7"
+        "r6c7",
+        "r6c8"
       ],
-      "text": "Java keyword that blocks overriding"
+      "text": "Where legacy systems belong, jokingly"
     },
     {
-      "id": "D15",
-      "number": 15,
+      "id": "D14",
+      "number": 14,
       "direction": "down",
       "cellIds": [
         "r6c3",
@@ -713,11 +722,11 @@
         "r8c3",
         "r9c3"
       ],
-      "text": "Reduce, to a functional programmer"
+      "text": "Post, electronic or otherwise"
     },
     {
-      "id": "D16",
-      "number": 16,
+      "id": "D15",
+      "number": 15,
       "direction": "down",
       "cellIds": [
         "r6c7",
@@ -725,7 +734,19 @@
         "r8c7",
         "r9c7"
       ],
-      "text": "Conway's game"
+      "text": "Test granularity"
+    },
+    {
+      "id": "D16",
+      "number": 16,
+      "direction": "down",
+      "cellIds": [
+        "r6c8",
+        "r7c8",
+        "r8c8",
+        "r9c8"
+      ],
+      "text": "Dark ___"
     },
     {
       "id": "A17",
@@ -735,9 +756,10 @@
         "r7c1",
         "r7c2",
         "r7c3",
-        "r7c4"
+        "r7c4",
+        "r7c5"
       ],
-      "text": "Chart, or scheme"
+      "text": "Desk greenery"
     },
     {
       "id": "D17",
@@ -748,7 +770,7 @@
         "r8c1",
         "r9c1"
       ],
-      "text": "Pod dweller"
+      "text": "Con's opposite"
     },
     {
       "id": "D18",
@@ -759,94 +781,74 @@
         "r8c2",
         "r9c2"
       ],
-      "text": "Blinking board light, initially"
+      "text": "Moore's, for one"
     },
     {
       "id": "A19",
       "number": 19,
       "direction": "across",
       "cellIds": [
-        "r7c6",
         "r7c7",
         "r7c8",
         "r7c9"
       ],
-      "text": "Elevator, in London"
+      "text": "Silent yes"
     },
     {
       "id": "D20",
       "number": 20,
       "direction": "down",
       "cellIds": [
-        "r7c8",
-        "r8c8",
-        "r9c8"
-      ],
-      "text": "Placeholder one letter shy of a meal"
-    },
-    {
-      "id": "D21",
-      "number": 21,
-      "direction": "down",
-      "cellIds": [
         "r7c9",
         "r8c9",
         "r9c9"
       ],
-      "text": "Perfect score"
+      "text": "Cozy room"
+    },
+    {
+      "id": "A21",
+      "number": 21,
+      "direction": "across",
+      "cellIds": [
+        "r8c1",
+        "r8c2",
+        "r8c3",
+        "r8c4"
+      ],
+      "text": "Disk-redundancy acronym"
     },
     {
       "id": "A22",
       "number": 22,
       "direction": "across",
       "cellIds": [
-        "r8c1",
-        "r8c2",
-        "r8c3"
+        "r8c7",
+        "r8c8",
+        "r8c9"
       ],
-      "text": "Slippery swimmer"
+      "text": "Editor with batteries included, initially"
     },
     {
       "id": "A23",
       "number": 23,
       "direction": "across",
       "cellIds": [
-        "r8c7",
-        "r8c8",
-        "r8c9"
+        "r9c1",
+        "r9c2",
+        "r9c3"
       ],
-      "text": "Adversary"
+      "text": "Night-shift bird"
     },
     {
       "id": "A24",
       "number": 24,
       "direction": "across",
       "cellIds": [
-        "r9c1",
-        "r9c2",
-        "r9c3"
-      ],
-      "text": "Stage, in git"
-    },
-    {
-      "id": "A25",
-      "number": 25,
-      "direction": "across",
-      "cellIds": [
         "r9c7",
         "r9c8",
         "r9c9"
       ],
-      "text": "Very long time"
+      "text": "Perfect score"
     }
-  ],
-  "provenance": {
-    "sourceName": "Cross Word Puzzle Book JSON corpus",
-    "sourcePuzzleId": null,
-    "author": "puzgen",
-    "sourceUrl": null,
-    "publicDomainBasis": "Original generated grid and original clues.",
-    "importerVersion": "readme-crossword-cwpb-v2",
-    "corrections": []
-  }
+  ]
 }
