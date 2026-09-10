@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 6,
+  "revision": 7,
   "revealedCells": {
     "r1c1": "A",
     "r1c2": "R",
@@ -23,7 +23,9 @@
     "r1c7": "E",
     "r2c7": "E",
     "r3c7": "L",
-    "r4c7": "S"
+    "r4c7": "S",
+    "r4c5": "E",
+    "r4c6": "S"
   },
   "moves": [
     {
@@ -88,6 +90,17 @@
       "previousRevision": 5,
       "revision": 6,
       "submittedAt": "2026-09-10T18:24:06Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 58,
+      "clueId": "A11",
+      "guess": "STRESS",
+      "previousRevision": 6,
+      "revision": 7,
+      "submittedAt": "2026-09-10T18:28:59Z",
       "attribution": {
         "userId": 172150522
       }
