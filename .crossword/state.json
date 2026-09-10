@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "002",
   "publishedAt": "2026-09-09T18:07:48.711Z",
-  "revision": 10,
+  "revision": 11,
   "revealedCells": {
     "r1c1": "B",
     "r1c2": "O",
@@ -29,7 +29,9 @@
     "r3c8": "T",
     "r4c4": "R",
     "r4c5": "R",
-    "r4c6": "O"
+    "r4c6": "O",
+    "r3c6": "C",
+    "r3c9": "Y"
   },
   "moves": [
     {
@@ -138,6 +140,17 @@
       "previousRevision": 9,
       "revision": 10,
       "submittedAt": "2026-09-10T02:03:15Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 40,
+      "clueId": "A11",
+      "guess": "CITY",
+      "previousRevision": 10,
+      "revision": 11,
+      "submittedAt": "2026-09-10T02:16:37Z",
       "attribution": {
         "userId": 172150522
       }
