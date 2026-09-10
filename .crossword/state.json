@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "002",
   "publishedAt": "2026-09-09T18:07:48.711Z",
-  "revision": 7,
+  "revision": 8,
   "revealedCells": {
     "r1c1": "B",
     "r1c2": "O",
@@ -22,7 +22,10 @@
     "r2c9": "R",
     "r7c1": "P",
     "r8c1": "E",
-    "r9c1": "A"
+    "r9c1": "A",
+    "r7c2": "L",
+    "r7c3": "O",
+    "r7c4": "T"
   },
   "moves": [
     {
@@ -98,6 +101,17 @@
       "previousRevision": 6,
       "revision": 7,
       "submittedAt": "2026-09-10T00:19:39Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 37,
+      "clueId": "A17",
+      "guess": "PLOT",
+      "previousRevision": 7,
+      "revision": 8,
+      "submittedAt": "2026-09-10T00:23:25Z",
       "attribution": {
         "userId": 172150522
       }
