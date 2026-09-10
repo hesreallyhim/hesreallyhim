@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "002",
   "publishedAt": "2026-09-09T18:07:48.711Z",
-  "revision": 21,
+  "revision": 22,
   "revealedCells": {
     "r1c1": "B",
     "r1c2": "O",
@@ -54,7 +54,9 @@
     "r8c7": "F",
     "r9c7": "E",
     "r8c8": "O",
-    "r8c9": "E"
+    "r8c9": "E",
+    "r9c8": "O",
+    "r9c9": "N"
   },
   "moves": [
     {
@@ -284,6 +286,17 @@
       "previousRevision": 20,
       "revision": 21,
       "submittedAt": "2026-09-10T16:24:15Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 51,
+      "clueId": "A25",
+      "guess": "EON",
+      "previousRevision": 21,
+      "revision": 22,
+      "submittedAt": "2026-09-10T16:26:45Z",
       "attribution": {
         "userId": 172150522
       }
