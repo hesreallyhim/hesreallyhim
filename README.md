@@ -8,13 +8,13 @@
 Thursday, September 10, 2026
 
 <picture>
-  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board/003-21.svg" alt="Crossword board for Puzzle #3" width="480">
+  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board/003-22.svg" alt="Crossword board for Puzzle #3" width="480">
 </picture>
 
 <details>
 <summary>Text version of the board</summary>
 
-<table aria-label="Crossword board for Puzzle #3" data-crossword-grid="003" data-revision="21">
+<table aria-label="Crossword board for Puzzle #3" data-crossword-grid="003" data-revision="22">
   <tbody>
     <tr>
       <td data-cell="r1c1" data-kind="letter" aria-label="cell 1" align="center"><sup>1</sup><br>A</td>
@@ -74,7 +74,7 @@ Thursday, September 10, 2026
     <tr>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
-      <td data-cell="r6c3" data-kind="letter" aria-label="cell 14" align="center"><sup>14</sup><br></td>
+      <td data-cell="r6c3" data-kind="letter" aria-label="cell 14" align="center"><sup>14</sup><br>M</td>
       <td data-cell="r6c4" data-kind="letter" aria-label="letter cell" align="center">U</td>
       <td data-cell="r6c5" data-kind="letter" aria-label="letter cell" align="center">S</td>
       <td data-cell="r6c6" data-kind="letter" aria-label="letter cell" align="center">E</td>
@@ -96,7 +96,7 @@ Thursday, September 10, 2026
     <tr>
       <td data-cell="r8c1" data-kind="letter" aria-label="cell 21" align="center"><sup>21</sup><br>R</td>
       <td data-cell="r8c2" data-kind="letter" aria-label="letter cell" align="center">A</td>
-      <td data-cell="r8c3" data-kind="letter" aria-label="letter cell" align="center"></td>
+      <td data-cell="r8c3" data-kind="letter" aria-label="letter cell" align="center">I</td>
       <td data-cell="r8c4" data-kind="letter" aria-label="letter cell" align="center">D</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
@@ -107,7 +107,7 @@ Thursday, September 10, 2026
     <tr>
       <td data-cell="r9c1" data-kind="letter" aria-label="cell 23" align="center"><sup>23</sup><br>O</td>
       <td data-cell="r9c2" data-kind="letter" aria-label="letter cell" align="center">W</td>
-      <td data-cell="r9c3" data-kind="letter" aria-label="letter cell" align="center"></td>
+      <td data-cell="r9c3" data-kind="letter" aria-label="letter cell" align="center">L</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
@@ -122,5 +122,9 @@ Thursday, September 10, 2026
 
 | **Across** | **Down** |
 | --- | --- |
-| ~~1. ASCII \_\_\_~~<br>~~4. It gets bruised in code review~~<br>~~7. Owed~~<br>~~8. Fruit-shaped fruit~~<br>~~9. It's always this, per the ops proverb~~<br>~~10. Boolean's gloomy half~~<br>~~11. Test type for breaking points~~<br>~~13. Granola grain~~<br>[14. Where legacy systems belong, jokingly](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A14&title=14+Across+%E2%80%94+Where+legacy+systems+belong%2C+jokingly)<br>~~17. Desk greenery~~<br>~~19. Silent yes~~<br>[21. Disk-redundancy acronym](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A21&title=21+Across+%E2%80%94+Disk-redundancy+acronym)<br>~~22. Editor with batteries included, initially~~<br>[23. Night-shift bird](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A23&title=23+Across+%E2%80%94+Night-shift+bird)<br>~~24. Perfect score~~ | ~~1. Stage, in git~~<br>~~2. Executes~~<br>~~3. It passed on my machine~~<br>~~4. Slippery swimmers~~<br>~~5. Pedal to floor it~~<br>~~6. Miner's haul~~<br>~~8. Copy's partner in crime~~<br>~~10. Big meal~~<br>~~12. \_\_\_ trip (there and back)~~<br>[14. Post, electronic or otherwise](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D14&title=14+Down+%E2%80%94+Post%2C+electronic+or+otherwise)<br>~~15. Test granularity~~<br>~~16. Dark \_\_\_~~<br>~~17. Con's opposite~~<br>~~18. Moore's, for one~~<br>~~20. Cozy room~~ |
+| ~~1. ASCII \_\_\_~~<br>~~4. It gets bruised in code review~~<br>~~7. Owed~~<br>~~8. Fruit-shaped fruit~~<br>~~9. It's always this, per the ops proverb~~<br>~~10. Boolean's gloomy half~~<br>~~11. Test type for breaking points~~<br>~~13. Granola grain~~<br>~~14. Where legacy systems belong, jokingly~~<br>~~17. Desk greenery~~<br>~~19. Silent yes~~<br>~~21. Disk-redundancy acronym~~<br>~~22. Editor with batteries included, initially~~<br>~~23. Night-shift bird~~<br>~~24. Perfect score~~ | ~~1. Stage, in git~~<br>~~2. Executes~~<br>~~3. It passed on my machine~~<br>~~4. Slippery swimmers~~<br>~~5. Pedal to floor it~~<br>~~6. Miner's haul~~<br>~~8. Copy's partner in crime~~<br>~~10. Big meal~~<br>~~12. \_\_\_ trip (there and back)~~<br>~~14. Post, electronic or otherwise~~<br>~~15. Test granularity~~<br>~~16. Dark \_\_\_~~<br>~~17. Con's opposite~~<br>~~18. Moore's, for one~~<br>~~20. Cozy room~~ |
+
+### Puzzle complete!
+
+Stay tuned for the next edition.
 <!-- crossword:end -->

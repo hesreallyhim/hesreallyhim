@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 21,
+  "revision": 22,
   "revealedCells": {
     "r1c1": "A",
     "r1c2": "R",
@@ -57,7 +57,10 @@
     "r6c8": "M",
     "r8c8": "D",
     "r6c7": "U",
-    "r8c7": "I"
+    "r8c7": "I",
+    "r6c3": "M",
+    "r8c3": "I",
+    "r9c3": "L"
   },
   "moves": [
     {
@@ -287,6 +290,17 @@
       "previousRevision": 20,
       "revision": 21,
       "submittedAt": "2026-09-11T01:32:52Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 74,
+      "clueId": "D14",
+      "guess": "MAIL",
+      "previousRevision": 21,
+      "revision": 22,
+      "submittedAt": "2026-09-11T01:33:46Z",
       "attribution": {
         "userId": 172150522
       }
