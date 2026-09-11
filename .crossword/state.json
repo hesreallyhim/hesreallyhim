@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 17,
+  "revision": 18,
   "revealedCells": {
     "r1c1": "A",
     "r1c2": "R",
@@ -49,7 +49,9 @@
     "r9c2": "W",
     "r7c7": "N",
     "r7c8": "O",
-    "r7c9": "D"
+    "r7c9": "D",
+    "r8c9": "E",
+    "r9c9": "N"
   },
   "moves": [
     {
@@ -235,6 +237,17 @@
       "previousRevision": 16,
       "revision": 17,
       "submittedAt": "2026-09-11T01:24:02Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 69,
+      "clueId": "D20",
+      "guess": "DEN",
+      "previousRevision": 17,
+      "revision": 18,
+      "submittedAt": "2026-09-11T01:25:20Z",
       "attribution": {
         "userId": 172150522
       }
