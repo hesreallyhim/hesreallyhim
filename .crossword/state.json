@@ -2,7 +2,24 @@
   "schemaVersion": 1,
   "puzzleId": "004",
   "publishedAt": "2026-09-11T08:10:35.646Z",
-  "revision": 0,
-  "revealedCells": {},
-  "moves": []
+  "revision": 1,
+  "revealedCells": {
+    "r1c1": "M",
+    "r1c2": "E",
+    "r1c3": "N",
+    "r1c4": "U"
+  },
+  "moves": [
+    {
+      "issueNumber": 75,
+      "clueId": "A1",
+      "guess": "MENU",
+      "previousRevision": 0,
+      "revision": 1,
+      "submittedAt": "2026-09-11T08:10:57Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    }
+  ]
 }
