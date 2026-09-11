@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 13,
+  "revision": 14,
   "revealedCells": {
     "r1c1": "A",
     "r1c2": "R",
@@ -39,7 +39,10 @@
     "r2c6": "P",
     "r6c6": "E",
     "r2c8": "A",
-    "r2c9": "R"
+    "r2c9": "R",
+    "r7c1": "P",
+    "r7c2": "L",
+    "r7c3": "A"
   },
   "moves": [
     {
@@ -181,6 +184,17 @@
       "previousRevision": 12,
       "revision": 13,
       "submittedAt": "2026-09-11T00:09:59Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 65,
+      "clueId": "A17",
+      "guess": "PLANT",
+      "previousRevision": 13,
+      "revision": 14,
+      "submittedAt": "2026-09-11T00:11:49Z",
       "attribution": {
         "userId": 172150522
       }
