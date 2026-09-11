@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "puzzleId": "003",
-  "title": "Puzzle #3",
+  "puzzleId": "004",
+  "title": "Puzzle #4",
   "blank": "_",
   "dimensions": {
     "rows": 9,
@@ -30,9 +30,11 @@
       "number": 3
     },
     {
+      "id": "r1c4",
       "row": 1,
       "column": 4,
-      "kind": "block"
+      "kind": "letter",
+      "number": 4
     },
     {
       "row": 1,
@@ -40,37 +42,39 @@
       "kind": "block"
     },
     {
+      "id": "r1c6",
       "row": 1,
       "column": 6,
-      "kind": "block"
+      "kind": "letter",
+      "number": 5
     },
     {
       "id": "r1c7",
       "row": 1,
       "column": 7,
       "kind": "letter",
-      "number": 4
+      "number": 6
     },
     {
       "id": "r1c8",
       "row": 1,
       "column": 8,
       "kind": "letter",
-      "number": 5
+      "number": 7
     },
     {
       "id": "r1c9",
       "row": 1,
       "column": 9,
       "kind": "letter",
-      "number": 6
+      "number": 8
     },
     {
       "id": "r2c1",
       "row": 2,
       "column": 1,
       "kind": "letter",
-      "number": 7
+      "number": 9
     },
     {
       "id": "r2c2",
@@ -85,9 +89,10 @@
       "kind": "letter"
     },
     {
+      "id": "r2c4",
       "row": 2,
       "column": 4,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "row": 2,
@@ -99,7 +104,7 @@
       "row": 2,
       "column": 6,
       "kind": "letter",
-      "number": 8
+      "number": 10
     },
     {
       "id": "r2c7",
@@ -124,7 +129,7 @@
       "row": 3,
       "column": 1,
       "kind": "letter",
-      "number": 9
+      "number": 11
     },
     {
       "id": "r3c2",
@@ -139,22 +144,22 @@
       "kind": "letter"
     },
     {
+      "id": "r3c4",
       "row": 3,
       "column": 4,
-      "kind": "block"
+      "kind": "letter"
     },
     {
-      "id": "r3c5",
       "row": 3,
       "column": 5,
-      "kind": "letter",
-      "number": 10
+      "kind": "block"
     },
     {
       "id": "r3c6",
       "row": 3,
       "column": 6,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 12
     },
     {
       "id": "r3c7",
@@ -180,30 +185,29 @@
       "kind": "block"
     },
     {
-      "id": "r4c2",
       "row": 4,
       "column": 2,
-      "kind": "letter",
-      "number": 11
+      "kind": "block"
     },
     {
       "id": "r4c3",
       "row": 4,
       "column": 3,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 13
     },
     {
       "id": "r4c4",
       "row": 4,
       "column": 4,
-      "kind": "letter",
-      "number": 12
+      "kind": "letter"
     },
     {
       "id": "r4c5",
       "row": 4,
       "column": 5,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 14
     },
     {
       "id": "r4c6",
@@ -247,7 +251,7 @@
       "row": 5,
       "column": 4,
       "kind": "letter",
-      "number": 13
+      "number": 15
     },
     {
       "id": "r5c5",
@@ -291,7 +295,7 @@
       "row": 6,
       "column": 3,
       "kind": "letter",
-      "number": 14
+      "number": 16
     },
     {
       "id": "r6c4",
@@ -316,14 +320,12 @@
       "row": 6,
       "column": 7,
       "kind": "letter",
-      "number": 15
+      "number": 17
     },
     {
-      "id": "r6c8",
       "row": 6,
       "column": 8,
-      "kind": "letter",
-      "number": 16
+      "kind": "block"
     },
     {
       "row": 6,
@@ -335,14 +337,14 @@
       "row": 7,
       "column": 1,
       "kind": "letter",
-      "number": 17
+      "number": 18
     },
     {
       "id": "r7c2",
       "row": 7,
       "column": 2,
       "kind": "letter",
-      "number": 18
+      "number": 19
     },
     {
       "id": "r7c3",
@@ -357,42 +359,43 @@
       "kind": "letter"
     },
     {
-      "id": "r7c5",
       "row": 7,
       "column": 5,
-      "kind": "letter"
+      "kind": "block"
     },
     {
+      "id": "r7c6",
       "row": 7,
       "column": 6,
-      "kind": "block"
+      "kind": "letter",
+      "number": 20
     },
     {
       "id": "r7c7",
       "row": 7,
       "column": 7,
-      "kind": "letter",
-      "number": 19
+      "kind": "letter"
     },
     {
       "id": "r7c8",
       "row": 7,
       "column": 8,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 21
     },
     {
       "id": "r7c9",
       "row": 7,
       "column": 9,
       "kind": "letter",
-      "number": 20
+      "number": 22
     },
     {
       "id": "r8c1",
       "row": 8,
       "column": 1,
       "kind": "letter",
-      "number": 21
+      "number": 23
     },
     {
       "id": "r8c2",
@@ -418,16 +421,17 @@
       "kind": "block"
     },
     {
+      "id": "r8c6",
       "row": 8,
       "column": 6,
-      "kind": "block"
+      "kind": "letter",
+      "number": 24
     },
     {
       "id": "r8c7",
       "row": 8,
       "column": 7,
-      "kind": "letter",
-      "number": 22
+      "kind": "letter"
     },
     {
       "id": "r8c8",
@@ -446,7 +450,7 @@
       "row": 9,
       "column": 1,
       "kind": "letter",
-      "number": 23
+      "number": 25
     },
     {
       "id": "r9c2",
@@ -461,9 +465,10 @@
       "kind": "letter"
     },
     {
+      "id": "r9c4",
       "row": 9,
       "column": 4,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "row": 9,
@@ -471,16 +476,17 @@
       "kind": "block"
     },
     {
+      "id": "r9c6",
       "row": 9,
       "column": 6,
-      "kind": "block"
+      "kind": "letter",
+      "number": 26
     },
     {
       "id": "r9c7",
       "row": 9,
       "column": 7,
-      "kind": "letter",
-      "number": 24
+      "kind": "letter"
     },
     {
       "id": "r9c8",
@@ -503,9 +509,10 @@
       "cellIds": [
         "r1c1",
         "r1c2",
-        "r1c3"
+        "r1c3",
+        "r1c4"
       ],
-      "text": "ASCII ___"
+      "text": "Hamburger's expansion"
     },
     {
       "id": "D1",
@@ -516,7 +523,7 @@
         "r2c1",
         "r3c1"
       ],
-      "text": "Stage, in git"
+      "text": "Drop it after a great demo"
     },
     {
       "id": "D2",
@@ -525,10 +532,9 @@
       "cellIds": [
         "r1c2",
         "r2c2",
-        "r3c2",
-        "r4c2"
+        "r3c2"
       ],
-      "text": "Executes"
+      "text": "Notable stretch of time"
     },
     {
       "id": "D3",
@@ -540,22 +546,57 @@
         "r3c3",
         "r4c3"
       ],
-      "text": "It passed on my machine"
-    },
-    {
-      "id": "A4",
-      "number": 4,
-      "direction": "across",
-      "cellIds": [
-        "r1c7",
-        "r1c8",
-        "r1c9"
-      ],
-      "text": "It gets bruised in code review"
+      "text": "Standard"
     },
     {
       "id": "D4",
       "number": 4,
+      "direction": "down",
+      "cellIds": [
+        "r1c4",
+        "r2c4",
+        "r3c4",
+        "r4c4",
+        "r5c4",
+        "r6c4",
+        "r7c4",
+        "r8c4",
+        "r9c4"
+      ],
+      "text": "\"is not a function\" lead-in"
+    },
+    {
+      "id": "A5",
+      "number": 5,
+      "direction": "across",
+      "cellIds": [
+        "r1c6",
+        "r1c7",
+        "r1c8",
+        "r1c9"
+      ],
+      "text": "Couch"
+    },
+    {
+      "id": "D5",
+      "number": 5,
+      "direction": "down",
+      "cellIds": [
+        "r1c6",
+        "r2c6",
+        "r3c6",
+        "r4c6",
+        "r5c6",
+        "r6c6",
+        "r7c6",
+        "r8c6",
+        "r9c6"
+      ],
+      "text": "Meaning, formally"
+    },
+    {
+      "id": "D6",
+      "number": 6,
       "direction": "down",
       "cellIds": [
         "r1c7",
@@ -563,44 +604,45 @@
         "r3c7",
         "r4c7"
       ],
-      "text": "Slippery swimmers"
+      "text": "Iridescent gem"
     },
     {
-      "id": "D5",
-      "number": 5,
+      "id": "D7",
+      "number": 7,
       "direction": "down",
       "cellIds": [
         "r1c8",
         "r2c8",
         "r3c8"
       ],
-      "text": "Pedal to floor it"
+      "text": "Like a well-tuned model"
     },
     {
-      "id": "D6",
-      "number": 6,
+      "id": "D8",
+      "number": 8,
       "direction": "down",
       "cellIds": [
         "r1c9",
         "r2c9",
         "r3c9"
       ],
-      "text": "Miner's haul"
+      "text": "Nail, as an interview"
     },
     {
-      "id": "A7",
-      "number": 7,
+      "id": "A9",
+      "number": 9,
       "direction": "across",
       "cellIds": [
         "r2c1",
         "r2c2",
-        "r2c3"
+        "r2c3",
+        "r2c4"
       ],
-      "text": "Owed"
+      "text": "Wrinkle remover"
     },
     {
-      "id": "A8",
-      "number": 8,
+      "id": "A10",
+      "number": 10,
       "direction": "across",
       "cellIds": [
         "r2c6",
@@ -608,113 +650,83 @@
         "r2c8",
         "r2c9"
       ],
-      "text": "Fruit-shaped fruit"
-    },
-    {
-      "id": "D8",
-      "number": 8,
-      "direction": "down",
-      "cellIds": [
-        "r2c6",
-        "r3c6",
-        "r4c6",
-        "r5c6",
-        "r6c6"
-      ],
-      "text": "Copy's partner in crime"
-    },
-    {
-      "id": "A9",
-      "number": 9,
-      "direction": "across",
-      "cellIds": [
-        "r3c1",
-        "r3c2",
-        "r3c3"
-      ],
-      "text": "It's always this, per the ops proverb"
-    },
-    {
-      "id": "A10",
-      "number": 10,
-      "direction": "across",
-      "cellIds": [
-        "r3c5",
-        "r3c6",
-        "r3c7",
-        "r3c8",
-        "r3c9"
-      ],
-      "text": "Boolean's gloomy half"
-    },
-    {
-      "id": "D10",
-      "number": 10,
-      "direction": "down",
-      "cellIds": [
-        "r3c5",
-        "r4c5",
-        "r5c5",
-        "r6c5",
-        "r7c5"
-      ],
-      "text": "Big meal"
+      "text": "Story too big for one sprint"
     },
     {
       "id": "A11",
       "number": 11,
       "direction": "across",
       "cellIds": [
-        "r4c2",
-        "r4c3",
-        "r4c4",
-        "r4c5",
-        "r4c6",
-        "r4c7"
+        "r3c1",
+        "r3c2",
+        "r3c3",
+        "r3c4"
       ],
-      "text": "Test type for breaking points"
+      "text": "Kanban unit"
     },
     {
-      "id": "D12",
+      "id": "A12",
       "number": 12,
-      "direction": "down",
+      "direction": "across",
       "cellIds": [
-        "r4c4",
-        "r5c4",
-        "r6c4",
-        "r7c4",
-        "r8c4"
+        "r3c6",
+        "r3c7",
+        "r3c8",
+        "r3c9"
       ],
-      "text": "___ trip (there and back)"
+      "text": "It often arrives after the check"
     },
     {
       "id": "A13",
       "number": 13,
       "direction": "across",
       "cellIds": [
+        "r4c3",
+        "r4c4",
+        "r4c5",
+        "r4c6",
+        "r4c7"
+      ],
+      "text": "Bare ___ (no VM)"
+    },
+    {
+      "id": "D14",
+      "number": 14,
+      "direction": "down",
+      "cellIds": [
+        "r4c5",
+        "r5c5",
+        "r6c5"
+      ],
+      "text": "April obligation"
+    },
+    {
+      "id": "A15",
+      "number": 15,
+      "direction": "across",
+      "cellIds": [
         "r5c4",
         "r5c5",
         "r5c6"
       ],
-      "text": "Granola grain"
+      "text": "Laptop's loudest component"
     },
     {
-      "id": "A14",
-      "number": 14,
+      "id": "A16",
+      "number": 16,
       "direction": "across",
       "cellIds": [
         "r6c3",
         "r6c4",
         "r6c5",
         "r6c6",
-        "r6c7",
-        "r6c8"
+        "r6c7"
       ],
-      "text": "Where legacy systems belong, jokingly"
+      "text": "Sense number"
     },
     {
-      "id": "D14",
-      "number": 14,
+      "id": "D16",
+      "number": 16,
       "direction": "down",
       "cellIds": [
         "r6c3",
@@ -722,11 +734,11 @@
         "r8c3",
         "r9c3"
       ],
-      "text": "Post, electronic or otherwise"
+      "text": "Half- prefix"
     },
     {
-      "id": "D15",
-      "number": 15,
+      "id": "D17",
+      "number": 17,
       "direction": "down",
       "cellIds": [
         "r6c7",
@@ -734,80 +746,79 @@
         "r8c7",
         "r9c7"
       ],
-      "text": "Test granularity"
+      "text": "Security ___"
     },
     {
-      "id": "D16",
-      "number": 16,
-      "direction": "down",
-      "cellIds": [
-        "r6c8",
-        "r7c8",
-        "r8c8",
-        "r9c8"
-      ],
-      "text": "Dark ___"
-    },
-    {
-      "id": "A17",
-      "number": 17,
+      "id": "A18",
+      "number": 18,
       "direction": "across",
       "cellIds": [
         "r7c1",
         "r7c2",
         "r7c3",
-        "r7c4",
-        "r7c5"
+        "r7c4"
       ],
-      "text": "Desk greenery"
-    },
-    {
-      "id": "D17",
-      "number": 17,
-      "direction": "down",
-      "cellIds": [
-        "r7c1",
-        "r8c1",
-        "r9c1"
-      ],
-      "text": "Con's opposite"
+      "text": "Fair, neutral"
     },
     {
       "id": "D18",
       "number": 18,
       "direction": "down",
       "cellIds": [
+        "r7c1",
+        "r8c1",
+        "r9c1"
+      ],
+      "text": "After Easter, it's a nice surprise"
+    },
+    {
+      "id": "D19",
+      "number": 19,
+      "direction": "down",
+      "cellIds": [
         "r7c2",
         "r8c2",
         "r9c2"
       ],
-      "text": "Moore's, for one"
+      "text": "Like an old-fashioned const"
     },
     {
-      "id": "A19",
-      "number": 19,
+      "id": "A20",
+      "number": 20,
       "direction": "across",
       "cellIds": [
+        "r7c6",
         "r7c7",
         "r7c8",
         "r7c9"
       ],
-      "text": "Silent yes"
+      "text": "Tiniest bit"
     },
     {
-      "id": "D20",
-      "number": 20,
+      "id": "D21",
+      "number": 21,
+      "direction": "down",
+      "cellIds": [
+        "r7c8",
+        "r8c8",
+        "r9c8"
+      ],
+      "text": "Beach souvenir"
+    },
+    {
+      "id": "D22",
+      "number": 22,
       "direction": "down",
       "cellIds": [
         "r7c9",
         "r8c9",
         "r9c9"
       ],
-      "text": "Cozy room"
+      "text": "A Debian utility"
     },
     {
-      "id": "A21",
-      "number": 21,
+      "id": "A23",
+      "number": 23,
       "direction": "across",
       "cellIds": [
         "r8c1",
@@ -815,40 +826,43 @@
         "r8c3",
         "r8c4"
       ],
-      "text": "Disk-redundancy acronym"
-    },
-    {
-      "id": "A22",
-      "number": 22,
-      "direction": "across",
-      "cellIds": [
-        "r8c7",
-        "r8c8",
-        "r8c9"
-      ],
-      "text": "Editor with batteries included, initially"
-    },
-    {
-      "id": "A23",
-      "number": 23,
-      "direction": "across",
-      "cellIds": [
-        "r9c1",
-        "r9c2",
-        "r9c3"
-      ],
-      "text": "Night-shift bird"
+      "text": "Play thing"
     },
     {
       "id": "A24",
       "number": 24,
       "direction": "across",
       "cellIds": [
+        "r8c6",
+        "r8c7",
+        "r8c8",
+        "r8c9"
+      ],
+      "text": "Applause unit"
+    },
+    {
+      "id": "A25",
+      "number": 25,
+      "direction": "across",
+      "cellIds": [
+        "r9c1",
+        "r9c2",
+        "r9c3",
+        "r9c4"
+      ],
+      "text": "This puzzle's structure"
+    },
+    {
+      "id": "A26",
+      "number": 26,
+      "direction": "across",
+      "cellIds": [
+        "r9c6",
         "r9c7",
         "r9c8",
         "r9c9"
       ],
-      "text": "Perfect score"
+      "text": "Dispatched"
     }
   ]
 }
