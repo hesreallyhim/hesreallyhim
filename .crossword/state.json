@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "003",
   "publishedAt": "2026-09-10T17:48:01.790Z",
-  "revision": 15,
+  "revision": 16,
   "revealedCells": {
     "r1c1": "A",
     "r1c2": "R",
@@ -44,7 +44,9 @@
     "r7c2": "L",
     "r7c3": "A",
     "r8c1": "R",
-    "r9c1": "O"
+    "r9c1": "O",
+    "r8c2": "A",
+    "r9c2": "W"
   },
   "moves": [
     {
@@ -208,6 +210,17 @@
       "previousRevision": 14,
       "revision": 15,
       "submittedAt": "2026-09-11T00:12:32Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 67,
+      "clueId": "D18",
+      "guess": "LAW",
+      "previousRevision": 15,
+      "revision": 16,
+      "submittedAt": "2026-09-11T00:58:34Z",
       "attribution": {
         "userId": 172150522
       }
