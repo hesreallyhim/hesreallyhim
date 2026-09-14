@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "004",
   "publishedAt": "2026-09-11T08:10:35.646Z",
-  "revision": 8,
+  "revision": 9,
   "revealedCells": {
     "r1c1": "M",
     "r1c2": "E",
@@ -25,7 +25,9 @@
     "r9c4": "D",
     "r4c5": "T",
     "r4c6": "A",
-    "r4c7": "L"
+    "r4c7": "L",
+    "r5c5": "A",
+    "r6c5": "X"
   },
   "moves": [
     {
@@ -112,6 +114,17 @@
       "previousRevision": 7,
       "revision": 8,
       "submittedAt": "2026-09-14T10:52:51Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 83,
+      "clueId": "D14",
+      "guess": "TAX",
+      "previousRevision": 8,
+      "revision": 9,
+      "submittedAt": "2026-09-14T10:54:46Z",
       "attribution": {
         "userId": 172150522
       }
