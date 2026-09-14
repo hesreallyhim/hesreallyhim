@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "004",
   "publishedAt": "2026-09-11T08:10:35.646Z",
-  "revision": 14,
+  "revision": 15,
   "revealedCells": {
     "r1c1": "M",
     "r1c2": "E",
@@ -42,7 +42,10 @@
     "r8c6": "C",
     "r9c6": "S",
     "r6c3": "S",
-    "r6c7": "H"
+    "r6c7": "H",
+    "r7c7": "O",
+    "r7c8": "T",
+    "r7c9": "A"
   },
   "moves": [
     {
@@ -195,6 +198,17 @@
       "previousRevision": 13,
       "revision": 14,
       "submittedAt": "2026-09-14T12:41:53Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 89,
+      "clueId": "A20",
+      "guess": "IOTA",
+      "previousRevision": 14,
+      "revision": 15,
+      "submittedAt": "2026-09-14T14:33:43Z",
       "attribution": {
         "userId": 172150522
       }
