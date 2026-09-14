@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "004",
   "publishedAt": "2026-09-11T08:10:35.646Z",
-  "revision": 3,
+  "revision": 4,
   "revealedCells": {
     "r1c1": "M",
     "r1c2": "E",
@@ -11,7 +11,9 @@
     "r2c1": "I",
     "r3c1": "C",
     "r2c2": "R",
-    "r3c2": "A"
+    "r3c2": "A",
+    "r2c3": "O",
+    "r2c4": "N"
   },
   "moves": [
     {
@@ -43,6 +45,17 @@
       "previousRevision": 2,
       "revision": 3,
       "submittedAt": "2026-09-12T23:49:47Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 78,
+      "clueId": "A9",
+      "guess": "IRON",
+      "previousRevision": 3,
+      "revision": 4,
+      "submittedAt": "2026-09-14T01:42:38Z",
       "attribution": {
         "userId": 172150522
       }
