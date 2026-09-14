@@ -8,13 +8,13 @@
 Friday, September 11, 2026
 
 <picture>
-  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board/004-21.svg" alt="Crossword board for Puzzle #4" width="480">
+  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board/004-22.svg" alt="Crossword board for Puzzle #4" width="480">
 </picture>
 
 <details>
 <summary>Text version of the board</summary>
 
-<table aria-label="Crossword board for Puzzle #4" data-crossword-grid="004" data-revision="21">
+<table aria-label="Crossword board for Puzzle #4" data-crossword-grid="004" data-revision="22">
   <tbody>
     <tr>
       <td data-cell="r1c1" data-kind="letter" aria-label="cell 1" align="center"><sup>1</sup><br>M</td>
@@ -83,7 +83,7 @@ Friday, September 11, 2026
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
     </tr>
     <tr>
-      <td data-cell="r7c1" data-kind="letter" aria-label="cell 18" align="center"><sup>18</sup><br></td>
+      <td data-cell="r7c1" data-kind="letter" aria-label="cell 18" align="center"><sup>18</sup><br>E</td>
       <td data-cell="r7c2" data-kind="letter" aria-label="cell 19" align="center"><sup>19</sup><br>V</td>
       <td data-cell="r7c3" data-kind="letter" aria-label="letter cell" align="center">E</td>
       <td data-cell="r7c4" data-kind="letter" aria-label="letter cell" align="center">N</td>
@@ -94,7 +94,7 @@ Friday, September 11, 2026
       <td data-cell="r7c9" data-kind="letter" aria-label="cell 22" align="center"><sup>22</sup><br>A</td>
     </tr>
     <tr>
-      <td data-cell="r8c1" data-kind="letter" aria-label="cell 23" align="center"><sup>23</sup><br></td>
+      <td data-cell="r8c1" data-kind="letter" aria-label="cell 23" align="center"><sup>23</sup><br>G</td>
       <td data-cell="r8c2" data-kind="letter" aria-label="letter cell" align="center">A</td>
       <td data-cell="r8c3" data-kind="letter" aria-label="letter cell" align="center">M</td>
       <td data-cell="r8c4" data-kind="letter" aria-label="letter cell" align="center">E</td>
@@ -105,7 +105,7 @@ Friday, September 11, 2026
       <td data-cell="r8c9" data-kind="letter" aria-label="letter cell" align="center">P</td>
     </tr>
     <tr>
-      <td data-cell="r9c1" data-kind="letter" aria-label="cell 25" align="center"><sup>25</sup><br></td>
+      <td data-cell="r9c1" data-kind="letter" aria-label="cell 25" align="center"><sup>25</sup><br>G</td>
       <td data-cell="r9c2" data-kind="letter" aria-label="letter cell" align="center">R</td>
       <td data-cell="r9c3" data-kind="letter" aria-label="letter cell" align="center">I</td>
       <td data-cell="r9c4" data-kind="letter" aria-label="letter cell" align="center">D</td>
@@ -122,5 +122,9 @@ Friday, September 11, 2026
 
 | **Across** | **Down** |
 | --- | --- |
-| ~~1. Hamburger's expansion~~<br>~~5. Couch~~<br>~~9. Wrinkle remover~~<br>~~10. Story too big for one sprint~~<br>~~11. Kanban unit~~<br>~~12. It often arrives after the check~~<br>~~13. Bare \_\_\_ (no VM)~~<br>~~15. Laptop's loudest component~~<br>~~16. Sense number~~<br>[18. Fair, neutral](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A18&title=18+Across+%E2%80%94+Fair%2C+neutral)<br>~~20. Tiniest bit~~<br>[23. Play thing](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A23&title=23+Across+%E2%80%94+Play+thing)<br>~~24. Applause unit~~<br>[25. This puzzle's structure](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A25&title=25+Across+%E2%80%94+This+puzzle%27s+structure)<br>~~26. Dispatched~~ | ~~1. Drop it after a great demo~~<br>~~2. Notable stretch of time~~<br>~~3. Standard~~<br>~~4. "is not a function" lead-in~~<br>~~5. Meaning, formally~~<br>~~6. Iridescent gem~~<br>~~7. Like a well-tuned model~~<br>~~8. Nail, as an interview~~<br>~~14. April obligation~~<br>~~16. Half- prefix~~<br>~~17. Security \_\_\_~~<br>[18. After Easter, it's a nice surprise](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D18&title=18+Down+%E2%80%94+After+Easter%2C+it%27s+a+nice+surprise)<br>~~19. Like an old-fashioned const~~<br>~~21. Beach souvenir~~<br>~~22. A Debian utility~~ |
+| ~~1. Hamburger's expansion~~<br>~~5. Couch~~<br>~~9. Wrinkle remover~~<br>~~10. Story too big for one sprint~~<br>~~11. Kanban unit~~<br>~~12. It often arrives after the check~~<br>~~13. Bare \_\_\_ (no VM)~~<br>~~15. Laptop's loudest component~~<br>~~16. Sense number~~<br>~~18. Fair, neutral~~<br>~~20. Tiniest bit~~<br>~~23. Play thing~~<br>~~24. Applause unit~~<br>~~25. This puzzle's structure~~<br>~~26. Dispatched~~ | ~~1. Drop it after a great demo~~<br>~~2. Notable stretch of time~~<br>~~3. Standard~~<br>~~4. "is not a function" lead-in~~<br>~~5. Meaning, formally~~<br>~~6. Iridescent gem~~<br>~~7. Like a well-tuned model~~<br>~~8. Nail, as an interview~~<br>~~14. April obligation~~<br>~~16. Half- prefix~~<br>~~17. Security \_\_\_~~<br>~~18. After Easter, it's a nice surprise~~<br>~~19. Like an old-fashioned const~~<br>~~21. Beach souvenir~~<br>~~22. A Debian utility~~ |
+
+### Puzzle complete!
+
+Stay tuned for the next edition.
 <!-- crossword:end -->

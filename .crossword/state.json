@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "004",
   "publishedAt": "2026-09-11T08:10:35.646Z",
-  "revision": 21,
+  "revision": 22,
   "revealedCells": {
     "r1c1": "M",
     "r1c2": "E",
@@ -61,7 +61,10 @@
     "r3c9": "E",
     "r7c2": "V",
     "r8c2": "A",
-    "r9c2": "R"
+    "r9c2": "R",
+    "r7c1": "E",
+    "r8c1": "G",
+    "r9c1": "G"
   },
   "moves": [
     {
@@ -291,6 +294,17 @@
       "previousRevision": 20,
       "revision": 21,
       "submittedAt": "2026-09-14T16:05:43Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 96,
+      "clueId": "D18",
+      "guess": "EGG",
+      "previousRevision": 21,
+      "revision": 22,
+      "submittedAt": "2026-09-14T21:38:41Z",
       "attribution": {
         "userId": 172150522
       }
