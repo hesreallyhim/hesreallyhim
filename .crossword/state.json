@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "004",
   "publishedAt": "2026-09-11T08:10:35.646Z",
-  "revision": 9,
+  "revision": 10,
   "revealedCells": {
     "r1c1": "M",
     "r1c2": "E",
@@ -27,7 +27,11 @@
     "r4c6": "A",
     "r4c7": "L",
     "r5c5": "A",
-    "r6c5": "X"
+    "r6c5": "X",
+    "r1c6": "S",
+    "r1c7": "O",
+    "r1c8": "F",
+    "r1c9": "A"
   },
   "moves": [
     {
@@ -125,6 +129,17 @@
       "previousRevision": 8,
       "revision": 9,
       "submittedAt": "2026-09-14T10:54:46Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 84,
+      "clueId": "A5",
+      "guess": "SOFA",
+      "previousRevision": 9,
+      "revision": 10,
+      "submittedAt": "2026-09-14T11:51:59Z",
       "attribution": {
         "userId": 172150522
       }
