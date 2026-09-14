@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "004",
   "publishedAt": "2026-09-11T08:10:35.646Z",
-  "revision": 4,
+  "revision": 5,
   "revealedCells": {
     "r1c1": "M",
     "r1c2": "E",
@@ -13,7 +13,9 @@
     "r2c2": "R",
     "r3c2": "A",
     "r2c3": "O",
-    "r2c4": "N"
+    "r2c4": "N",
+    "r3c3": "R",
+    "r3c4": "D"
   },
   "moves": [
     {
@@ -56,6 +58,17 @@
       "previousRevision": 3,
       "revision": 4,
       "submittedAt": "2026-09-14T01:42:38Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 79,
+      "clueId": "A11",
+      "guess": "CARD",
+      "previousRevision": 4,
+      "revision": 5,
+      "submittedAt": "2026-09-14T01:43:31Z",
       "attribution": {
         "userId": 172150522
       }
