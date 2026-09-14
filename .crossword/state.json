@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "004",
   "publishedAt": "2026-09-11T08:10:35.646Z",
-  "revision": 7,
+  "revision": 8,
   "revealedCells": {
     "r1c1": "M",
     "r1c2": "E",
@@ -22,7 +22,10 @@
     "r6c4": "I",
     "r7c4": "N",
     "r8c4": "E",
-    "r9c4": "D"
+    "r9c4": "D",
+    "r4c5": "T",
+    "r4c6": "A",
+    "r4c7": "L"
   },
   "moves": [
     {
@@ -98,6 +101,17 @@
       "previousRevision": 6,
       "revision": 7,
       "submittedAt": "2026-09-14T04:34:18Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 82,
+      "clueId": "A13",
+      "guess": "METAL",
+      "previousRevision": 7,
+      "revision": 8,
+      "submittedAt": "2026-09-14T10:52:51Z",
       "attribution": {
         "userId": 172150522
       }
