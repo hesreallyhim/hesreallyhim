@@ -2,7 +2,23 @@
   "schemaVersion": 1,
   "puzzleId": "005",
   "publishedAt": "2026-09-23T12:46:05.065Z",
-  "revision": 0,
-  "revealedCells": {},
-  "moves": []
+  "revision": 1,
+  "revealedCells": {
+    "r1c1": "P",
+    "r1c2": "I",
+    "r1c3": "N"
+  },
+  "moves": [
+    {
+      "issueNumber": 97,
+      "clueId": "A1",
+      "guess": "PIN",
+      "previousRevision": 0,
+      "revision": 1,
+      "submittedAt": "2026-09-23T12:49:31Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    }
+  ]
 }
