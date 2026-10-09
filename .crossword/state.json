@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "005",
   "publishedAt": "2026-09-23T12:46:05.065Z",
-  "revision": 13,
+  "revision": 14,
   "revealedCells": {
     "r1c1": "P",
     "r1c2": "I",
@@ -40,7 +40,8 @@
     "r4c5": "I",
     "r4c6": "A",
     "r5c5": "R",
-    "r5c6": "M"
+    "r5c6": "M",
+    "r3c7": "U"
   },
   "moves": [
     {
@@ -182,6 +183,17 @@
       "previousRevision": 12,
       "revision": 13,
       "submittedAt": "2026-09-28T18:54:37Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 110,
+      "clueId": "D4",
+      "guess": "GPU",
+      "previousRevision": 13,
+      "revision": 14,
+      "submittedAt": "2026-10-09T23:48:18Z",
       "attribution": {
         "userId": 172150522
       }
