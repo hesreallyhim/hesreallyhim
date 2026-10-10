@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "005",
   "publishedAt": "2026-09-23T12:46:05.065Z",
-  "revision": 20,
+  "revision": 21,
   "revealedCells": {
     "r1c1": "P",
     "r1c2": "I",
@@ -59,7 +59,10 @@
     "r9c5": "E",
     "r9c6": "E",
     "r10c4": "A",
-    "r10c5": "L"
+    "r10c5": "L",
+    "r4c10": "A",
+    "r5c10": "C",
+    "r6c10": "H"
   },
   "moves": [
     {
@@ -278,6 +281,17 @@
       "previousRevision": 19,
       "revision": 20,
       "submittedAt": "2026-10-09T23:58:27Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 117,
+      "clueId": "D10",
+      "guess": "TEACH",
+      "previousRevision": 20,
+      "revision": 21,
+      "submittedAt": "2026-10-10T08:48:08Z",
       "attribution": {
         "userId": 172150522
       }
