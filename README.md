@@ -8,13 +8,13 @@
 Wednesday, September 23, 2026
 
 <picture>
-  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board/005-26.svg" alt="Crossword board for Puzzle #5" width="480">
+  <img src="https://raw.githubusercontent.com/hesreallyhim/hesreallyhim/refs/heads/main/assets/board/005-27.svg" alt="Crossword board for Puzzle #5" width="480">
 </picture>
 
 <details>
 <summary>Text version of the board</summary>
 
-<table aria-label="Crossword board for Puzzle #5" data-crossword-grid="005" data-revision="26">
+<table aria-label="Crossword board for Puzzle #5" data-crossword-grid="005" data-revision="27">
   <tbody>
     <tr>
       <td data-cell="r1c1" data-kind="letter" aria-label="cell 1" align="center"><sup>1</sup><br>P</td>
@@ -101,7 +101,7 @@ Wednesday, September 23, 2026
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-cell="r7c6" data-kind="letter" aria-label="cell 24" align="center"><sup>24</sup><br>S</td>
-      <td data-cell="r7c7" data-kind="letter" aria-label="letter cell" align="center"></td>
+      <td data-cell="r7c7" data-kind="letter" aria-label="letter cell" align="center">U</td>
       <td data-cell="r7c8" data-kind="letter" aria-label="letter cell" align="center"></td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
@@ -114,7 +114,7 @@ Wednesday, September 23, 2026
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-kind="block" aria-label="block" align="center">&#x2B1B;</td>
       <td data-cell="r8c6" data-kind="letter" aria-label="cell 26" align="center"><sup>26</sup><br>H</td>
-      <td data-cell="r8c7" data-kind="letter" aria-label="letter cell" align="center"></td>
+      <td data-cell="r8c7" data-kind="letter" aria-label="letter cell" align="center">O</td>
       <td data-cell="r8c8" data-kind="letter" aria-label="letter cell" align="center"></td>
       <td data-cell="r8c9" data-kind="letter" aria-label="cell 27" align="center"><sup>27</sup><br></td>
       <td data-cell="r8c10" data-kind="letter" aria-label="cell 28" align="center"><sup>28</sup><br></td>
@@ -166,5 +166,5 @@ Wednesday, September 23, 2026
 
 | **Across** | **Down** |
 | --- | --- |
-| ~~1. Fix a version in place~~<br>~~4. Tool Linus jokingly said he named after himself~~<br>~~7. Editor GitHub retired, or matter's unit~~<br>~~9. Verse writer~~<br>~~11. Undo's undo~~<br>~~12. CI job executor~~<br>~~14. @-query subject in CSS~~<br>~~16. Vote against~~<br>~~17. Chip architecture, or a limb~~<br>~~18. Freeze, as a feature~~<br>~~19. RBAC's R~~<br>~~21. Plate~~<br>~~23. Blend~~<br>[24. Star of our show](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A24&title=24+Across+%E2%80%94+Star+of+our+show)<br>~~25. League climber~~<br>[26. Respect](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A26&title=26+Across+%E2%80%94+Respect)<br>~~29. CS credential~~<br>[32. "Don't be \_\_\_" (old motto)](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A32&title=32+Across+%E2%80%94+%22Don%27t+be+___%22+%28old+motto%29)<br>~~34. Genuine, or a number type~~<br>[35. Home of this very puzzle](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A35&title=35+Across+%E2%80%94+Home+of+this+very+puzzle)<br>~~36. Registry that once broke the internet over left-pad~~<br>[37. Constructor keyword](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A37&title=37+Across+%E2%80%94+Constructor+keyword) | ~~1. Golf standard~~<br>~~2. List entry~~<br>~~3. JavaScript's server-side home~~<br>~~4. Chip that renders dragons and mines coins~~<br>~~5. Charged particle~~<br>~~6. Racket sport~~<br>~~8. Popup you immediately close~~<br>~~10. Instruct~~<br>~~12. Memory that forgets when the power goes~~<br>~~13. Bread grain~~<br>~~15. Anger~~<br>~~19. Delta former~~<br>~~20. Two-atom breath essential~~<br>[21. Pair](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D21&title=21+Down+%E2%80%94+Pair)<br>[22. \_\_\_ join (SQL default)](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D22&title=22+Down+%E2%80%94+___+join+%28SQL+default%29)<br>~~23. Thoroughly mediocre, in slang~~<br>~~24. Pronoun~~<br>[27. Baker's appliance](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D27&title=27+Down+%E2%80%94+Baker%27s+appliance)<br>[28. Ready to pick](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D28&title=28+Down+%E2%80%94+Ready+to+pick)<br>~~30. Rhythmic genre~~<br>~~31. Tree, or a delightfully strict language~~<br>[33. Like good latency](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D33&title=33+Down+%E2%80%94+Like+good+latency) |
+| ~~1. Fix a version in place~~<br>~~4. Tool Linus jokingly said he named after himself~~<br>~~7. Editor GitHub retired, or matter's unit~~<br>~~9. Verse writer~~<br>~~11. Undo's undo~~<br>~~12. CI job executor~~<br>~~14. @-query subject in CSS~~<br>~~16. Vote against~~<br>~~17. Chip architecture, or a limb~~<br>~~18. Freeze, as a feature~~<br>~~19. RBAC's R~~<br>~~21. Plate~~<br>~~23. Blend~~<br>[24. Star of our show](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A24&title=24+Across+%E2%80%94+Star+of+our+show)<br>~~25. League climber~~<br>[26. Respect](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A26&title=26+Across+%E2%80%94+Respect)<br>~~29. CS credential~~<br>[32. "Don't be \_\_\_" (old motto)](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A32&title=32+Across+%E2%80%94+%22Don%27t+be+___%22+%28old+motto%29)<br>~~34. Genuine, or a number type~~<br>[35. Home of this very puzzle](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A35&title=35+Across+%E2%80%94+Home+of+this+very+puzzle)<br>~~36. Registry that once broke the internet over left-pad~~<br>[37. Constructor keyword](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=A37&title=37+Across+%E2%80%94+Constructor+keyword) | ~~1. Golf standard~~<br>~~2. List entry~~<br>~~3. JavaScript's server-side home~~<br>~~4. Chip that renders dragons and mines coins~~<br>~~5. Charged particle~~<br>~~6. Racket sport~~<br>~~8. Popup you immediately close~~<br>~~10. Instruct~~<br>~~12. Memory that forgets when the power goes~~<br>~~13. Bread grain~~<br>~~15. Anger~~<br>~~19. Delta former~~<br>~~20. Two-atom breath essential~~<br>~~21. Pair~~<br>[22. \_\_\_ join (SQL default)](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D22&title=22+Down+%E2%80%94+___+join+%28SQL+default%29)<br>~~23. Thoroughly mediocre, in slang~~<br>~~24. Pronoun~~<br>[27. Baker's appliance](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D27&title=27+Down+%E2%80%94+Baker%27s+appliance)<br>[28. Ready to pick](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D28&title=28+Down+%E2%80%94+Ready+to+pick)<br>~~30. Rhythmic genre~~<br>~~31. Tree, or a delightfully strict language~~<br>[33. Like good latency](https://github.com/hesreallyhim/hesreallyhim/issues/new?template=crossword-guess.yml&clue=D33&title=33+Down+%E2%80%94+Like+good+latency) |
 <!-- crossword:end -->
