@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "005",
   "publishedAt": "2026-09-23T12:46:05.065Z",
-  "revision": 22,
+  "revision": 23,
   "revealedCells": {
     "r1c1": "P",
     "r1c2": "I",
@@ -64,7 +64,9 @@
     "r5c10": "C",
     "r6c10": "H",
     "r11c4": "P",
-    "r11c5": "M"
+    "r11c5": "M",
+    "r7c6": "S",
+    "r8c6": "H"
   },
   "moves": [
     {
@@ -305,6 +307,17 @@
       "previousRevision": 21,
       "revision": 22,
       "submittedAt": "2026-10-10T09:29:55Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 120,
+      "clueId": "D24",
+      "guess": "SHE",
+      "previousRevision": 22,
+      "revision": 23,
+      "submittedAt": "2026-10-12T05:58:40Z",
       "attribution": {
         "userId": 172150522
       }
