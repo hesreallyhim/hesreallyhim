@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "005",
   "publishedAt": "2026-09-23T12:46:05.065Z",
-  "revision": 24,
+  "revision": 25,
   "revealedCells": {
     "r1c1": "P",
     "r1c2": "I",
@@ -67,7 +67,9 @@
     "r11c5": "M",
     "r7c6": "S",
     "r8c6": "H",
-    "r4c11": "Y"
+    "r4c11": "Y",
+    "r6c7": "D",
+    "r6c8": "I"
   },
   "moves": [
     {
@@ -330,6 +332,17 @@
       "previousRevision": 23,
       "revision": 24,
       "submittedAt": "2026-10-12T06:19:32Z",
+      "attribution": {
+        "userId": 288927048
+      }
+    },
+    {
+      "issueNumber": 122,
+      "clueId": "A21",
+      "guess": "DISH",
+      "previousRevision": 24,
+      "revision": 25,
+      "submittedAt": "2026-10-12T06:20:04Z",
       "attribution": {
         "userId": 288927048
       }
