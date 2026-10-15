@@ -2,7 +2,27 @@
   "schemaVersion": 1,
   "puzzleId": "006",
   "publishedAt": "2026-10-15T11:59:55.720Z",
-  "revision": 0,
-  "revealedCells": {},
-  "moves": []
+  "revision": 1,
+  "revealedCells": {
+    "r3c1": "R",
+    "r3c2": "O",
+    "r3c3": "U",
+    "r3c4": "T",
+    "r3c5": "I",
+    "r3c6": "N",
+    "r3c7": "E"
+  },
+  "moves": [
+    {
+      "issueNumber": 135,
+      "clueId": "A11",
+      "guess": "ROUTINE",
+      "previousRevision": 0,
+      "revision": 1,
+      "submittedAt": "2026-10-15T12:03:03Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    }
+  ]
 }
