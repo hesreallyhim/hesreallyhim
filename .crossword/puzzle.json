@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "puzzleId": "005",
-  "title": "Puzzle #5",
+  "puzzleId": "006",
+  "title": "Puzzle #6",
   "blank": "_",
   "dimensions": {
     "rows": 11,
@@ -9,84 +9,85 @@
   },
   "cells": [
     {
-      "id": "r1c1",
       "row": 1,
       "column": 1,
-      "kind": "letter",
-      "number": 1
+      "kind": "block"
     },
     {
-      "id": "r1c2",
       "row": 1,
       "column": 2,
-      "kind": "letter",
-      "number": 2
+      "kind": "block"
     },
     {
       "id": "r1c3",
       "row": 1,
       "column": 3,
       "kind": "letter",
+      "number": 1
+    },
+    {
+      "id": "r1c4",
+      "row": 1,
+      "column": 4,
+      "kind": "letter",
+      "number": 2
+    },
+    {
+      "id": "r1c5",
+      "row": 1,
+      "column": 5,
+      "kind": "letter",
       "number": 3
     },
     {
-      "row": 1,
-      "column": 4,
-      "kind": "block"
-    },
-    {
-      "row": 1,
-      "column": 5,
-      "kind": "block"
-    },
-    {
+      "id": "r1c6",
       "row": 1,
       "column": 6,
-      "kind": "block"
-    },
-    {
-      "id": "r1c7",
-      "row": 1,
-      "column": 7,
       "kind": "letter",
       "number": 4
     },
     {
-      "id": "r1c8",
+      "row": 1,
+      "column": 7,
+      "kind": "block"
+    },
+    {
       "row": 1,
       "column": 8,
-      "kind": "letter",
-      "number": 5
+      "kind": "block"
     },
     {
       "id": "r1c9",
       "row": 1,
       "column": 9,
       "kind": "letter",
+      "number": 5
+    },
+    {
+      "id": "r1c10",
+      "row": 1,
+      "column": 10,
+      "kind": "letter",
       "number": 6
     },
     {
-      "row": 1,
-      "column": 10,
-      "kind": "block"
-    },
-    {
+      "id": "r1c11",
       "row": 1,
       "column": 11,
-      "kind": "block"
-    },
-    {
-      "id": "r2c1",
-      "row": 2,
-      "column": 1,
       "kind": "letter",
       "number": 7
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "kind": "block"
     },
     {
       "id": "r2c2",
       "row": 2,
       "column": 2,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 8
     },
     {
       "id": "r2c3",
@@ -98,18 +99,19 @@
       "id": "r2c4",
       "row": 2,
       "column": 4,
-      "kind": "letter",
-      "number": 8
+      "kind": "letter"
     },
     {
+      "id": "r2c5",
       "row": 2,
       "column": 5,
-      "kind": "block"
+      "kind": "letter"
     },
     {
+      "id": "r2c6",
       "row": 2,
       "column": 6,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r2c7",
@@ -119,28 +121,28 @@
       "number": 9
     },
     {
-      "id": "r2c8",
       "row": 2,
       "column": 8,
-      "kind": "letter"
+      "kind": "block"
     },
     {
       "id": "r2c9",
       "row": 2,
       "column": 9,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 10
     },
     {
       "id": "r2c10",
       "row": 2,
       "column": 10,
-      "kind": "letter",
-      "number": 10
+      "kind": "letter"
     },
     {
+      "id": "r2c11",
       "row": 2,
       "column": 11,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r3c1",
@@ -168,16 +170,16 @@
       "kind": "letter"
     },
     {
+      "id": "r3c5",
       "row": 3,
       "column": 5,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r3c6",
       "row": 3,
       "column": 6,
-      "kind": "letter",
-      "number": 12
+      "kind": "letter"
     },
     {
       "id": "r3c7",
@@ -186,16 +188,16 @@
       "kind": "letter"
     },
     {
-      "id": "r3c8",
       "row": 3,
       "column": 8,
-      "kind": "letter"
+      "kind": "block"
     },
     {
       "id": "r3c9",
       "row": 3,
       "column": 9,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 12
     },
     {
       "id": "r3c10",
@@ -207,20 +209,20 @@
       "id": "r3c11",
       "row": 3,
       "column": 11,
-      "kind": "letter",
-      "number": 13
+      "kind": "letter"
     },
     {
+      "id": "r4c1",
       "row": 4,
       "column": 1,
-      "kind": "block"
+      "kind": "letter",
+      "number": 13
     },
     {
       "id": "r4c2",
       "row": 4,
       "column": 2,
-      "kind": "letter",
-      "number": 14
+      "kind": "letter"
     },
     {
       "id": "r4c3",
@@ -229,40 +231,39 @@
       "kind": "letter"
     },
     {
-      "id": "r4c4",
       "row": 4,
       "column": 4,
-      "kind": "letter"
+      "kind": "block"
     },
     {
-      "id": "r4c5",
       "row": 4,
       "column": 5,
-      "kind": "letter",
-      "number": 15
+      "kind": "block"
     },
     {
-      "id": "r4c6",
       "row": 4,
       "column": 6,
-      "kind": "letter"
+      "kind": "block"
     },
     {
+      "id": "r4c7",
       "row": 4,
       "column": 7,
-      "kind": "block"
+      "kind": "letter",
+      "number": 14
     },
     {
+      "id": "r4c8",
       "row": 4,
       "column": 8,
-      "kind": "block"
+      "kind": "letter",
+      "number": 15
     },
     {
       "id": "r4c9",
       "row": 4,
       "column": 9,
-      "kind": "letter",
-      "number": 16
+      "kind": "letter"
     },
     {
       "id": "r4c10",
@@ -271,73 +272,72 @@
       "kind": "letter"
     },
     {
-      "id": "r4c11",
       "row": 4,
       "column": 11,
-      "kind": "letter"
+      "kind": "block"
     },
     {
+      "id": "r5c1",
       "row": 5,
       "column": 1,
-      "kind": "block"
+      "kind": "letter",
+      "number": 16
     },
     {
+      "id": "r5c2",
       "row": 5,
       "column": 2,
-      "kind": "block"
+      "kind": "letter"
     },
     {
+      "id": "r5c3",
       "row": 5,
       "column": 3,
+      "kind": "letter"
+    },
+    {
+      "row": 5,
+      "column": 4,
       "kind": "block"
     },
     {
-      "id": "r5c4",
-      "row": 5,
-      "column": 4,
-      "kind": "letter",
-      "number": 17
-    },
-    {
-      "id": "r5c5",
       "row": 5,
       "column": 5,
-      "kind": "letter"
+      "kind": "block"
     },
     {
       "id": "r5c6",
       "row": 5,
       "column": 6,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 17
     },
     {
+      "id": "r5c7",
       "row": 5,
       "column": 7,
-      "kind": "block"
+      "kind": "letter"
     },
     {
+      "id": "r5c8",
       "row": 5,
       "column": 8,
+      "kind": "letter"
+    },
+    {
+      "row": 5,
+      "column": 9,
       "kind": "block"
     },
     {
-      "id": "r5c9",
-      "row": 5,
-      "column": 9,
-      "kind": "letter",
-      "number": 18
-    },
-    {
-      "id": "r5c10",
       "row": 5,
       "column": 10,
-      "kind": "letter"
+      "kind": "block"
     },
     {
-      "id": "r5c11",
       "row": 5,
       "column": 11,
-      "kind": "letter"
+      "kind": "block"
     },
     {
       "row": 6,
@@ -345,61 +345,56 @@
       "kind": "block"
     },
     {
-      "id": "r6c2",
       "row": 6,
       "column": 2,
-      "kind": "letter",
-      "number": 19
+      "kind": "block"
     },
     {
-      "id": "r6c3",
       "row": 6,
       "column": 3,
-      "kind": "letter",
-      "number": 20
+      "kind": "block"
     },
     {
       "id": "r6c4",
       "row": 6,
       "column": 4,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 18
     },
     {
       "id": "r6c5",
       "row": 6,
       "column": 5,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 19
     },
     {
+      "id": "r6c6",
       "row": 6,
       "column": 6,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r6c7",
       "row": 6,
       "column": 7,
-      "kind": "letter",
-      "number": 21
+      "kind": "letter"
     },
     {
       "id": "r6c8",
       "row": 6,
       "column": 8,
-      "kind": "letter",
-      "number": 22
+      "kind": "letter"
     },
     {
-      "id": "r6c9",
       "row": 6,
       "column": 9,
-      "kind": "letter"
+      "kind": "block"
     },
     {
-      "id": "r6c10",
       "row": 6,
       "column": 10,
-      "kind": "letter"
+      "kind": "block"
     },
     {
       "row": 6,
@@ -407,141 +402,141 @@
       "kind": "block"
     },
     {
-      "id": "r7c1",
       "row": 7,
       "column": 1,
-      "kind": "letter",
-      "number": 23
+      "kind": "block"
     },
     {
-      "id": "r7c2",
       "row": 7,
       "column": 2,
-      "kind": "letter"
+      "kind": "block"
     },
     {
-      "id": "r7c3",
       "row": 7,
       "column": 3,
-      "kind": "letter"
+      "kind": "block"
     },
     {
+      "id": "r7c4",
       "row": 7,
       "column": 4,
-      "kind": "block"
+      "kind": "letter",
+      "number": 20
     },
     {
+      "id": "r7c5",
       "row": 7,
       "column": 5,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r7c6",
       "row": 7,
       "column": 6,
-      "kind": "letter",
-      "number": 24
+      "kind": "letter"
     },
     {
-      "id": "r7c7",
       "row": 7,
       "column": 7,
-      "kind": "letter"
+      "kind": "block"
     },
     {
-      "id": "r7c8",
       "row": 7,
       "column": 8,
-      "kind": "letter"
+      "kind": "block"
     },
     {
+      "id": "r7c9",
       "row": 7,
       "column": 9,
-      "kind": "block"
+      "kind": "letter",
+      "number": 21
     },
     {
+      "id": "r7c10",
       "row": 7,
       "column": 10,
-      "kind": "block"
+      "kind": "letter",
+      "number": 22
     },
     {
+      "id": "r7c11",
       "row": 7,
       "column": 11,
-      "kind": "block"
+      "kind": "letter",
+      "number": 23
     },
     {
-      "id": "r8c1",
       "row": 8,
       "column": 1,
-      "kind": "letter",
-      "number": 25
+      "kind": "block"
     },
     {
       "id": "r8c2",
       "row": 8,
       "column": 2,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 24
     },
     {
       "id": "r8c3",
       "row": 8,
       "column": 3,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 25
     },
     {
+      "id": "r8c4",
       "row": 8,
       "column": 4,
-      "kind": "block"
+      "kind": "letter"
     },
     {
+      "id": "r8c5",
       "row": 8,
       "column": 5,
+      "kind": "letter"
+    },
+    {
+      "row": 8,
+      "column": 6,
       "kind": "block"
     },
     {
-      "id": "r8c6",
-      "row": 8,
-      "column": 6,
-      "kind": "letter",
-      "number": 26
-    },
-    {
-      "id": "r8c7",
       "row": 8,
       "column": 7,
-      "kind": "letter"
+      "kind": "block"
     },
     {
-      "id": "r8c8",
       "row": 8,
       "column": 8,
-      "kind": "letter"
+      "kind": "block"
     },
     {
       "id": "r8c9",
       "row": 8,
       "column": 9,
       "kind": "letter",
-      "number": 27
+      "number": 26
     },
     {
       "id": "r8c10",
       "row": 8,
       "column": 10,
-      "kind": "letter",
-      "number": 28
+      "kind": "letter"
     },
     {
+      "id": "r8c11",
       "row": 8,
       "column": 11,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r9c1",
       "row": 9,
       "column": 1,
       "kind": "letter",
-      "number": 29
+      "number": 27
     },
     {
       "id": "r9c2",
@@ -556,36 +551,37 @@
       "kind": "letter"
     },
     {
-      "id": "r9c4",
       "row": 9,
       "column": 4,
-      "kind": "letter",
-      "number": 30
+      "kind": "block"
     },
     {
       "id": "r9c5",
       "row": 9,
       "column": 5,
       "kind": "letter",
-      "number": 31
+      "number": 28
     },
     {
       "id": "r9c6",
       "row": 9,
       "column": 6,
-      "kind": "letter"
+      "kind": "letter",
+      "number": 29
     },
     {
+      "id": "r9c7",
       "row": 9,
       "column": 7,
-      "kind": "block"
+      "kind": "letter",
+      "number": 30
     },
     {
       "id": "r9c8",
       "row": 9,
       "column": 8,
       "kind": "letter",
-      "number": 32
+      "number": 31
     },
     {
       "id": "r9c9",
@@ -603,20 +599,20 @@
       "id": "r9c11",
       "row": 9,
       "column": 11,
-      "kind": "letter",
-      "number": 33
+      "kind": "letter"
     },
     {
+      "id": "r10c1",
       "row": 10,
       "column": 1,
-      "kind": "block"
+      "kind": "letter",
+      "number": 32
     },
     {
       "id": "r10c2",
       "row": 10,
       "column": 2,
-      "kind": "letter",
-      "number": 34
+      "kind": "letter"
     },
     {
       "id": "r10c3",
@@ -625,33 +621,34 @@
       "kind": "letter"
     },
     {
-      "id": "r10c4",
       "row": 10,
       "column": 4,
-      "kind": "letter"
+      "kind": "block"
     },
     {
       "id": "r10c5",
       "row": 10,
       "column": 5,
+      "kind": "letter",
+      "number": 33
+    },
+    {
+      "id": "r10c6",
+      "row": 10,
+      "column": 6,
       "kind": "letter"
     },
     {
-      "row": 10,
-      "column": 6,
-      "kind": "block"
-    },
-    {
+      "id": "r10c7",
       "row": 10,
       "column": 7,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r10c8",
       "row": 10,
       "column": 8,
-      "kind": "letter",
-      "number": 35
+      "kind": "letter"
     },
     {
       "id": "r10c9",
@@ -666,73 +663,73 @@
       "kind": "letter"
     },
     {
-      "id": "r10c11",
       "row": 10,
       "column": 11,
-      "kind": "letter"
+      "kind": "block"
     },
     {
+      "id": "r11c1",
       "row": 11,
       "column": 1,
-      "kind": "block"
+      "kind": "letter",
+      "number": 34
     },
     {
+      "id": "r11c2",
       "row": 11,
       "column": 2,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r11c3",
       "row": 11,
       "column": 3,
-      "kind": "letter",
-      "number": 36
+      "kind": "letter"
     },
     {
-      "id": "r11c4",
       "row": 11,
       "column": 4,
-      "kind": "letter"
+      "kind": "block"
     },
     {
-      "id": "r11c5",
       "row": 11,
       "column": 5,
+      "kind": "block"
+    },
+    {
+      "id": "r11c6",
+      "row": 11,
+      "column": 6,
+      "kind": "letter",
+      "number": 35
+    },
+    {
+      "id": "r11c7",
+      "row": 11,
+      "column": 7,
       "kind": "letter"
     },
     {
-      "row": 11,
-      "column": 6,
-      "kind": "block"
-    },
-    {
-      "row": 11,
-      "column": 7,
-      "kind": "block"
-    },
-    {
+      "id": "r11c8",
       "row": 11,
       "column": 8,
-      "kind": "block"
+      "kind": "letter"
     },
     {
       "id": "r11c9",
       "row": 11,
       "column": 9,
-      "kind": "letter",
-      "number": 37
+      "kind": "letter"
     },
     {
-      "id": "r11c10",
       "row": 11,
       "column": 10,
-      "kind": "letter"
+      "kind": "block"
     },
     {
-      "id": "r11c11",
       "row": 11,
       "column": 11,
-      "kind": "letter"
+      "kind": "block"
     }
   ],
   "clues": [
@@ -741,143 +738,154 @@
       "number": 1,
       "direction": "across",
       "cellIds": [
-        "r1c1",
-        "r1c2",
-        "r1c3"
+        "r1c3",
+        "r1c4",
+        "r1c5",
+        "r1c6"
       ],
-      "text": "Fix a version in place"
+      "text": "Latte topper"
     },
     {
       "id": "D1",
       "number": 1,
       "direction": "down",
       "cellIds": [
-        "r1c1",
-        "r2c1",
-        "r3c1"
+        "r1c3",
+        "r2c3",
+        "r3c3",
+        "r4c3",
+        "r5c3"
       ],
-      "text": "Golf standard"
+      "text": "404's opposite state"
     },
     {
       "id": "D2",
       "number": 2,
       "direction": "down",
       "cellIds": [
-        "r1c2",
-        "r2c2",
-        "r3c2",
-        "r4c2"
+        "r1c4",
+        "r2c4",
+        "r3c4"
       ],
-      "text": "List entry"
+      "text": "Choose, with in or out"
     },
     {
       "id": "D3",
       "number": 3,
       "direction": "down",
       "cellIds": [
-        "r1c3",
-        "r2c3",
-        "r3c3",
-        "r4c3"
+        "r1c5",
+        "r2c5",
+        "r3c5"
       ],
-      "text": "JavaScript's server-side home"
-    },
-    {
-      "id": "A4",
-      "number": 4,
-      "direction": "across",
-      "cellIds": [
-        "r1c7",
-        "r1c8",
-        "r1c9"
-      ],
-      "text": "Tool Linus jokingly said he named after himself"
+      "text": "Contract between services, initially"
     },
     {
       "id": "D4",
       "number": 4,
       "direction": "down",
       "cellIds": [
-        "r1c7",
-        "r2c7",
-        "r3c7"
+        "r1c6",
+        "r2c6",
+        "r3c6"
       ],
-      "text": "Chip that renders dragons and mines coins"
+      "text": "Guys"
+    },
+    {
+      "id": "A5",
+      "number": 5,
+      "direction": "across",
+      "cellIds": [
+        "r1c9",
+        "r1c10",
+        "r1c11"
+      ],
+      "text": "Pub pour"
     },
     {
       "id": "D5",
       "number": 5,
       "direction": "down",
       "cellIds": [
-        "r1c8",
-        "r2c8",
-        "r3c8"
+        "r1c9",
+        "r2c9",
+        "r3c9",
+        "r4c9"
       ],
-      "text": "Charged particle"
+      "text": "Poker starter"
     },
     {
       "id": "D6",
       "number": 6,
       "direction": "down",
       "cellIds": [
-        "r1c9",
-        "r2c9",
-        "r3c9",
-        "r4c9",
-        "r5c9",
-        "r6c9"
+        "r1c10",
+        "r2c10",
+        "r3c10",
+        "r4c10"
       ],
-      "text": "Racket sport"
+      "text": "For or while construct"
     },
     {
-      "id": "A7",
+      "id": "D7",
       "number": 7,
+      "direction": "down",
+      "cellIds": [
+        "r1c11",
+        "r2c11",
+        "r3c11"
+      ],
+      "text": "Female sheep"
+    },
+    {
+      "id": "A8",
+      "number": 8,
       "direction": "across",
       "cellIds": [
-        "r2c1",
         "r2c2",
         "r2c3",
-        "r2c4"
+        "r2c4",
+        "r2c5",
+        "r2c6",
+        "r2c7"
       ],
-      "text": "Editor GitHub retired, or matter's unit"
+      "text": "Penny metal"
     },
     {
       "id": "D8",
       "number": 8,
       "direction": "down",
       "cellIds": [
-        "r2c4",
-        "r3c4",
-        "r4c4",
-        "r5c4",
-        "r6c4"
+        "r2c2",
+        "r3c2",
+        "r4c2",
+        "r5c2"
       ],
-      "text": "Popup you immediately close"
+      "text": "Ice cream holder"
     },
     {
-      "id": "A9",
+      "id": "D9",
       "number": 9,
-      "direction": "across",
-      "cellIds": [
-        "r2c7",
-        "r2c8",
-        "r2c9",
-        "r2c10"
-      ],
-      "text": "Verse writer"
-    },
-    {
-      "id": "D10",
-      "number": 10,
       "direction": "down",
       "cellIds": [
-        "r2c10",
-        "r3c10",
-        "r4c10",
-        "r5c10",
-        "r6c10"
+        "r2c7",
+        "r3c7",
+        "r4c7",
+        "r5c7",
+        "r6c7"
       ],
-      "text": "Instruct"
+      "text": "Now you have two problems"
+    },
+    {
+      "id": "A10",
+      "number": 10,
+      "direction": "across",
+      "cellIds": [
+        "r2c9",
+        "r2c10",
+        "r2c11"
+      ],
+      "text": "Deploy window for the brave"
     },
     {
       "id": "A11",
@@ -887,374 +895,361 @@
         "r3c1",
         "r3c2",
         "r3c3",
-        "r3c4"
+        "r3c4",
+        "r3c5",
+        "r3c6",
+        "r3c7"
       ],
-      "text": "Undo's undo"
+      "text": "Sub___ (called code)"
+    },
+    {
+      "id": "D11",
+      "number": 11,
+      "direction": "down",
+      "cellIds": [
+        "r3c1",
+        "r4c1",
+        "r5c1"
+      ],
+      "text": "Gentle tease"
     },
     {
       "id": "A12",
       "number": 12,
       "direction": "across",
       "cellIds": [
-        "r3c6",
-        "r3c7",
-        "r3c8",
         "r3c9",
         "r3c10",
         "r3c11"
       ],
-      "text": "CI job executor"
+      "text": "Stubbing victim"
     },
     {
-      "id": "D12",
-      "number": 12,
-      "direction": "down",
-      "cellIds": [
-        "r3c6",
-        "r4c6",
-        "r5c6"
-      ],
-      "text": "Memory that forgets when the power goes"
-    },
-    {
-      "id": "D13",
+      "id": "A13",
       "number": 13,
-      "direction": "down",
+      "direction": "across",
       "cellIds": [
-        "r3c11",
-        "r4c11",
-        "r5c11"
+        "r4c1",
+        "r4c2",
+        "r4c3"
       ],
-      "text": "Bread grain"
+      "text": "Roadside lodging"
     },
     {
       "id": "A14",
       "number": 14,
       "direction": "across",
       "cellIds": [
-        "r4c2",
-        "r4c3",
-        "r4c4",
-        "r4c5",
-        "r4c6"
+        "r4c7",
+        "r4c8",
+        "r4c9",
+        "r4c10"
       ],
-      "text": "@-query subject in CSS"
+      "text": "Find needles in haystacks, Unix-style"
     },
     {
       "id": "D15",
       "number": 15,
       "direction": "down",
       "cellIds": [
-        "r4c5",
-        "r5c5",
-        "r6c5"
+        "r4c8",
+        "r5c8",
+        "r6c8"
       ],
-      "text": "Anger"
+      "text": "Beam of light"
     },
     {
       "id": "A16",
       "number": 16,
       "direction": "across",
       "cellIds": [
-        "r4c9",
-        "r4c10",
-        "r4c11"
+        "r5c1",
+        "r5c2",
+        "r5c3"
       ],
-      "text": "Vote against"
+      "text": "Garden plot, or sleep spot"
     },
     {
       "id": "A17",
       "number": 17,
       "direction": "across",
       "cellIds": [
-        "r5c4",
-        "r5c5",
-        "r5c6"
+        "r5c6",
+        "r5c7",
+        "r5c8"
       ],
-      "text": "Chip architecture, or a limb"
+      "text": "Ocean expanse"
+    },
+    {
+      "id": "D17",
+      "number": 17,
+      "direction": "down",
+      "cellIds": [
+        "r5c6",
+        "r6c6",
+        "r7c6"
+      ],
+      "text": "Weep loudly"
     },
     {
       "id": "A18",
       "number": 18,
       "direction": "across",
       "cellIds": [
-        "r5c9",
-        "r5c10",
-        "r5c11"
+        "r6c4",
+        "r6c5",
+        "r6c6",
+        "r6c7",
+        "r6c8"
       ],
-      "text": "Freeze, as a feature"
+      "text": "Middleman server"
     },
     {
-      "id": "A19",
-      "number": 19,
-      "direction": "across",
+      "id": "D18",
+      "number": 18,
+      "direction": "down",
       "cellIds": [
-        "r6c2",
-        "r6c3",
         "r6c4",
-        "r6c5"
+        "r7c4",
+        "r8c4"
       ],
-      "text": "RBAC's R"
+      "text": "Format for documents that must not reflow"
     },
     {
       "id": "D19",
       "number": 19,
       "direction": "down",
       "cellIds": [
-        "r6c2",
-        "r7c2",
-        "r8c2",
-        "r9c2",
-        "r10c2"
+        "r6c5",
+        "r7c5",
+        "r8c5",
+        "r9c5",
+        "r10c5"
       ],
-      "text": "Delta former"
+      "text": "Proportion"
     },
     {
-      "id": "D20",
+      "id": "A20",
       "number": 20,
-      "direction": "down",
+      "direction": "across",
       "cellIds": [
-        "r6c3",
-        "r7c3",
-        "r8c3",
-        "r9c3",
-        "r10c3",
-        "r11c3"
+        "r7c4",
+        "r7c5",
+        "r7c6"
       ],
-      "text": "Two-atom breath essential"
+      "text": "Small amount"
     },
     {
       "id": "A21",
       "number": 21,
       "direction": "across",
       "cellIds": [
-        "r6c7",
-        "r6c8",
-        "r6c9",
-        "r6c10"
+        "r7c9",
+        "r7c10",
+        "r7c11"
       ],
-      "text": "Plate"
+      "text": "Scalable image format"
     },
     {
       "id": "D21",
       "number": 21,
       "direction": "down",
       "cellIds": [
-        "r6c7",
-        "r7c7",
-        "r8c7"
+        "r7c9",
+        "r8c9",
+        "r9c9",
+        "r10c9",
+        "r11c9"
       ],
-      "text": "Pair"
+      "text": "Pre-production environment"
     },
     {
       "id": "D22",
       "number": 22,
       "direction": "down",
       "cellIds": [
-        "r6c8",
-        "r7c8",
-        "r8c8",
-        "r9c8",
-        "r10c8"
+        "r7c10",
+        "r8c10",
+        "r9c10",
+        "r10c10"
       ],
-      "text": "___ join (SQL default)"
-    },
-    {
-      "id": "A23",
-      "number": 23,
-      "direction": "across",
-      "cellIds": [
-        "r7c1",
-        "r7c2",
-        "r7c3"
-      ],
-      "text": "Blend"
+      "text": "Repulsive"
     },
     {
       "id": "D23",
       "number": 23,
       "direction": "down",
       "cellIds": [
-        "r7c1",
-        "r8c1",
-        "r9c1"
+        "r7c11",
+        "r8c11",
+        "r9c11"
       ],
-      "text": "Thoroughly mediocre, in slang"
+      "text": "Hair goo, or come together"
     },
     {
       "id": "A24",
       "number": 24,
       "direction": "across",
       "cellIds": [
-        "r7c6",
-        "r7c7",
-        "r7c8"
+        "r8c2",
+        "r8c3",
+        "r8c4",
+        "r8c5"
       ],
-      "text": "Star of our show"
+      "text": "Consensus algorithm, or river ride"
     },
     {
       "id": "D24",
       "number": 24,
       "direction": "down",
       "cellIds": [
-        "r7c6",
-        "r8c6",
-        "r9c6"
+        "r8c2",
+        "r9c2",
+        "r10c2",
+        "r11c2"
       ],
-      "text": "Pronoun"
+      "text": "Like reproducible heisenbugs"
     },
     {
-      "id": "A25",
+      "id": "D25",
       "number": 25,
-      "direction": "across",
+      "direction": "down",
       "cellIds": [
-        "r8c1",
-        "r8c2",
-        "r8c3"
+        "r8c3",
+        "r9c3",
+        "r10c3",
+        "r11c3"
       ],
-      "text": "League climber"
+      "text": "Capable"
     },
     {
       "id": "A26",
       "number": 26,
       "direction": "across",
       "cellIds": [
-        "r8c6",
-        "r8c7",
-        "r8c8",
         "r8c9",
-        "r8c10"
+        "r8c10",
+        "r8c11"
       ],
-      "text": "Respect"
+      "text": "Draw, or neckwear"
+    },
+    {
+      "id": "A27",
+      "number": 27,
+      "direction": "across",
+      "cellIds": [
+        "r9c1",
+        "r9c2",
+        "r9c3"
+      ],
+      "text": "Space's rival in a holy war"
     },
     {
       "id": "D27",
       "number": 27,
       "direction": "down",
       "cellIds": [
-        "r8c9",
-        "r9c9",
-        "r10c9",
-        "r11c9"
+        "r9c1",
+        "r10c1",
+        "r11c1"
       ],
-      "text": "Baker's appliance"
+      "text": "Bath holder"
     },
     {
-      "id": "D28",
+      "id": "A28",
       "number": 28,
-      "direction": "down",
-      "cellIds": [
-        "r8c10",
-        "r9c10",
-        "r10c10",
-        "r11c10"
-      ],
-      "text": "Ready to pick"
-    },
-    {
-      "id": "A29",
-      "number": 29,
       "direction": "across",
       "cellIds": [
-        "r9c1",
-        "r9c2",
-        "r9c3",
-        "r9c4",
         "r9c5",
-        "r9c6"
+        "r9c6",
+        "r9c7",
+        "r9c8",
+        "r9c9",
+        "r9c10",
+        "r9c11"
       ],
-      "text": "CS credential"
+      "text": "npm's busiest verb"
+    },
+    {
+      "id": "D29",
+      "number": 29,
+      "direction": "down",
+      "cellIds": [
+        "r9c6",
+        "r10c6",
+        "r11c6"
+      ],
+      "text": "Bolt's partner"
     },
     {
       "id": "D30",
       "number": 30,
       "direction": "down",
       "cellIds": [
-        "r9c4",
-        "r10c4",
-        "r11c4"
+        "r9c7",
+        "r10c7",
+        "r11c7"
       ],
-      "text": "Rhythmic genre"
+      "text": "Pig's place"
     },
     {
       "id": "D31",
       "number": 31,
       "direction": "down",
       "cellIds": [
-        "r9c5",
-        "r10c5",
-        "r11c5"
+        "r9c8",
+        "r10c8",
+        "r11c8"
       ],
-      "text": "Tree, or a delightfully strict language"
+      "text": "Light touch on a screen"
     },
     {
       "id": "A32",
       "number": 32,
       "direction": "across",
       "cellIds": [
-        "r9c8",
-        "r9c9",
-        "r9c10",
-        "r9c11"
+        "r10c1",
+        "r10c2",
+        "r10c3"
       ],
-      "text": "\"Don't be ___\" (old motto)"
+      "text": "Address that isn't postal"
     },
     {
-      "id": "D33",
+      "id": "A33",
       "number": 33,
-      "direction": "down",
+      "direction": "across",
       "cellIds": [
-        "r9c11",
-        "r10c11",
-        "r11c11"
+        "r10c5",
+        "r10c6",
+        "r10c7",
+        "r10c8",
+        "r10c9",
+        "r10c10"
       ],
-      "text": "Like good latency"
+      "text": "Status page's bad day"
     },
     {
       "id": "A34",
       "number": 34,
       "direction": "across",
       "cellIds": [
-        "r10c2",
-        "r10c3",
-        "r10c4",
-        "r10c5"
+        "r11c1",
+        "r11c2",
+        "r11c3"
       ],
-      "text": "Genuine, or a number type"
+      "text": "Spelling contest"
     },
     {
       "id": "A35",
       "number": 35,
       "direction": "across",
       "cellIds": [
-        "r10c8",
-        "r10c9",
-        "r10c10",
-        "r10c11"
+        "r11c6",
+        "r11c7",
+        "r11c8",
+        "r11c9"
       ],
-      "text": "Home of this very puzzle"
-    },
-    {
-      "id": "A36",
-      "number": 36,
-      "direction": "across",
-      "cellIds": [
-        "r11c3",
-        "r11c4",
-        "r11c5"
-      ],
-      "text": "Registry that once broke the internet over left-pad"
-    },
-    {
-      "id": "A37",
-      "number": 37,
-      "direction": "across",
-      "cellIds": [
-        "r11c9",
-        "r11c10",
-        "r11c11"
-      ],
-      "text": "Constructor keyword"
+      "text": "What TypeScript adds"
     }
   ]
 }
