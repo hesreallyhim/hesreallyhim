@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "006",
   "publishedAt": "2026-10-15T11:59:55.720Z",
-  "revision": 2,
+  "revision": 3,
   "revealedCells": {
     "r3c1": "R",
     "r3c2": "O",
@@ -14,7 +14,10 @@
     "r1c3": "F",
     "r2c3": "O",
     "r4c3": "N",
-    "r5c3": "D"
+    "r5c3": "D",
+    "r2c2": "C",
+    "r4c2": "N",
+    "r5c2": "E"
   },
   "moves": [
     {
@@ -35,6 +38,17 @@
       "previousRevision": 1,
       "revision": 2,
       "submittedAt": "2026-10-17T11:02:27Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 137,
+      "clueId": "D8",
+      "guess": "CONE",
+      "previousRevision": 2,
+      "revision": 3,
+      "submittedAt": "2026-10-19T11:33:55Z",
       "attribution": {
         "userId": 172150522
       }
