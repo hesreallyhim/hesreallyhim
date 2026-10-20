@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "006",
   "publishedAt": "2026-10-15T11:59:55.720Z",
-  "revision": 3,
+  "revision": 4,
   "revealedCells": {
     "r3c1": "R",
     "r3c2": "O",
@@ -17,7 +17,11 @@
     "r5c3": "D",
     "r2c2": "C",
     "r4c2": "N",
-    "r5c2": "E"
+    "r5c2": "E",
+    "r2c4": "P",
+    "r2c5": "P",
+    "r2c6": "E",
+    "r2c7": "R"
   },
   "moves": [
     {
@@ -49,6 +53,17 @@
       "previousRevision": 2,
       "revision": 3,
       "submittedAt": "2026-10-19T11:33:55Z",
+      "attribution": {
+        "userId": 172150522
+      }
+    },
+    {
+      "issueNumber": 138,
+      "clueId": "A8",
+      "guess": "COPPER",
+      "previousRevision": 3,
+      "revision": 4,
+      "submittedAt": "2026-10-20T10:58:55Z",
       "attribution": {
         "userId": 172150522
       }
