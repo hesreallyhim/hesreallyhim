@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "puzzleId": "006",
   "publishedAt": "2026-10-15T11:59:55.720Z",
-  "revision": 11,
+  "revision": 12,
   "revealedCells": {
     "r3c1": "R",
     "r3c2": "O",
@@ -42,7 +42,10 @@
     "r11c7": "Y",
     "r9c8": "T",
     "r10c8": "A",
-    "r11c8": "P"
+    "r11c8": "P",
+    "r7c9": "S",
+    "r7c10": "V",
+    "r7c11": "G"
   },
   "moves": [
     {
@@ -162,6 +165,17 @@
       "previousRevision": 10,
       "revision": 11,
       "submittedAt": "2026-11-05T05:23:06Z",
+      "attribution": {
+        "userId": 228627791
+      }
+    },
+    {
+      "issueNumber": 148,
+      "clueId": "A21",
+      "guess": "SVG",
+      "previousRevision": 11,
+      "revision": 12,
+      "submittedAt": "2026-11-05T05:24:06Z",
       "attribution": {
         "userId": 228627791
       }
